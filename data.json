@@ -1,0 +1,44 @@
+[
+	{
+		"id": "block",
+		"name": "Header",
+		"entries": [
+			{
+				"name": "Example Entry 1",
+				"ingredients": "Zutaten, Zutaten und Zutaten",
+				"price": "1,23€"
+			},
+			{
+				"name": "Example Entry 2",
+				"ingredients": "Zutaten, Zutaten und Zutaten",
+				"price": "4,56€"
+			},
+			{
+				"name": "Example Entry 3",
+				"ingredients": "Zutaten, Zutaten und Zutaten",
+				"price": "7,89€"
+			}
+		]
+	},
+	{
+		"id": "block2",
+		"name": "Header",
+		"entries": [
+			{
+				"name": "Example Entry 1",
+				"ingredients": "Zutaten, Zutaten und Zutaten",
+				"price": "1,23€"
+			},
+			{
+				"name": "Example Entry 2",
+				"ingredients": "Zutaten, Zutaten und Zutaten",
+				"price": "4,56€"
+			},
+			{
+				"name": "Example Entry 3",
+				"ingredients": "Zutaten, Zutaten und Zutaten",
+				"price": "7,89€"
+			}
+		]
+	}
+]
