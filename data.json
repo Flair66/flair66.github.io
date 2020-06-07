@@ -326,22 +326,22 @@
 			},
 			{
 				"name": "Old Fashioned Rum (Zacapa 23J)",
-				"ingredients": "Zacapa 23J, Rum, Zucker Sirup, Angostura Bitter",
+				"ingredients": "Zacapa 23J, Zucker Sirup, Angostura Bitter",
 				"price": "11,10€"
 			},
 			{
 				"name": "Old Fashioned Rum (Havana Club Selección de Maestros)",
-				"ingredients": "Havana Club Selección de Maestros, Rum, Zucker Sirup, Angostura Bitter",
+				"ingredients": "Havana Club Selección de Maestros, Zucker Sirup, Angostura Bitter",
 				"price": "11,60€"
 			},
 			{
 				"name": "Old Fashioned Rum (Botucal 12J)",
-				"ingredients": "Botucal 12J, Rum, Zucker Sirup, Angostura Bitter",
+				"ingredients": "Botucal 12J, Zucker Sirup, Angostura Bitter",
 				"price": "9,30€"
 			},
 			{
 				"name": "Old Fashioned Rum (Matusalem 15J)",
-				"ingredients": "Matusalem 15J, Rum, Zucker Sirup, Angostura Bitter",
+				"ingredients": "Matusalem 15J, Zucker Sirup, Angostura Bitter",
 				"price": "9,10€"
 			}
 		]
