@@ -345,5 +345,200 @@
 				"price": "9,10€"
 			}
 		]
+	},
+	{
+		"id": "gin",
+		"name": "Gin Drinks",
+		"entries": [
+			{
+				"name": "Gin Tonic",
+				"ingredients": "Beefeater Gin, Schweppes Tonic",
+				"price": "6,90€"
+			},
+			{
+				"name": "Gin Gimlet",
+				"ingredients": "Tanqueray Ten Gin, Lime Juice",
+				"price": "7,90€"
+			},
+			{
+				"name": "Gin Fizz",
+				"ingredients": "Beefeater Gin, Sour Mix, Soda",
+				"price": "7,60€"
+			},
+			{
+				"name": "Singapore Sling",
+				"ingredients": "Beefeater Gin, Triple Sec, Dom Bénédictine, Cherry Heering, Angostura, frischer Limettensaft, Grenadine, Ananassaft",
+				"price": "7,80€"
+			},
+			{
+				"name": "Bone Crusher",
+				"ingredients": "Beefeater Gin, Havana Rum 3J, Triple Sec, Sour Mix, Cranberrysaft, Prosecco",
+				"price": "7,70€"
+			},
+			{
+				"name": "Aviation",
+				"ingredients": "Beefeater Gin, Maraschino Likör, frischer Zitronensaft, Zucker Sirup",
+				"price": "7,40€"
+			},
+			{
+				"name": "La Bohemien",
+				"ingredients": "Beefeater Gin, Vermouth Dry, Cranberrysaft",
+				"price": "7,40€"
+			},
+			{
+				"name": "Lady Killer",
+				"ingredients": "Beefeater Gin, Grand Marnier, Apricot Brandy, Maracujasaft, Ananassaft",
+				"price": "7,70€"
+			},
+			{
+				"name": "Jimi Hendrick's",
+				"ingredients": "Hendrick's Gin, Gurke, Minze, frischer Limettensaft, Holunderblütensirup, Ginger Beer",
+				"price": "7,90€"
+			},
+			{
+				"name": "Martini Cocktail",
+				"ingredients": "Tanqueray Ten Gin, Vermouth Dry mit Olive",
+				"price": "7,70€"
+			},
+			{
+				"name": "White Lady",
+				"ingredients": "Bombay Saphire Gin, Grand Marnier, frischer Zitronensaft, Sour Mix",
+				"price": "7,50€"
+			}
+		]
+	},
+	{
+		"id": "tequila",
+		"name": "Tequila Drinks",
+		"entries": [
+			{
+				"name": "Tequila Sunrise",
+				"ingredients": "Tequila, Orangensaft, Grenadine",
+				"price": "6,10€"
+			},
+			{
+				"name": "My Friend",
+				"ingredients": "Tequila, Triple Sec, Midori, Sour Mix, Orangensaft",
+				"price": "7,60€"
+			},
+			{
+				"name": "Margarita",
+				"ingredients": "Tequila, Triple Sec, Limettensaft",
+				"price": "7,70€"
+			},
+			{
+				"name": "Prince",
+				"ingredients": "Tequila, Licor 43, Kokossirup, Sahne, Maracujasaft",
+				"price": "7,70€"
+			},
+			{
+				"name": "Tequila Julep",
+				"ingredients": "Tequila, Apricot Brandy, Minze, Rohrzucker, Soda, Angostura",
+				"price": "7,70€"
+			}
+		]
+	},
+	{
+		"id": "cachaca",
+		"name": "Cachaça Drinks",
+		"entries": [
+			{
+				"name": "Caipiriña",
+				"ingredients": "Limetten, Braunerzucker, Sour Mix, Cachaça",
+				"price": "6,90€"
+			},
+			{
+				"name": "Tropical Caipiriña",
+				"ingredients": "Limetten, Braunerzucker, Ananas, Kiwi, Cachaça",
+				"price": "7,30€"
+			},
+			{
+				"name": "Berrys Caipiriña",
+				"ingredients": "Limetten, Braunerzucker, Erdbeerpüree, frische Himbeeren, frische Heidelbeeren, frische Brombeeren, Cachaça",
+				"price": "7,50€"
+			},
+			{
+				"name": "Archangel",
+				"ingredients": "Cachaça, Peach Liqueur, Ananassaft, Erdbeerpüree",
+				"price": "7,60€"
+			}
+		]
+	},
+	{
+		"id": "whiskey",
+		"name": "Whiskey Drinks",
+		"entries": [
+			{
+				"name": "Whiskey Cola",
+				"ingredients": "Jack Daniel's Whiskey, Cola",
+				"price": "6,10€"
+			},
+			{
+				"name": "Whiskey Sour",
+				"ingredients": "Jack Daniel's Whiskey, Sour Mix",
+				"price": "6,30€"
+			},
+			{
+				"name": "Scarlett O'Hara",
+				"ingredients": "Southern Comfort, frischer Limettensaft, Cranberrysaft",
+				"price": "7,60€"
+			},
+			{
+				"name": "John Collins",
+				"ingredients": "Jack Daniel's Whiskey, Sour Mix, Soda",
+				"price": "7,60€"
+			},
+			{
+				"name": "Black Jack",
+				"ingredients": "Jack Daniel's Whiskey, Sour Mix, Southern Comfort, Sour Mix, Cola",
+				"price": "7,70€"
+			},
+			{
+				"name": "Lynchburg Lemonade",
+				"ingredients": "Jack Daniel's Whiskey, Sour Mix, Triple Sec, Sour Mix, Bitter Lemon",
+				"price": "7,80€"
+			},
+			{
+				"name": "Frozen Slammer",
+				"ingredients": "Southern Comfort, Amaretto, Erdbeerpüree",
+				"price": "7,70€"
+			},
+			{
+				"name": "Manhatten",
+				"ingredients": "Canadian Whisky, Vermouth Rosso",
+				"price": "7,80€"
+			},
+			{
+				"name": "Old Fashioned Whiskey (Jack Daniel's Tennessee Old No. 7)",
+				"ingredients": "Jack Daniel's Tennessee Old No. 7, Zucker Sirup, Angostura Bitter",
+				"price": "8,90€"
+			},
+			{
+				"name": "Old Fashioned Whiskey (Makers Mark)",
+				"ingredients": "Makers Mark, Zucker Sirup, Angostura Bitter",
+				"price": "9,30€"
+			},
+			{
+				"name": "Old Fashioned Whiskey (Bulleit Rye)",
+				"ingredients": "Bulleit Rye, Zucker Sirup, Angostura Bitter",
+				"price": "9,10€"
+			},
+			{
+				"name": "Old Fashioned Whiskey (Four Roses Bourbon)",
+				"ingredients": "Four Roses Bourbon, Zucker Sirup, Angostura Bitter",
+				"price": "8,90€"
+			}
+		]
+	},
+	{
+		"id": "",
+		"name": "",
+		"entries": [
+			{
+				"name": "",
+				"ingredients": "",
+				"price": "0€"
+			}
+		]
 	}
 ]
