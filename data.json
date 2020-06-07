@@ -373,6 +373,82 @@
 		]
 	},
 	{
+		"id": "tonic",
+		"name": "Gin Tonic",
+		"entries": [
+			{
+				"name": "Monkey 47 5cl",
+				"ingredients": "Schwarzwald - Deutschland - 47% VOL",
+				"price": "7,10€"
+			},
+			{
+				"name": "Hendrick's 5cl",
+				"ingredients": "Schottland - 44% VOL",
+				"price": "6,40€"
+			},
+			{
+				"name": "Tanqueray 10 5cl",
+				"ingredients": "London - Großbritannien - 47,3% VOL",
+				"price": "6,10€"
+			},
+			{
+				"name": "Windspiel 5cl",
+				"ingredients": "Premium Dry Gin - Deutschland - 47% VOL",
+				"price": "7,40€"
+			},
+			{
+				"name": "Gin Mare 5cl",
+				"ingredients": "Guadalajara - Spanien - 42,7% VOL",
+				"price": "6,90€"
+			},
+			{
+				"name": "Nordes 5cl",
+				"ingredients": "Galicien - Spanien - 40% VOL",
+				"price": "6,20€"
+			},
+			{
+				"name": "Bombay Sapphire 5cl",
+				"ingredients": "London - Großbritannien - 40% VOL",
+				"price": "5,40€"
+			},
+			{
+				"name": "Martin Miller's 5cl",
+				"ingredients": "Dry Gin - London - Großbritannien - 40% VOL",
+				"price": "5,10€"
+			},
+			{
+				"name": "Beefeater24 5cl",
+				"ingredients": "London - Großbritannien - 45% VOL",
+				"price": "5,10€"
+			},
+			{
+				"name": "G-Vine Floraison 5cl",
+				"ingredients": "Cognac - Frankreich - 40% VOL",
+				"price": "6,10€"
+			},
+			{
+				"name": "Fever-Tree Mediterranean",
+				"ingredients": "",
+				"price": "3,80€"
+			},
+			{
+				"name": "Thomas Henry",
+				"ingredients": "",
+				"price": "2,90€"
+			},
+			{
+				"name": "Schweppes",
+				"ingredients": "",
+				"price": "2,70€"
+			},
+			{
+				"name": "Fentimans",
+				"ingredients": "",
+				"price": "3,80€"
+			}
+		]
+	},
+	{
 		"id": "gin",
 		"name": "Gin Drinks",
 		"entries": [
