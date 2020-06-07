@@ -11,6 +11,7 @@
 			{
 				"name": "Screwdriver",
 				"ingredients": "Smirnoff Vodka, Orangensaft",
+				"hh": "4,50€",
 				"price": "6,10€"
 			},
 			{
@@ -21,6 +22,7 @@
 			{
 				"name": "Vodka Sour",
 				"ingredients": "Smirnoff Vodka, Sour Mix",
+				"hh": "4,60€",
 				"price": "6,30€"
 			},
 			{
@@ -41,6 +43,7 @@
 			{
 				"name": "Caipiroka",
 				"ingredients": "Limetten, Braunerzucker, Mangopüree, Smirnoff Vodka",
+				"hh": "5,20€",
 				"price": "7,10€"
 			},
 			{
@@ -56,11 +59,13 @@
 			{
 				"name": "Sex in Gerlingen",
 				"ingredients": "Smirnoff Vodka, Midori, Chambord, Orangensaft, Ananassaft",
+				"hh": "5,50€",
 				"price": "7,60€"
 			},
 			{
 				"name": "Sex on the Beach",
 				"ingredients": "Smirnoff Vodka, Peach Likör, Cranberrysaft, Orangensaft",
+				"hh": "5,50€",
 				"price": "7,60€"
 			},
 			{
@@ -76,6 +81,7 @@
 			{
 				"name": "Sex in the City",
 				"ingredients": "Absolut Kurant Vodka, Lychee Likör, frischer Limettensaft, Cranberrysaft",
+				"hh": "5,50€",
 				"price": "7,60€"
 			},
 			{
@@ -86,6 +92,7 @@
 			{
 				"name": "Bon Bon",
 				"ingredients": "Smirnoff Vodka, Erdbeerpüree, Sahne",
+				"hh": "5,50€",
 				"price": "7,40€"
 			},
 			{
@@ -96,6 +103,7 @@
 			{
 				"name": "Peartini",
 				"ingredients": "Absolut Pear Vodka, Peach Likör, Ananassaft, Lime Juice",
+				"hh": "5,50€",
 				"price": "7,60€"
 			},
 			{
@@ -116,21 +124,25 @@
 			{
 				"name": "Raspberry Martini",
 				"ingredients": "Absolut Raspberry Vodka, Chambord, Himbeerpüre, Sour Mix",
+				"hh": "5,50€",
 				"price": "7,40€"
 			},
 			{
 				"name": "Cosmopolitan",
 				"ingredients": "Smirnoff Vodka, Triple Sec, frischer Limettensaft, Cranberrysaft",
+				"hh": "5,50€",
 				"price": "7,40€"
 			},
 			{
 				"name": "Mangopolitan",
 				"ingredients": "Smirnoff Vodka, Triple Sec, frischer Limettensaft, Mangopüree",
+				"hh": "5,50€",
 				"price": "7,40€"
 			},
 			{
 				"name": "Absolut Spiced Pears",
 				"ingredients": "Absolut Pears Vodka, Orangensaft, Zitronensaft, Vanillesirup",
+				"hh": "5,50€",
 				"price": "7,40€"
 			},
 			{
@@ -146,6 +158,7 @@
 			{
 				"name": "Multiply Orgasm",
 				"ingredients": "Smirnoff Vodka, Creme de Cacao, Amaretto di Saronno, Triple Sec, Sahne",
+				"hh": "5,50€",
 				"price": "7,50€"
 			},
 			{
@@ -156,16 +169,19 @@
 			{
 				"name": "Touch Down",
 				"ingredients": "Smirnoff Vodka, Apricot Brandy, Sour Mix, Lime Juice, Grenadine, Maracujasaft",
+				"hh": "5,60€",
 				"price": "7,80€"
 			},
 			{
 				"name": "Ibiza",
 				"ingredients": "Smirnoff Vodka, Peach Likör, frischer Limettensaft, Orangensaft, Cranberrysaft, Sour Mix",
+				"hh": "5,60€",
 				"price": "7,80€"
 			},
 			{
 				"name": "Passion",
 				"ingredients": "Smirnoff Vodka, Passoa, frischer Limettensaft, Cranberrysaft, Maracujasaft",
+				"hh": "5,50€",
 				"price": "7,70€"
 			},
 			{
@@ -182,6 +198,7 @@
 			{
 				"name": "Cuba Libre",
 				"ingredients": "Havana Club 3J, Limetten, Cola",
+				"hh": "4,50€",
 				"price": "6,10€"
 			},
 			{
@@ -192,21 +209,25 @@
 			{
 				"name": "Caipirissima",
 				"ingredients": "Limetten, Braunerzucker, Havana Club 3J",
+				"hh": "5,20€",
 				"price": "7,10€"
 			},
 			{
 				"name": "Mojito",
 				"ingredients": "Limetten, Braunerzucker, Pfefferminzblätter, Havana Club 3J, Soda",
+				"hh": "5,20€",
 				"price": "7,20€"
 			},
 			{
 				"name": "Himbeeren Mojito",
 				"ingredients": "Limetten, Braunerzucker, Himbeerpüree, Pfefferminzblätter, Havana Club 3J, Soda",
+				"hh": "5,50€",
 				"price": "7,30€"
 			},
 			{
 				"name": "Mango Mojito",
 				"ingredients": "Limetten, Braunerzucker, Himbeerpüree, Pfefferminzblätter, Havana Club 3J, Soda",
+				"hh": "5,50€",
 				"price": "7,30€"
 			},
 			{
@@ -267,6 +288,7 @@
 			{
 				"name": "Dorian Gray",
 				"ingredients": "Havana Club 3J, Grand Marnier, Orangensaft, Cranberrysaft",
+				"hh": "5,50€",
 				"price": "7,60€"
 			},
 			{
@@ -277,6 +299,7 @@
 			{
 				"name": "Bahamas",
 				"ingredients": "Havana Club 3J, Creme de Banana, Malibú, Ananassaft, Orangensaft",
+				"hh": "5,50€",
 				"price": "7,40€"
 			},
 			{
@@ -287,11 +310,13 @@
 			{
 				"name": "Atlantic Cooler",
 				"ingredients": "Havana Club 3J, Midori, Malibú, Ananassaft",
+				"hh": "5,50€",
 				"price": "7,40€"
 			},
 			{
 				"name": "Daiquiri",
 				"ingredients": "Havana Club Añejo Especial, Limettensaft, Sour Mix",
+				"hh": "5,50€",
 				"price": "7,50€"
 			},
 			{
@@ -302,6 +327,7 @@
 			{
 				"name": "Gigolo",
 				"ingredients": "Havana Club 3J, Limoncello, Aperol, Limejuice",
+				"hh": "5,50€",
 				"price": "7,50€"
 			},
 			{
@@ -363,6 +389,7 @@
 			{
 				"name": "Gin Fizz",
 				"ingredients": "Beefeater Gin, Sour Mix, Soda",
+				"hh": "5,50€",
 				"price": "7,60€"
 			},
 			{
@@ -373,6 +400,7 @@
 			{
 				"name": "Bone Crusher",
 				"ingredients": "Beefeater Gin, Havana Rum 3J, Triple Sec, Sour Mix, Cranberrysaft, Prosecco",
+				"hh": "5,50€",
 				"price": "7,70€"
 			},
 			{
@@ -383,11 +411,13 @@
 			{
 				"name": "La Bohemien",
 				"ingredients": "Beefeater Gin, Vermouth Dry, Cranberrysaft",
+				"hh": "5,50€",
 				"price": "7,40€"
 			},
 			{
 				"name": "Lady Killer",
 				"ingredients": "Beefeater Gin, Grand Marnier, Apricot Brandy, Maracujasaft, Ananassaft",
+				"hh": "5,50€",
 				"price": "7,70€"
 			},
 			{
@@ -414,6 +444,7 @@
 			{
 				"name": "Tequila Sunrise",
 				"ingredients": "Tequila, Orangensaft, Grenadine",
+				"hh": "4,50€",
 				"price": "6,10€"
 			},
 			{
@@ -429,6 +460,7 @@
 			{
 				"name": "Prince",
 				"ingredients": "Tequila, Licor 43, Kokossirup, Sahne, Maracujasaft",
+				"hh": "5,50€",
 				"price": "7,70€"
 			},
 			{
@@ -445,6 +477,7 @@
 			{
 				"name": "Caipiriña",
 				"ingredients": "Limetten, Braunerzucker, Sour Mix, Cachaça",
+				"hh": "5,20€",
 				"price": "6,90€"
 			},
 			{
@@ -460,6 +493,7 @@
 			{
 				"name": "Archangel",
 				"ingredients": "Cachaça, Peach Liqueur, Ananassaft, Erdbeerpüree",
+				"hh": "5,50€",
 				"price": "7,60€"
 			}
 		]
@@ -471,11 +505,13 @@
 			{
 				"name": "Whiskey Cola",
 				"ingredients": "Jack Daniel's Whiskey, Cola",
+				"hh": "4,50€",
 				"price": "6,10€"
 			},
 			{
 				"name": "Whiskey Sour",
 				"ingredients": "Jack Daniel's Whiskey, Sour Mix",
+				"hh": "4,60€",
 				"price": "6,30€"
 			},
 			{
@@ -496,6 +532,7 @@
 			{
 				"name": "Lynchburg Lemonade",
 				"ingredients": "Jack Daniel's Whiskey, Sour Mix, Triple Sec, Sour Mix, Bitter Lemon",
+				"hh": "5,50€",
 				"price": "7,80€"
 			},
 			{
@@ -542,6 +579,7 @@
 			{
 				"name": "Purple Nipple",
 				"ingredients": "Jägermeister, Midori, Cranberry, Orangensaft",
+				"hh": "5,50€",
 				"price": "7,40€"
 			},
 			{
@@ -562,6 +600,7 @@
 			{
 				"name": "June Bug",
 				"ingredients": "Midori, Creme de Banana, Malibú, Sour Mix, Ananassaft",
+				"hh": "5,60€",
 				"price": "7,40€"
 			},
 			{
@@ -592,16 +631,19 @@
 			{
 				"name": "Long Island Ice Tea",
 				"ingredients": "Smirnoff Vodka, Havana Club 3J, Beefeater Gin, Triple Sec, Sour Mix, Cola",
+				"hh": "5,50€",
 				"price": "7,80€"
 			},
 			{
 				"name": "Long Beach Ice Tea",
 				"ingredients": "Smirnoff Vodka, Havana Club 3J, Beefeater Gin, Triple Sec, Sour Mix, Cranberrysaft",
+				"hh": "5,50€",
 				"price": "7,80€"
 			},
 			{
 				"name": "English Ice Tea",
 				"ingredients": "Smirnoff Vodka, Havana Club 3J, Beefeater Gin, Tequila, Triple Sec, Sour Mix, Cola",
+				"hh": "5,60€",
 				"price": "7,90€"
 			},
 			{
@@ -618,11 +660,13 @@
 			{
 				"name": "Aperol Spritz",
 				"ingredients": "Prosecco, Aperol, Soda",
+				"hh": "4,20€",
 				"price": "5,20€"
 			},
 			{
 				"name": "Aperol Sour",
 				"ingredients": "Aperol, Sour Mix",
+				"hh": "4,80€",
 				"price": "6,30€"
 			},
 			{
@@ -633,11 +677,13 @@
 			{
 				"name": "Campari Spritz",
 				"ingredients": "Prosecco, Campari, Soda",
+				"hh": "4,20€",
 				"price": "5,20€"
 			},
 			{
 				"name": "Americano",
 				"ingredients": "Campari, Martini Rosso, Soda",
+				"hh": "4,40€",
 				"price": "5,80€"
 			},
 			{
@@ -653,16 +699,19 @@
 			{
 				"name": "Ramazzotti Rosato Mio",
 				"ingredients": "Ramazzotti Aperitivo Rosato, Prosecco, Minzblätter",
+				"hh": "4,20€",
 				"price": "5,20€"
 			},
 			{
 				"name": "Ramazzotti Rosato Duo",
 				"ingredients": "Ramazzotti Aperitivo Rosato, Schweppes Tonic, Limette",
+				"hh": "4,20€",
 				"price": "5,20€"
 			},
 			{
 				"name": "Lillet Vive",
 				"ingredients": "Lillet Blanc, Schweppes Tonic, Gurkenscheibe",
+				"hh": "4,20€",
 				"price": "5,20€"
 			},
 			{
@@ -694,6 +743,7 @@
 			{
 				"name": "Chi Chi",
 				"ingredients": "Smirnoff Vodka, Peach Liqueur, Cranberrysaft",
+				"hh": "3,90€",
 				"price": "4,80€"
 			},
 			{
@@ -724,11 +774,13 @@
 			{
 				"name": "Green Kamikaze",
 				"ingredients": "Smirnoff Vodka, Midori, frischer Limettensaft",
+				"hh": "3,90€",
 				"price": "4,80€"
 			},
 			{
 				"name": "Blue Kamikaze",
 				"ingredients": "Smirnoff Vodka, Blue Curaçao, frischer Limettensaft",
+				"hh": "3,90€",
 				"price": "4,80€"
 			}
 		]
@@ -745,16 +797,19 @@
 			{
 				"name": "Crasy Beach",
 				"ingredients": "Ananassaft, Orangensaft, Kokossirup, Erdbeerpüree",
+				"hh": "4,50€",
 				"price": "6,30€"
 			},
 			{
 				"name": "Tropical Breeze",
 				"ingredients": "Maracujasaft, Ananassaft, Orangensaft, Erdbeerpüree",
+				"hh": "4,50€",
 				"price": "6,30€"
 			},
 			{
 				"name": "Ipanema",
 				"ingredients": "Limetten, Braunerzucker, Maracujasaft",
+				"hh": "4,60€",
 				"price": "6,40€"
 			},
 			{
@@ -770,6 +825,7 @@
 			{
 				"name": "Virgin Ibiza",
 				"ingredients": "Frische Limetten, Orangen, Zucker, Maracujasaft, Cranberrysaft",
+				"hh": "4,90€",
 				"price": "6,90€"
 			},
 			{
@@ -780,6 +836,7 @@
 			{
 				"name": "Virgin Colada",
 				"ingredients": "Ananassaft, Kokossirup, Sahne",
+				"hh": "4,50€",
 				"price": "6,50€"
 			},
 			{
