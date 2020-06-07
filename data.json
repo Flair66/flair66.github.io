@@ -612,6 +612,88 @@
 		]
 	},
 	{
+		"id": "aperitifs",
+		"name": "Aperitifs",
+		"entries": [
+			{
+				"name": "Aperol Spritz",
+				"ingredients": "Prosecco, Aperol, Soda",
+				"price": "5,20€"
+			},
+			{
+				"name": "Aperol Sour",
+				"ingredients": "Aperol, Sour Mix",
+				"price": "6,30€"
+			},
+			{
+				"name": "Contessa Negroni",
+				"ingredients": "Martini Rosso, Aperol, Beefeater Gin",
+				"price": "5,80€"
+			},
+			{
+				"name": "Campari Spritz",
+				"ingredients": "Prosecco, Campari, Soda",
+				"price": "5,20€"
+			},
+			{
+				"name": "Americano",
+				"ingredients": "Campari, Martini Rosso, Soda",
+				"price": "5,80€"
+			},
+			{
+				"name": "Sbagliato",
+				"ingredients": "Campari, Martini Rosso, Prosecco",
+				"price": "5,90€"
+			},
+			{
+				"name": "Negroni",
+				"ingredients": "Campari, Martini Rosso, Beefeater Gin",
+				"price": "6,10€"
+			},
+			{
+				"name": "Ramazzotti Rosato Mio",
+				"ingredients": "Ramazzotti Aperitivo Rosato, Prosecco, Minzblätter",
+				"price": "5,20€"
+			},
+			{
+				"name": "Ramazzotti Rosato Duo",
+				"ingredients": "Ramazzotti Aperitivo Rosato, Schweppes Tonic, Limette",
+				"price": "5,20€"
+			},
+			{
+				"name": "Lillet Vive",
+				"ingredients": "Lillet Blanc, Schweppes Tonic, Gurkenscheibe",
+				"price": "5,20€"
+			},
+			{
+				"name": "Lillet Culetto",
+				"ingredients": "Lillet Blanc, Sauvignon Blanc, Soda, Gurkenscheide",
+				"price": "5,90€"
+			},
+			{
+				"name": "Campari Tocco Rosso",
+				"ingredients": "Campari, Holunderblütensirup, Prosecco, frische Minze",
+				"price": "5,40€"
+			},
+			{
+				"name": "Hugo",
+				"ingredients": "Prosecco, Holundersirup, Limejuice, Pfefferminzblätter, Mineralwasser",
+				"price": "5,40€"
+			}
+		]
+	},
+	{
+		"id": "",
+		"name": "",
+		"entries": [
+			{
+				"name": "",
+				"ingredients": "",
+				"price": "0€"
+			}
+		]
+	},
+	{
 		"id": "",
 		"name": "",
 		"entries": [
