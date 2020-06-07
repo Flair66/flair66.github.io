@@ -683,35 +683,215 @@
 		]
 	},
 	{
-		"id": "",
-		"name": "",
+		"id": "shooters",
+		"name": "Shooters",
 		"entries": [
 			{
-				"name": "",
-				"ingredients": "",
+				"name": "Melonball",
+				"ingredients": "Smirnoff Vodka, Midori, Orangensaft",
+				"price": "4.80€"
+			},
+			{
+				"name": "Chi Chi",
+				"ingredients": "Smirnoff Vodka, Peach Liqueur, Cranberrysaft",
+				"price": "4,80€"
+			},
+			{
+				"name": "Pearl Harbor",
+				"ingredients": "Smirnoff Vodka, Midori, Ananassaft",
+				"price": "4,80€"
+			},
+			{
+				"name": "B 52",
+				"ingredients": "Kahlua, Baileys, Grand Marnier",
+				"price": "4,80€"
+			},
+			{
+				"name": "B 53",
+				"ingredients": "Kahlua, Sambuca, Grand Marnier",
+				"price": "4,80€"
+			},
+			{
+				"name": "Blow Job",
+				"ingredients": "Kahlua, Baileys, Sahne",
+				"price": "4,80€"
+			},
+			{
+				"name": "F 16",
+				"ingredients": "Kahlua, Baileys, Rum",
 				"price": "0€"
+			},
+			{
+				"name": "Green Kamikaze",
+				"ingredients": "Smirnoff Vodka, Midori, frischer Limettensaft",
+				"price": "4,80€"
+			},
+			{
+				"name": "Blue Kamikaze",
+				"ingredients": "Smirnoff Vodka, Blue Curaçao, frischer Limettensaft",
+				"price": "4,80€"
 			}
 		]
 	},
 	{
-		"id": "",
-		"name": "",
+		"id": "nonalk",
+		"name": "Non Alkoholic Drinks",
 		"entries": [
 			{
-				"name": "",
-				"ingredients": "",
-				"price": "0€"
+				"name": "Tonic Orange",
+				"ingredients": "Sour Mix, Orangensaft, Tonic Wasser",
+				"price": "6,20€"
+			},
+			{
+				"name": "Crasy Beach",
+				"ingredients": "Ananassaft, Orangensaft, Kokossirup, Erdbeerpüree",
+				"price": "6,30€"
+			},
+			{
+				"name": "Tropical Breeze",
+				"ingredients": "Maracujasaft, Ananassaft, Orangensaft, Erdbeerpüree",
+				"price": "6,30€"
+			},
+			{
+				"name": "Ipanema",
+				"ingredients": "Limetten, Braunerzucker, Maracujasaft",
+				"price": "6,40€"
+			},
+			{
+				"name": "Berrys Ipanema",
+				"ingredients": "Limetten, Braunerzucker, Beeren, Maracujasaft",
+				"price": "6,90€"
+			},
+			{
+				"name": "Virgin Breeze",
+				"ingredients": "Frische Orange, Zucker, Mangopüree, Orangensagt, Cranberrysaft",
+				"price": "6,90€"
+			},
+			{
+				"name": "Virgin Ibiza",
+				"ingredients": "Frische Limetten, Orangen, Zucker, Maracujasaft, Cranberrysaft",
+				"price": "6,90€"
+			},
+			{
+				"name": "Spirit in the Night",
+				"ingredients": "Erdbeerpüree, Mangopüree, Sour Mix, Ananassaft, Orangensaft, Maracujasaft",
+				"price": "6,80€"
+			},
+			{
+				"name": "Virgin Colada",
+				"ingredients": "Ananassaft, Kokossirup, Sahne",
+				"price": "6,50€"
+			},
+			{
+				"name": "Strawberry Virgin",
+				"ingredients": "Erdbeerpüree, Ananassaft, Kokossirup, Sahne",
+				"price": "6,70€"
+			},
+			{
+				"name": "Lang Tang",
+				"ingredients": "Frische Orangen, frische Passionsfrucht, Zucker, frischer Zitronensaft, Maracujasaft, Sour Mix",
+				"price": "7,90€"
 			}
 		]
 	},
 	{
-		"id": "",
-		"name": "",
+		"id": "food",
+		"name": "Finger Food",
 		"entries": [
 			{
-				"name": "",
-				"ingredients": "",
-				"price": "0€"
+				"name": "Piadine Classica",
+				"ingredients": "Parma-Schinken, frisch Käse",
+				"price": "4,50€"
+			},
+			{
+				"name": "Piadine Toscana",
+				"ingredients": "Soppressa, Frischkäse, Grana Käse, Pilze",
+				"price": "4,80€"
+			},
+			{
+				"name": "Piadine Principe",
+				"ingredients": "Parma-Schinken, Käse, Getrocknete Tomaten, Oregano",
+				"price": "4,90€"
+			},
+			{
+				"name": "Piadine Saporita",
+				"ingredients": "vier Käsesorten, Paprika",
+				"price": "4,60€"
+			},
+			{
+				"name": "Piadine Speciale",
+				"ingredients": "Südtiroler Speck, Kräuterfrischkäse, Käse, Pilze, Kümmel",
+				"price": "4,90€"
+			},
+			{
+				"name": "Toast Roma",
+				"ingredients": "Parma-Schinken, Smelzkäsescheiben, Artischocken",
+				"price": "4,30€"
+			},
+			{
+				"name": "Toast Alpha",
+				"ingredients": "Soppressa, Schmelzkäsescheiben, Getrocknete Tomaten",
+				"price": "4,30€"
+			},
+			{
+				"name": "Toast Vega",
+				"ingredients": "Schmelzkäsescheiben, Paprika, Getrokenete Tomaten, Artischocken, Pilze",
+				"price": "4,30€"
+			},
+			{
+				"name": "Toast Salato",
+				"ingredients": "Schmelzkäsescheiben, Südtiroler Spek, Grana Käse",
+				"price": "4,30€"
+			},
+			{
+				"name": "Crostini Acapulco",
+				"ingredients": "Kräuferfrischkäse, Käse, Parma-Schinken",
+				"price": "3,50€"
+			},
+			{
+				"name": "Crostini Capri",
+				"ingredients": "Artischocken, Käse, Soppressa",
+				"price": "3,40€"
+			},
+			{
+				"name": "Crostini Tarragona",
+				"ingredients": "Paprika, Käse, Spianata",
+				"price": "3,40€"
+			},
+			{
+				"name": "Crostini Elegante",
+				"ingredients": "Vier Käsesorten, Balsamico-Creme",
+				"price": "3,40€"
+			},
+			{
+				"name": "Crostini Boscaiolo",
+				"ingredients": "Pilze, Käse, Parma-Schinken",
+				"price": "3,60€"
+			},
+			{
+				"name": "Crostini Friendly",
+				"ingredients": "Getrocknete Tomaten, Käse, Soppressa",
+				"price": "3,40€"
+			},
+			{
+				"name": "Bruschette Tirolese",
+				"ingredients": "Südtiroler Speck, Käse, Kümmel",
+				"price": "5,50€"
+			},
+			{
+				"name": "Bruschette Deliziosa",
+				"ingredients": "Spianata, Paprika, Käse",
+				"price": "5,70€"
+			},
+			{
+				"name": "Bruschette Autunnale",
+				"ingredients": "Soppressa, Pilze, Käse",
+				"price": "5,60€"
+			},
+			{
+				"name": "Bruschette Audace",
+				"ingredients": "Südtiroler Speck, Käse, Pilze",
+				"price": "5,60€"
 			}
 		]
 	}
