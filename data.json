@@ -531,6 +531,98 @@
 		]
 	},
 	{
+		"id": "more",
+		"name": "More Drinks",
+		"entries": [
+			{
+				"name": "Sex with the Alligator",
+				"ingredients": "Jägermeister, Chambord, Midori, Ananassaft, Sour Mix",
+				"price": "7,50€"
+			},
+			{
+				"name": "Purple Nipple",
+				"ingredients": "Jägermeister, Midori, Cranberry, Orangensaft",
+				"price": "7,40€"
+			},
+			{
+				"name": "Chicken Drop",
+				"ingredients": "Jägermeister, Peach Liqueur, Orangensaft",
+				"price": "7,40€"
+			},
+			{
+				"name": "Caipiri43",
+				"ingredients": "Limetten, Braunerzucker, Likör 43",
+				"price": "6,90€"
+			},
+			{
+				"name": "Sex at my House",
+				"ingredients": "Amaretto, Chambord, Ananassaft",
+				"price": "7,40€"
+			},
+			{
+				"name": "June Bug",
+				"ingredients": "Midori, Creme de Banana, Malibú, Sour Mix, Ananassaft",
+				"price": "7,40€"
+			},
+			{
+				"name": "Italian Dream",
+				"ingredients": "Baileys, Amaretto, Sahne",
+				"price": "7,50€"
+			},
+			{
+				"name": "Sidecar",
+				"ingredients": "Cognac, Triple Sec, frischer Zitronensaft",
+				"price": "7,40€"
+			},
+			{
+				"name": "Alexander",
+				"ingredients": "Brandy, Braune Creme de Cacao, Sahne",
+				"price": "7,40€"
+			},
+			{
+				"name": "Grasshopper",
+				"ingredients": "Weisse Creme de Cacao, Grüne Creme de Menthe, Sahne",
+				"price": "7,40€"
+			},
+			{
+				"name": "Banana Boat",
+				"ingredients": "Malibú, Creme de Banana, Ananassaft",
+				"price": "7,40€"
+			},
+			{
+				"name": "Long Island Ice Tea",
+				"ingredients": "Smirnoff Vodka, Havana Club 3J, Beefeater Gin, Triple Sec, Sour Mix, Cola",
+				"price": "7,80€"
+			},
+			{
+				"name": "Long Beach Ice Tea",
+				"ingredients": "Smirnoff Vodka, Havana Club 3J, Beefeater Gin, Triple Sec, Sour Mix, Cranberrysaft",
+				"price": "7,80€"
+			},
+			{
+				"name": "English Ice Tea",
+				"ingredients": "Smirnoff Vodka, Havana Club 3J, Beefeater Gin, Tequila, Triple Sec, Sour Mix, Cola",
+				"price": "7,90€"
+			},
+			{
+				"name": "Tokyo Island",
+				"ingredients": "Smirnoff Vodka, Beefeater Gin, Tequila, Triple Sec, Lychee Likör, Schweppes Tonic",
+				"price": "7,90€"
+			}
+		]
+	},
+	{
+		"id": "",
+		"name": "",
+		"entries": [
+			{
+				"name": "",
+				"ingredients": "",
+				"price": "0€"
+			}
+		]
+	},
+	{
 		"id": "",
 		"name": "",
 		"entries": [
