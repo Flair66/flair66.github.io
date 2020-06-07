@@ -894,5 +894,56 @@
 				"price": "5,60€"
 			}
 		]
+	},
+	{
+		"id": "antipasti",
+		"name": "Antipasti",
+		"entries": [
+			{
+				"name": "Gemischter Aufschnitteller (incl. Brot)",
+				"ingredients": "Prosciutto crudo, Soppressa, Spianata",
+				"price": "10,90€ / 19,90€"
+			},
+			{
+				"name": "Gemischter Käseteller (incl. Brot)",
+				"ingredients": "Montasio DOP, Asiago DOP, Grana Padano DOP, Pecorino Romano",
+				"price": "10,90€ / 19,90€"
+			},
+			{
+				"name": "Gemischter Aufschnit-Käseteller (incl. Brot)",
+				"ingredients": "Prosciutto crudo, Soppressa, Spianata, Montasio DOP, Asiago DOP, Grana Padano DOP, Pecorino Romano",
+				"price": "14,90€ / 28,90€"
+			},
+			{
+				"name": "Fantasia Teller (incl. Brot)",
+				"ingredients": "Grissini mit Parma-Schinken, Südtiroler Speck, Soppressa, Spianata, Südtiroler Kaminwurzen, Montasio Käse, Asiago Käse, Grana Käse, Oliven, Mix Beilage",
+				"price": "29,90€"
+			},
+			{
+				"name": "Extra Brot",
+				"ingredients": "",
+				"price": "1,50€"
+			},
+			{
+				"name": "Getrockneten Tomaten",
+				"ingredients": "",
+				"price": "3,90€"
+			},
+			{
+				"name": "Artischocken",
+				"ingredients": "",
+				"price": "3,90€"
+			},
+			{
+				"name": "Oliven",
+				"ingredients": "",
+				"price": "3,90€"
+			},
+			{
+				"name": "Mix Beilage",
+				"ingredients": "",
+				"price": "4,50€"
+			}
+		]
 	}
 ]
