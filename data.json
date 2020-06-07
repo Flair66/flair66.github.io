@@ -211,17 +211,17 @@
 			},
 			{
 				"name": "Iceberg Mojito",
-				"ingredients": "Limettensaft, Zucker Sirup, Minze, Havana Club Anejo Especial, Soda",
+				"ingredients": "Limettensaft, Zucker Sirup, Minze, Havana Club Añejo Especial, Soda",
 				"price": "7,50€"
 			},
 			{
 				"name": "Ginger Mojito",
-				"ingredients": "Limettensaft, Zucker Sirup, Minze, frischer Ginger, Havana Club Anejo Especial, Ginger Beer, Brombeer Gelatine",
+				"ingredients": "Limettensaft, Zucker Sirup, Minze, frischer Ginger, Havana Club Añejo Especial, Ginger Beer, Brombeer Gelatine",
 				"price": "7,90€"
 			},
 			{
 				"name": "Smoked Mojito",
-				"ingredients": "Limetten, Braunerzucker, Pfefferminzblätter, Havana Club Anejo Especial, Angostura Bitter, Soda (geräuchert)",
+				"ingredients": "Limetten, Braunerzucker, Pfefferminzblätter, Havana Club Añejo Especial, Angostura Bitter, Soda (geräuchert)",
 				"price": "9,30€"
 			},
 			{
@@ -271,7 +271,7 @@
 			},
 			{
 				"name": "Thailand",
-				"ingredients": "Havana Club 3J, Havana Club Anejo Especial, Apricot Brandy, frischer Limettensaft, Ananassaft, Orangensaft, Grenadine",
+				"ingredients": "Havana Club 3J, Havana Club Añejo Especial, Apricot Brandy, frischer Limettensaft, Ananassaft, Orangensaft, Grenadine",
 				"price": "7,80€"
 			},
 			{
@@ -281,7 +281,7 @@
 			},
 			{
 				"name": "American Graffiti",
-				"ingredients": "Havana Club 3J, Havana Club Anejo Especial, Southern Comfort, Beefeater Gin, frischer Limettensaft, Ananassaft, Sour Mix",
+				"ingredients": "Havana Club 3J, Havana Club Añejo Especial, Southern Comfort, Beefeater Gin, frischer Limettensaft, Ananassaft, Sour Mix",
 				"price": "7,80€"
 			},
 			{
@@ -291,12 +291,12 @@
 			},
 			{
 				"name": "Daiquiri",
-				"ingredients": "Havana Club Anejo Especial, Limettensaft, Sour Mix",
+				"ingredients": "Havana Club Añejo Especial, Limettensaft, Sour Mix",
 				"price": "7,50€"
 			},
 			{
 				"name": "Mai Tai",
-				"ingredients": "Havana Club 3J, Havana Club Anejo Especial, Triple Sec, Mandelsirup, Limettensaft, Orangensaft, Ananassaft",
+				"ingredients": "Havana Club 3J, Havana Club Añejo Especial, Triple Sec, Mandelsirup, Limettensaft, Orangensaft, Ananassaft",
 				"price": "7,80€"
 			},
 			{
