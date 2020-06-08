@@ -13,6 +13,13 @@
 			<div class="mt-5 mb-4 text-center">
 				<img height="60px" src="./flair.png">
 			</div>
+			<div class="alert alert-success alert-dismissible fade show" role="alert">
+				<strong>Happy Hour</strong>
+				Dienstags, Mittwochs & Donnerstags von 19-22 Uhr gelten die grünen Happy Hour Preise.
+				<button type="button" class="close" data-dismiss="alert" aria-label="Close">
+					<span aria-hidden="true">&times;</span>
+				</button>
+			</div>
 		</main>
 
 		<script>
@@ -31,13 +38,17 @@
 
 				let container = document.getElementById('ul-' + block.id);
 				block.entries.forEach(element => {
+					let hhprice = element.hh ? '<span class="badge badge-success badge-pill">' + element.hh + '</span><br>' : "";
 					container.insertAdjacentHTML('beforeend', `
 						<li class="list-group-item d-flex justify-content-between align-items-center px-1">
 							<h5 class="m-0 pr-3">
 								${element.name}<br>
 								<small class="text-muted">${element.ingredients}</small>
 							</h5>
-							<span class="badge badge-secondary badge-pill">${element.price}</span>
+							<div>
+								${hhprice}
+								<span class="badge badge-secondary badge-pill">${element.price}</span>
+							</div>
 						</li>
 					`);
 				});
