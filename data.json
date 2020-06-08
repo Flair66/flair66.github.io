@@ -928,6 +928,157 @@
 		]
 	},
 	{
+		"id": "wine",
+		"name": "Weine",
+		"entries": [
+			{
+				"name": "Sauvignon (0,1l)",
+				"ingredients": "Weißwein",
+				"price": "3,60€"
+			},
+			{
+				"name": "Sauvignon (0,2l)",
+				"ingredients": "Weißwein",
+				"price": "6,90€"
+			},
+			{
+				"name": "Sauvignon (0,75l)",
+				"ingredients": "Weißwein",
+				"price": "24,10€"
+			},
+			{
+				"name": "Pinot Grigio (0,1l)",
+				"ingredients": "Weißwein",
+				"price": "3,30€"
+			},
+			{
+				"name": "Pinot Grigio (0,2l)",
+				"ingredients": "Weißwein",
+				"price": "6,10€"
+			},
+			{
+				"name": "Pinot Grigio (0,75l)",
+				"ingredients": "Weißwein",
+				"price": "21,30€"
+			},
+			{
+				"name": "Manzoni Bianco (0,1l)",
+				"ingredients": "Weißwein",
+				"price": "3,40€"
+			},
+			{
+				"name": "Manzoni Bianco (0,2l)",
+				"ingredients": "Weißwein",
+				"price": "6,20€"
+			},
+			{
+				"name": "Manzoni Bianco (0,75l)",
+				"ingredients": "Weißwein",
+				"price": "21,90€"
+			},
+			{
+				"name": "Prosecco Frizzante (0,1l)",
+				"ingredients": "Weißwein",
+				"price": "3,40€"
+			},
+			{
+				"name": "Prosecco Frizzante (0,2l)",
+				"ingredients": "Weißwein",
+				"price": "6,20€"
+			},
+			{
+				"name": "Prosecco Frizzante (0,75l)",
+				"ingredients": "Weißwein",
+				"price": "21,90€"
+			},
+			{
+				"name": "Lugana (0,1l)",
+				"ingredients": "Weißwein",
+				"price": "3,60€"
+			},
+			{
+				"name": "Lugana (0,2l)",
+				"ingredients": "Weißwein",
+				"price": "6,90€"
+			},
+			{
+				"name": "Lugana (0,75l)",
+				"ingredients": "Weißwein",
+				"price": "24,10€"
+			},
+			{
+				"name": "Veuve Clicquot (0,75l)",
+				"ingredients": "Weißwein",
+				"price": "89,00€"
+			},
+			{
+				"name": "Barbera (0,1l)",
+				"ingredients": "Rotwein",
+				"price": "3,60€"
+			},
+			{
+				"name": "Barbera (0,2l)",
+				"ingredients": "Rotwein",
+				"price": "6,90€"
+			},
+			{
+				"name": "Barbera (0,75l)",
+				"ingredients": "Rotwein",
+				"price": "24,10€"
+			},
+			{
+				"name": "Nero d'Avola (0,1l)",
+				"ingredients": "Rotwein",
+				"price": "3,40€"
+			},
+			{
+				"name": "Nero d'Avola (0,2l)",
+				"ingredients": "Rotwein",
+				"price": "6,20€"
+			},
+			{
+				"name": "Nero d'Avola (0,75l)",
+				"ingredients": "Rotwein",
+				"price": "21,30€"
+			},
+			{
+				"name": "Primitivo Salento (0,1l)",
+				"ingredients": "Rotwein",
+				"price": "3,60€"
+			},
+			{
+				"name": "Primitivo Salento (0,2l)",
+				"ingredients": "Rotwein",
+				"price": "6,90€"
+			},
+			{
+				"name": "Primitivo Salento (0,75l)",
+				"ingredients": "Rotwein",
+				"price": "24,10€"
+			},
+			{
+				"name": "Rosato (0,1l)",
+				"ingredients": "Roséwein",
+				"price": "3,30€"
+			},
+			{
+				"name": "Rosato (0,2l)",
+				"ingredients": "Roséwein",
+				"price": "6,10€"
+			},
+			{
+				"name": "Rosato (0,75l)",
+				"ingredients": "Roséwein",
+				"price": "21,30€"
+			},
+			{
+				"name": "Weinschorle (0,2l)",
+				"ingredients": "Weiß, Rot oder Rosé",
+				"price": "4,40€"
+			}
+		]
+	},
+	{
 		"id": "food",
 		"name": "Finger Food",
 		"entries": [
