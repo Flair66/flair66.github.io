@@ -1,6 +1,6 @@
 [
 	{
-		"id": "vodka",
+		"id": "vodkadrinks",
 		"name": "Vodka Drinks",
 		"entries": [
 			{
@@ -192,7 +192,7 @@
 		]
 	},
 	{
-		"id": "rum",
+		"id": "rumdrinks",
 		"name": "Rum Drinks",
 		"entries": [
 			{
@@ -373,7 +373,7 @@
 		]
 	},
 	{
-		"id": "tonic",
+		"id": "gintonic",
 		"name": "Gin Tonic",
 		"entries": [
 			{
@@ -449,7 +449,7 @@
 		]
 	},
 	{
-		"id": "gin",
+		"id": "gindrinks",
 		"name": "Gin Drinks",
 		"entries": [
 			{
@@ -514,7 +514,7 @@
 		]
 	},
 	{
-		"id": "tequila",
+		"id": "tequiladrinks",
 		"name": "Tequila Drinks",
 		"entries": [
 			{
@@ -547,7 +547,7 @@
 		]
 	},
 	{
-		"id": "cachaca",
+		"id": "cachacadrinks",
 		"name": "Cachaça Drinks",
 		"entries": [
 			{
@@ -575,7 +575,7 @@
 		]
 	},
 	{
-		"id": "whiskey",
+		"id": "whiskeydrinks",
 		"name": "Whiskey Drinks",
 		"entries": [
 			{
@@ -644,7 +644,7 @@
 		]
 	},
 	{
-		"id": "more",
+		"id": "moredrinks",
 		"name": "More Drinks",
 		"entries": [
 			{
@@ -862,7 +862,7 @@
 		]
 	},
 	{
-		"id": "nonalk",
+		"id": "nonalkoholicdrinks",
 		"name": "Non Alkoholic Drinks",
 		"entries": [
 			{
@@ -928,7 +928,7 @@
 		]
 	},
 	{
-		"id": "wine",
+		"id": "weine",
 		"name": "Weine",
 		"entries": [
 			{
@@ -1079,7 +1079,361 @@
 		]
 	},
 	{
-		"id": "food",
+		"id": "biere",
+		"name": "Biere",
+		"entries": [
+			{
+				"name": "Warsteiner <small class=\"text-muted\">0,33l</small>",
+				"ingredients": "",
+				"price": "3,10€"
+			},
+			{
+				"name": "Paulaner Hefeweizen Hell <small class=\"text-muted\">0,5l</small>",
+				"ingredients": "",
+				"price": "3,50€"
+			},
+			{
+				"name": "Paulaner Alkoholfrei <small class=\"text-muted\">0,5l</small>",
+				"ingredients": "",
+				"price": "3,50€"
+			}
+		]
+	},
+	{
+		"id": "sodasusaefte",
+		"name": "Sodas & Säfte",
+		"entries": [
+			{
+				"name": "San Pellegrino <small class=\"text-muted\">0,25l</small>",
+				"ingredients": "",
+				"price": "2,10€"
+			},
+			{
+				"name": "San Pellegrino <small class=\"text-muted\">0,75l</small>",
+				"ingredients": "",
+				"price": "4,90€"
+			},
+			{
+				"name": "Red Bull <small class=\"text-muted\">Dose</small>",
+				"ingredients": "",
+				"price": "3,60€"
+			},
+			{
+				"name": "Coca Cola",
+				"ingredients": "",
+				"price": "2,60€"
+			},
+			{
+				"name": "Coca Cola Light",
+				"ingredients": "",
+				"price": "2,60€"
+			},
+			{
+				"name": "Bitter Lemon",
+				"ingredients": "",
+				"price": "2,70€"
+			},
+			{
+				"name": "Orangensaft",
+				"ingredients": "",
+				"price": "2,60€"
+			},
+			{
+				"name": "Maracujasaft",
+				"ingredients": "",
+				"price": "2,60€"
+			},
+			{
+				"name": "Cranberrysaft",
+				"ingredients": "",
+				"price": "2,60€"
+			}
+		]
+	},
+	{
+		"id": "aperitifsudigestifs",
+		"name": "Aperitifs & Digestifs",
+		"entries": [
+			{
+				"name": "Martini Bianco <small class=\"text-muted\">4cl</small>",
+				"ingredients": "",
+				"price": "3,50€"
+			},
+			{
+				"name": "Martini Rosso <small class=\"text-muted\">4cl</small>",
+				"ingredients": "",
+				"price": "3,50€"
+			},
+			{
+				"name": "Ramazzotti <small class=\"text-muted\">4cl</small>",
+				"ingredients": "",
+				"price": "3,90€"
+			},
+			{
+				"name": "Averna <small class=\"text-muted\">4cl</small>",
+				"ingredients": "",
+				"price": "3,90€"
+			},
+			{
+				"name": "Jägermeister <small class=\"text-muted\">4cl</small>",
+				"ingredients": "",
+				"price": "3,90€"
+			},
+			{
+				"name": "Sambuca <small class=\"text-muted\">4cl</small>",
+				"ingredients": "",
+				"price": "3,90€"
+			},
+			{
+				"name": "Amaretto <small class=\"text-muted\">4cl</small>",
+				"ingredients": "",
+				"price": "3,90€"
+			},
+			{
+				"name": "Grappa <small class=\"text-muted\">2cl</small>",
+				"ingredients": "",
+				"price": "3,90€"
+			},
+			{
+				"name": "Baileys <small class=\"text-muted\">4cl</small>",
+				"ingredients": "",
+				"price": "3,90€"
+			},
+			{
+				"name": "Tequila <small class=\"text-muted\">4cl</small>",
+				"ingredients": "",
+				"price": "3,90€"
+			}
+		]
+	},
+	{
+		"id": "warmegetraenke",
+		"name": "Warme Getränke",
+		"entries": [
+			{
+				"name": "Espresso",
+				"ingredients": "",
+				"price": "2,10€"
+			},
+			{
+				"name": "Espresso Corretto",
+				"ingredients": "",
+				"price": "2,90€"
+			},
+			{
+				"name": "Espresso Doppio",
+				"ingredients": "",
+				"price": "3,70€"
+			},
+			{
+				"name": "Cappuccino",
+				"ingredients": "",
+				"price": "2,60€"
+			},
+			{
+				"name": "Tasse Kaffee",
+				"ingredients": "",
+				"price": "2,10€"
+			},
+			{
+				"name": "Latte Macchiato",
+				"ingredients": "",
+				"price": "2,90€"
+			},
+			{
+				"name": "Baileys Latte",
+				"ingredients": "",
+				"price": "3,70€"
+			}
+		]
+	},
+	{
+		"id": "vodka",
+		"name": "Vodka",
+		"entries": [
+			{
+				"name": "Grey Goose <small class=\"text-muted\">4cl</small>",
+				"ingredients": "40% - Frankreich",
+				"price": "5,90€"
+			},
+			{
+				"name": "Beluga <small class=\"text-muted\">4cl</small>",
+				"ingredients": "40% - Russland",
+				"price": "6,10€"
+			},
+			{
+				"name": "Absolut <small class=\"text-muted\">4cl</small>",
+				"ingredients": "40% - Schweden",
+				"price": "3,90€"
+			},
+			{
+				"name": "Absolut Elix <small class=\"text-muted\">4cl</small>",
+				"ingredients": "42,3% - Schweden",
+				"price": "6,20€"
+			},
+			{
+				"name": "Smirnoff <small class=\"text-muted\">4cl</small>",
+				"ingredients": "40% - Russland",
+				"price": "3,60€"
+			}
+		]
+	},
+	{
+		"id": "rum",
+		"name": "Rum",
+		"entries": [
+			{
+				"name": "Ron Zacapa Centenario <small class=\"text-muted\">4cl</small>",
+				"ingredients": "23 Jahre - 40% - Guatemala",
+				"price": "9,80€"
+			},
+			{
+				"name": "Zacapa Centenario XO <small class=\"text-muted\">4cl</small>",
+				"ingredients": "25 Jahre - 40% - Guatemala",
+				"price": "15,90€"
+			},
+			{
+				"name": "Matusalem <small class=\"text-muted\">4cl</small>",
+				"ingredients": "15 Jahre - 40% - Dominikanische Republik",
+				"price": "8,30€"
+			},
+			{
+				"name": "Havana Club Selección de Maestros <small class=\"text-muted\">4cl</small>",
+				"ingredients": "45% - Kuba",
+				"price": "9,80€"
+			},
+			{
+				"name": "Havana Club Gran Reserva <small class=\"text-muted\">4cl</small>",
+				"ingredients": "15 Jahre - 40% - Kuba",
+				"price": "28,00€"
+			},
+			{
+				"name": "Botucal <small class=\"text-muted\">4cl</small>",
+				"ingredients": "40% - Venezuela",
+				"price": "8,40€"
+			}
+		]
+	},
+	{
+		"id": "cognacubrandy",
+		"name": "Cognac & Brandy",
+		"entries": [
+			{
+				"name": "Remy Martin VSOP <small class=\"text-muted\">4cl</small>",
+				"ingredients": "40% - Frankreich",
+				"price": "4,50€"
+			},
+			{
+				"name": "Vecchia Romagna <small class=\"text-muted\">4cl</small>",
+				"ingredients": "40% - Italien",
+				"price": "4,30€"
+			},
+			{
+				"name": "Hennessy Black <small class=\"text-muted\">4cl</small>",
+				"ingredients": "43% - Frankreich",
+				"price": "7,90€"
+			}
+		]
+	},
+	{
+		"id": "whisky",
+		"name": "Whisky",
+		"entries": [
+			{
+				"name": "Oban <small class=\"text-muted\">4cl</small>",
+				"ingredients": "14 Jahre - 43% - Schottland",
+				"price": "9,50€"
+			},
+			{
+				"name": "Glenfiddich <small class=\"text-muted\">4cl</small>",
+				"ingredients": "12 Jahre - 40% - Schottland",
+				"price": "6,10€"
+			},
+			{
+				"name": "Glen Grant Pure Malt <small class=\"text-muted\">4cl</small>",
+				"ingredients": "5 Jahre - 40% - Schottland",
+				"price": "4,20€"
+			},
+			{
+				"name": "The Glenlivet <small class=\"text-muted\">4cl</small>",
+				"ingredients": "12 Jahre - 40% - Schottland",
+				"price": "6,60€"
+			},
+			{
+				"name": "Bowmore <small class=\"text-muted\">4cl</small>",
+				"ingredients": "12 Jahre - 40% - Schottland",
+				"price": "6,80€"
+			},
+			{
+				"name": "Glendronach <small class=\"text-muted\">4cl</small>",
+				"ingredients": "12 Jahre - 43% - Schottland",
+				"price": "7,30€"
+			},
+			{
+				"name": "Dimple <small class=\"text-muted\">4cl</small>",
+				"ingredients": "15 Jahre - 40% - Schottland",
+				"price": "5,40€"
+			},
+			{
+				"name": "Ballantines <small class=\"text-muted\">4cl</small>",
+				"ingredients": "12 Jahre - 40% - Schottland",
+				"price": "6,30€"
+			},
+			{
+				"name": "Chivas Regal <small class=\"text-muted\">4cl</small>",
+				"ingredients": "12 Jahre - 40% - Schottland",
+				"price": "4,90€"
+			},
+			{
+				"name": "Ardbeg <small class=\"text-muted\">4cl</small>",
+				"ingredients": "10 Jahre - 46% - Schottland",
+				"price": "8,40€"
+			},
+			{
+				"name": "Talisker <small class=\"text-muted\">4cl</small>",
+				"ingredients": "10 Jahre - 45,8% - Schottland",
+				"price": "7,40€"
+			},
+			{
+				"name": "Canadian Club <small class=\"text-muted\">4cl</small>",
+				"ingredients": "12 Jahre - 40% - Kanada",
+				"price": "5,30€"
+			},
+			{
+				"name": "Jameson <small class=\"text-muted\">4cl</small>",
+				"ingredients": "12 Jahre - 40% - Irland",
+				"price": "5,90€"
+			}
+		]
+	},
+	{
+		"id": "bourbonutennessee",
+		"name": "Bourbon & Tennessee",
+		"entries": [
+			{
+				"name": "Jack Daniel's N°7 <small class=\"text-muted\">4cl</small>",
+				"ingredients": "40% - Tenneessee - USA",
+				"price": "5,50€"
+			},
+			{
+				"name": "Four Roses <small class=\"text-muted\">4cl</small>",
+				"ingredients": "40% - Kentucky - USA",
+				"price": "5,30€"
+			},
+			{
+				"name": "Maker's Mark <small class=\"text-muted\">4cl</small>",
+				"ingredients": "45% - Kentucky - USA",
+				"price": "6,30€"
+			},
+			{
+				"name": "Bulleit Rye <small class=\"text-muted\">4cl</small>",
+				"ingredients": "40% - Kentucky - USA",
+				"price": "6,10€"
+			}
+		]
+	},
+	{
+		"id": "fingerfood",
 		"name": "Finger Food",
 		"entries": [
 			{
