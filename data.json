@@ -351,22 +351,26 @@
 				"price": "7,70€"
 			},
 			{
-				"name": "Old Fashioned Rum (Zacapa 23J)",
+				"name": "Old Fashioned Rum",
+				"size": "Zacapa 23J",
 				"ingredients": "Zacapa 23J, Zucker Sirup, Angostura Bitter",
 				"price": "11,10€"
 			},
 			{
-				"name": "Old Fashioned Rum (Havana Club Selección de Maestros)",
+				"name": "Old Fashioned Rum",
+				"size": "Havana Club Selección de Maestros",
 				"ingredients": "Havana Club Selección de Maestros, Zucker Sirup, Angostura Bitter",
 				"price": "11,60€"
 			},
 			{
-				"name": "Old Fashioned Rum (Botucal 12J)",
+				"name": "Old Fashioned Rum",
+				"size": "Botucal 12J",
 				"ingredients": "Botucal 12J, Zucker Sirup, Angostura Bitter",
 				"price": "9,30€"
 			},
 			{
-				"name": "Old Fashioned Rum (Matusalem 15J)",
+				"name": "Old Fashioned Rum",
+				"size": "Matusalem 15J",
 				"ingredients": "Matusalem 15J, Zucker Sirup, Angostura Bitter",
 				"price": "9,10€"
 			}
@@ -377,52 +381,62 @@
 		"name": "Gin Tonic",
 		"entries": [
 			{
-				"name": "Monkey 47 5cl",
+				"name": "Monkey 47",
+				"size": "5cl",
 				"ingredients": "Schwarzwald - Deutschland - 47% VOL",
 				"price": "7,10€"
 			},
 			{
-				"name": "Hendrick's 5cl",
+				"name": "Hendrick's",
+				"size": "5cl",
 				"ingredients": "Schottland - 44% VOL",
 				"price": "6,40€"
 			},
 			{
-				"name": "Tanqueray 10 5cl",
+				"name": "Tanqueray 10",
+				"size": "5cl",
 				"ingredients": "London - Großbritannien - 47,3% VOL",
 				"price": "6,10€"
 			},
 			{
-				"name": "Windspiel 5cl",
+				"name": "Windspiel",
+				"size": "5cl",
 				"ingredients": "Premium Dry Gin - Deutschland - 47% VOL",
 				"price": "7,40€"
 			},
 			{
-				"name": "Gin Mare 5cl",
+				"name": "Gin Mare",
+				"size": "5cl",
 				"ingredients": "Guadalajara - Spanien - 42,7% VOL",
 				"price": "6,90€"
 			},
 			{
-				"name": "Nordes 5cl",
+				"name": "Nordes",
+				"size": "5cl",
 				"ingredients": "Galicien - Spanien - 40% VOL",
 				"price": "6,20€"
 			},
 			{
-				"name": "Bombay Sapphire 5cl",
+				"name": "Bombay Sapphire",
+				"size": "5cl",
 				"ingredients": "London - Großbritannien - 40% VOL",
 				"price": "5,40€"
 			},
 			{
-				"name": "Martin Miller's 5cl",
+				"name": "Martin Miller's",
+				"size": "5cl",
 				"ingredients": "Dry Gin - London - Großbritannien - 40% VOL",
 				"price": "5,10€"
 			},
 			{
-				"name": "Beefeater24 5cl",
+				"name": "Beefeater24",
+				"size": "5cl",
 				"ingredients": "London - Großbritannien - 45% VOL",
 				"price": "5,10€"
 			},
 			{
-				"name": "G-Vine Floraison 5cl",
+				"name": "G-Vine Floraison",
+				"size": "5cl",
 				"ingredients": "Cognac - Frankreich - 40% VOL",
 				"price": "6,10€"
 			},
@@ -622,22 +636,26 @@
 				"price": "7,80€"
 			},
 			{
-				"name": "Old Fashioned Whiskey (Jack Daniel's Tennessee Old No. 7)",
+				"name": "Old Fashioned Whiskey",
+				"size": "Jack Daniel's Tennessee Old No. 7",
 				"ingredients": "Jack Daniel's Tennessee Old No. 7, Zucker Sirup, Angostura Bitter",
 				"price": "8,90€"
 			},
 			{
-				"name": "Old Fashioned Whiskey (Makers Mark)",
+				"name": "Old Fashioned Whiskey",
+				"size": "Makers Mark",
 				"ingredients": "Makers Mark, Zucker Sirup, Angostura Bitter",
 				"price": "9,30€"
 			},
 			{
-				"name": "Old Fashioned Whiskey (Bulleit Rye)",
+				"name": "Old Fashioned Whiskey",
+				"size": "Bulleit Rye",
 				"ingredients": "Bulleit Rye, Zucker Sirup, Angostura Bitter",
 				"price": "9,10€"
 			},
 			{
-				"name": "Old Fashioned Whiskey (Four Roses Bourbon)",
+				"name": "Old Fashioned Whiskey",
+				"size": "Four Roses Bourbon",
 				"ingredients": "Four Roses Bourbon, Zucker Sirup, Angostura Bitter",
 				"price": "8,90€"
 			}
@@ -932,147 +950,176 @@
 		"name": "Weine",
 		"entries": [
 			{
-				"name": "Sauvignon (0,1l)",
+				"name": "Sauvignon",
+				"size": "0,1l",
 				"ingredients": "Weißwein",
 				"price": "3,60€"
 			},
 			{
-				"name": "Sauvignon (0,2l)",
+				"name": "Sauvignon",
+				"size": "0,2l",
 				"ingredients": "Weißwein",
 				"price": "6,90€"
 			},
 			{
-				"name": "Sauvignon (0,75l)",
+				"name": "Sauvignon",
+				"size": "0,75l",
 				"ingredients": "Weißwein",
 				"price": "24,10€"
 			},
 			{
-				"name": "Pinot Grigio (0,1l)",
+				"name": "Pinot Grigio",
+				"size": "0,1l",
 				"ingredients": "Weißwein",
 				"price": "3,30€"
 			},
 			{
-				"name": "Pinot Grigio (0,2l)",
+				"name": "Pinot Grigio",
+				"size": "0,2l",
 				"ingredients": "Weißwein",
 				"price": "6,10€"
 			},
 			{
-				"name": "Pinot Grigio (0,75l)",
+				"name": "Pinot Grigio",
+				"size": "0,75l",
 				"ingredients": "Weißwein",
 				"price": "21,30€"
 			},
 			{
-				"name": "Manzoni Bianco (0,1l)",
+				"name": "Manzoni Bianco",
+				"size": "0,1l",
 				"ingredients": "Weißwein",
 				"price": "3,40€"
 			},
 			{
-				"name": "Manzoni Bianco (0,2l)",
+				"name": "Manzoni Bianco",
+				"size": "0,2l",
 				"ingredients": "Weißwein",
 				"price": "6,20€"
 			},
 			{
-				"name": "Manzoni Bianco (0,75l)",
+				"name": "Manzoni Bianco",
+				"size": "0,75l",
 				"ingredients": "Weißwein",
 				"price": "21,90€"
 			},
 			{
-				"name": "Prosecco Frizzante (0,1l)",
+				"name": "Prosecco Frizzante",
+				"size": "0,1l",
 				"ingredients": "Weißwein",
 				"price": "3,40€"
 			},
 			{
-				"name": "Prosecco Frizzante (0,2l)",
+				"name": "Prosecco Frizzante",
+				"size": "0,2l",
 				"ingredients": "Weißwein",
 				"price": "6,20€"
 			},
 			{
-				"name": "Prosecco Frizzante (0,75l)",
+				"name": "Prosecco Frizzante",
+				"size": "0,75l",
 				"ingredients": "Weißwein",
 				"price": "21,90€"
 			},
 			{
-				"name": "Lugana (0,1l)",
+				"name": "Lugana",
+				"size": "0,1l",
 				"ingredients": "Weißwein",
 				"price": "3,60€"
 			},
 			{
-				"name": "Lugana (0,2l)",
+				"name": "Lugana",
+				"size": "0,2l",
 				"ingredients": "Weißwein",
 				"price": "6,90€"
 			},
 			{
-				"name": "Lugana (0,75l)",
+				"name": "Lugana",
+				"size": "0,75l",
 				"ingredients": "Weißwein",
 				"price": "24,10€"
 			},
 			{
-				"name": "Veuve Clicquot (0,75l)",
+				"name": "Veuve Clicquot",
+				"size": "0,75l",
 				"ingredients": "Weißwein",
 				"price": "89,00€"
 			},
 			{
-				"name": "Barbera (0,1l)",
+				"name": "Barbera",
+				"size": "0,1l",
 				"ingredients": "Rotwein",
 				"price": "3,60€"
 			},
 			{
-				"name": "Barbera (0,2l)",
+				"name": "Barbera",
+				"size": "0,2l",
 				"ingredients": "Rotwein",
 				"price": "6,90€"
 			},
 			{
-				"name": "Barbera (0,75l)",
+				"name": "Barbera",
+				"size": "0,75l",
 				"ingredients": "Rotwein",
 				"price": "24,10€"
 			},
 			{
-				"name": "Nero d'Avola (0,1l)",
+				"name": "Nero d'Avola",
+				"size": "0,1l",
 				"ingredients": "Rotwein",
 				"price": "3,40€"
 			},
 			{
-				"name": "Nero d'Avola (0,2l)",
+				"name": "Nero d'Avola",
+				"size": "0,2l",
 				"ingredients": "Rotwein",
 				"price": "6,20€"
 			},
 			{
-				"name": "Nero d'Avola (0,75l)",
+				"name": "Nero d'Avola",
+				"size": "0,75l",
 				"ingredients": "Rotwein",
 				"price": "21,30€"
 			},
 			{
-				"name": "Primitivo Salento (0,1l)",
+				"name": "Primitivo Salento",
+				"size": "0,1l",
 				"ingredients": "Rotwein",
 				"price": "3,60€"
 			},
 			{
-				"name": "Primitivo Salento (0,2l)",
+				"name": "Primitivo Salento",
+				"size": "0,2l",
 				"ingredients": "Rotwein",
 				"price": "6,90€"
 			},
 			{
-				"name": "Primitivo Salento (0,75l)",
+				"name": "Primitivo Salento",
+				"size": "0,75l",
 				"ingredients": "Rotwein",
 				"price": "24,10€"
 			},
 			{
-				"name": "Rosato (0,1l)",
+				"name": "Rosato",
+				"size": "0,1l",
 				"ingredients": "Roséwein",
 				"price": "3,30€"
 			},
 			{
-				"name": "Rosato (0,2l)",
+				"name": "Rosato",
+				"size": "0,2l",
 				"ingredients": "Roséwein",
 				"price": "6,10€"
 			},
 			{
-				"name": "Rosato (0,75l)",
+				"name": "Rosato",
+				"size": "0,75l",
 				"ingredients": "Roséwein",
 				"price": "21,30€"
 			},
 			{
-				"name": "Weinschorle (0,2l)",
+				"name": "Weinschorle",
+				"size": "0,2l",
 				"ingredients": "Weiß, Rot oder Rosé",
 				"price": "4,40€"
 			}
@@ -1083,17 +1130,20 @@
 		"name": "Biere",
 		"entries": [
 			{
-				"name": "Warsteiner <small class=\"text-muted\">0,33l</small>",
+				"name": "Warsteiner",
+				"size": "0,33l",
 				"ingredients": "",
 				"price": "3,10€"
 			},
 			{
-				"name": "Paulaner Hefeweizen Hell <small class=\"text-muted\">0,5l</small>",
+				"name": "Paulaner Hefeweizen Hell",
+				"size": "0,5l",
 				"ingredients": "",
 				"price": "3,50€"
 			},
 			{
-				"name": "Paulaner Alkoholfrei <small class=\"text-muted\">0,5l</small>",
+				"name": "Paulaner Alkoholfrei",
+				"size": "0,5l",
 				"ingredients": "",
 				"price": "3,50€"
 			}
@@ -1104,17 +1154,20 @@
 		"name": "Sodas & Säfte",
 		"entries": [
 			{
-				"name": "San Pellegrino <small class=\"text-muted\">0,25l</small>",
+				"name": "San Pellegrino",
+				"size": "0,25l",
 				"ingredients": "",
 				"price": "2,10€"
 			},
 			{
-				"name": "San Pellegrino <small class=\"text-muted\">0,75l</small>",
+				"name": "San Pellegrino",
+				"size": "0,75l",
 				"ingredients": "",
 				"price": "4,90€"
 			},
 			{
-				"name": "Red Bull <small class=\"text-muted\">Dose</small>",
+				"name": "Red Bull",
+				"size": "Dose",
 				"ingredients": "",
 				"price": "3,60€"
 			},
@@ -1155,52 +1208,62 @@
 		"name": "Aperitifs & Digestifs",
 		"entries": [
 			{
-				"name": "Martini Bianco <small class=\"text-muted\">4cl</small>",
+				"name": "Martini Bianco",
+				"size": "4cl",
 				"ingredients": "",
 				"price": "3,50€"
 			},
 			{
-				"name": "Martini Rosso <small class=\"text-muted\">4cl</small>",
+				"name": "Martini Rosso",
+				"size": "4cl",
 				"ingredients": "",
 				"price": "3,50€"
 			},
 			{
-				"name": "Ramazzotti <small class=\"text-muted\">4cl</small>",
+				"name": "Ramazzotti",
+				"size": "4cl",
 				"ingredients": "",
 				"price": "3,90€"
 			},
 			{
-				"name": "Averna <small class=\"text-muted\">4cl</small>",
+				"name": "Averna",
+				"size": "4cl",
 				"ingredients": "",
 				"price": "3,90€"
 			},
 			{
-				"name": "Jägermeister <small class=\"text-muted\">4cl</small>",
+				"name": "Jägermeister",
+				"size": "4cl",
 				"ingredients": "",
 				"price": "3,90€"
 			},
 			{
-				"name": "Sambuca <small class=\"text-muted\">4cl</small>",
+				"name": "Sambuca",
+				"size": "4cl",
 				"ingredients": "",
 				"price": "3,90€"
 			},
 			{
-				"name": "Amaretto <small class=\"text-muted\">4cl</small>",
+				"name": "Amaretto",
+				"size": "4cl",
 				"ingredients": "",
 				"price": "3,90€"
 			},
 			{
-				"name": "Grappa <small class=\"text-muted\">2cl</small>",
+				"name": "Grappa",
+				"size": "2cl",
 				"ingredients": "",
 				"price": "3,90€"
 			},
 			{
-				"name": "Baileys <small class=\"text-muted\">4cl</small>",
+				"name": "Baileys",
+				"size": "4cl",
 				"ingredients": "",
 				"price": "3,90€"
 			},
 			{
-				"name": "Tequila <small class=\"text-muted\">4cl</small>",
+				"name": "Tequila",
+				"size": "4cl",
 				"ingredients": "",
 				"price": "3,90€"
 			}
@@ -1252,27 +1315,32 @@
 		"name": "Vodka",
 		"entries": [
 			{
-				"name": "Grey Goose <small class=\"text-muted\">4cl</small>",
+				"name": "Grey Goose",
+				"size": "4cl",
 				"ingredients": "40% - Frankreich",
 				"price": "5,90€"
 			},
 			{
-				"name": "Beluga <small class=\"text-muted\">4cl</small>",
+				"name": "Beluga",
+				"size": "4cl",
 				"ingredients": "40% - Russland",
 				"price": "6,10€"
 			},
 			{
-				"name": "Absolut <small class=\"text-muted\">4cl</small>",
+				"name": "Absolut",
+				"size": "4cl",
 				"ingredients": "40% - Schweden",
 				"price": "3,90€"
 			},
 			{
-				"name": "Absolut Elix <small class=\"text-muted\">4cl</small>",
+				"name": "Absolut Elix",
+				"size": "4cl",
 				"ingredients": "42,3% - Schweden",
 				"price": "6,20€"
 			},
 			{
-				"name": "Smirnoff <small class=\"text-muted\">4cl</small>",
+				"name": "Smirnoff",
+				"size": "4cl",
 				"ingredients": "40% - Russland",
 				"price": "3,60€"
 			}
@@ -1283,32 +1351,38 @@
 		"name": "Rum",
 		"entries": [
 			{
-				"name": "Ron Zacapa Centenario <small class=\"text-muted\">4cl</small>",
+				"name": "Ron Zacapa Centenario",
+				"size": "4cl",
 				"ingredients": "23 Jahre - 40% - Guatemala",
 				"price": "9,80€"
 			},
 			{
-				"name": "Zacapa Centenario XO <small class=\"text-muted\">4cl</small>",
+				"name": "Zacapa Centenario XO",
+				"size": "4cl",
 				"ingredients": "25 Jahre - 40% - Guatemala",
 				"price": "15,90€"
 			},
 			{
-				"name": "Matusalem <small class=\"text-muted\">4cl</small>",
+				"name": "Matusalem",
+				"size": "4cl",
 				"ingredients": "15 Jahre - 40% - Dominikanische Republik",
 				"price": "8,30€"
 			},
 			{
-				"name": "Havana Club Selección de Maestros <small class=\"text-muted\">4cl</small>",
+				"name": "Havana Club Selección de Maestros",
+				"size": "4cl",
 				"ingredients": "45% - Kuba",
 				"price": "9,80€"
 			},
 			{
-				"name": "Havana Club Gran Reserva <small class=\"text-muted\">4cl</small>",
+				"name": "Havana Club Gran Reserva",
+				"size": "4cl",
 				"ingredients": "15 Jahre - 40% - Kuba",
 				"price": "28,00€"
 			},
 			{
-				"name": "Botucal <small class=\"text-muted\">4cl</small>",
+				"name": "Botucal",
+				"size": "4cl",
 				"ingredients": "40% - Venezuela",
 				"price": "8,40€"
 			}
@@ -1319,17 +1393,20 @@
 		"name": "Cognac & Brandy",
 		"entries": [
 			{
-				"name": "Remy Martin VSOP <small class=\"text-muted\">4cl</small>",
+				"name": "Remy Martin VSOP",
+				"size": "4cl",
 				"ingredients": "40% - Frankreich",
 				"price": "4,50€"
 			},
 			{
-				"name": "Vecchia Romagna <small class=\"text-muted\">4cl</small>",
+				"name": "Vecchia Romagna",
+				"size": "4cl",
 				"ingredients": "40% - Italien",
 				"price": "4,30€"
 			},
 			{
-				"name": "Hennessy Black <small class=\"text-muted\">4cl</small>",
+				"name": "Hennessy Black",
+				"size": "4cl",
 				"ingredients": "43% - Frankreich",
 				"price": "7,90€"
 			}
@@ -1340,67 +1417,80 @@
 		"name": "Whisky",
 		"entries": [
 			{
-				"name": "Oban <small class=\"text-muted\">4cl</small>",
+				"name": "Oban",
+				"size": "4cl",
 				"ingredients": "14 Jahre - 43% - Schottland",
 				"price": "9,50€"
 			},
 			{
-				"name": "Glenfiddich <small class=\"text-muted\">4cl</small>",
+				"name": "Glenfiddich",
+				"size": "4cl",
 				"ingredients": "12 Jahre - 40% - Schottland",
 				"price": "6,10€"
 			},
 			{
-				"name": "Glen Grant Pure Malt <small class=\"text-muted\">4cl</small>",
+				"name": "Glen Grant Pure Malt",
+				"size": "4cl",
 				"ingredients": "5 Jahre - 40% - Schottland",
 				"price": "4,20€"
 			},
 			{
-				"name": "The Glenlivet <small class=\"text-muted\">4cl</small>",
+				"name": "The Glenlivet",
+				"size": "4cl",
 				"ingredients": "12 Jahre - 40% - Schottland",
 				"price": "6,60€"
 			},
 			{
-				"name": "Bowmore <small class=\"text-muted\">4cl</small>",
+				"name": "Bowmore",
+				"size": "4cl",
 				"ingredients": "12 Jahre - 40% - Schottland",
 				"price": "6,80€"
 			},
 			{
-				"name": "Glendronach <small class=\"text-muted\">4cl</small>",
+				"name": "Glendronach",
+				"size": "4cl",
 				"ingredients": "12 Jahre - 43% - Schottland",
 				"price": "7,30€"
 			},
 			{
-				"name": "Dimple <small class=\"text-muted\">4cl</small>",
+				"name": "Dimple",
+				"size": "4cl",
 				"ingredients": "15 Jahre - 40% - Schottland",
 				"price": "5,40€"
 			},
 			{
-				"name": "Ballantines <small class=\"text-muted\">4cl</small>",
+				"name": "Ballantines",
+				"size": "4cl",
 				"ingredients": "12 Jahre - 40% - Schottland",
 				"price": "6,30€"
 			},
 			{
-				"name": "Chivas Regal <small class=\"text-muted\">4cl</small>",
+				"name": "Chivas Regal",
+				"size": "4cl",
 				"ingredients": "12 Jahre - 40% - Schottland",
 				"price": "4,90€"
 			},
 			{
-				"name": "Ardbeg <small class=\"text-muted\">4cl</small>",
+				"name": "Ardbeg",
+				"size": "4cl",
 				"ingredients": "10 Jahre - 46% - Schottland",
 				"price": "8,40€"
 			},
 			{
-				"name": "Talisker <small class=\"text-muted\">4cl</small>",
+				"name": "Talisker",
+				"size": "4cl",
 				"ingredients": "10 Jahre - 45,8% - Schottland",
 				"price": "7,40€"
 			},
 			{
-				"name": "Canadian Club <small class=\"text-muted\">4cl</small>",
+				"name": "Canadian Club",
+				"size": "4cl",
 				"ingredients": "12 Jahre - 40% - Kanada",
 				"price": "5,30€"
 			},
 			{
-				"name": "Jameson <small class=\"text-muted\">4cl</small>",
+				"name": "Jameson",
+				"size": "4cl",
 				"ingredients": "12 Jahre - 40% - Irland",
 				"price": "5,90€"
 			}
@@ -1411,22 +1501,26 @@
 		"name": "Bourbon & Tennessee",
 		"entries": [
 			{
-				"name": "Jack Daniel's N°7 <small class=\"text-muted\">4cl</small>",
+				"name": "Jack Daniel's N°7",
+				"size": "4cl",
 				"ingredients": "40% - Tenneessee - USA",
 				"price": "5,50€"
 			},
 			{
-				"name": "Four Roses <small class=\"text-muted\">4cl</small>",
+				"name": "Four Roses",
+				"size": "4cl",
 				"ingredients": "40% - Kentucky - USA",
 				"price": "5,30€"
 			},
 			{
-				"name": "Maker's Mark <small class=\"text-muted\">4cl</small>",
+				"name": "Maker's Mark",
+				"size": "4cl",
 				"ingredients": "45% - Kentucky - USA",
 				"price": "6,30€"
 			},
 			{
-				"name": "Bulleit Rye <small class=\"text-muted\">4cl</small>",
+				"name": "Bulleit Rye",
+				"size": "4cl",
 				"ingredients": "40% - Kentucky - USA",
 				"price": "6,10€"
 			}
@@ -1538,22 +1632,26 @@
 		"name": "Antipasti",
 		"entries": [
 			{
-				"name": "Gemischter Aufschnitteller (incl. Brot)",
+				"name": "Gemischter Aufschnitteller",
+				"size": "incl. Brot",
 				"ingredients": "Prosciutto crudo, Soppressa, Spianata",
 				"price": "10,90€ / 19,90€"
 			},
 			{
-				"name": "Gemischter Käseteller (incl. Brot)",
+				"name": "Gemischter Käseteller",
+				"size": "incl. Brot",
 				"ingredients": "Montasio DOP, Asiago DOP, Grana Padano DOP, Pecorino Romano",
 				"price": "10,90€ / 19,90€"
 			},
 			{
-				"name": "Gemischter Aufschnit-Käseteller (incl. Brot)",
+				"name": "Gemischter Aufschnit-Käseteller",
+				"size": "incl. Brot",
 				"ingredients": "Prosciutto crudo, Soppressa, Spianata, Montasio DOP, Asiago DOP, Grana Padano DOP, Pecorino Romano",
 				"price": "14,90€ / 28,90€"
 			},
 			{
-				"name": "Fantasia Teller (incl. Brot)",
+				"name": "Fantasia Teller",
+				"size": "incl. Brot",
 				"ingredients": "Grissini mit Parma-Schinken, Südtiroler Speck, Soppressa, Spianata, Südtiroler Kaminwurzen, Montasio Käse, Asiago Käse, Grana Käse, Oliven, Mix Beilage",
 				"price": "29,90€"
 			},

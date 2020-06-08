@@ -54,15 +54,16 @@
 
 				let container = document.getElementById('ul-' + block.id);
 				block.entries.forEach(element => {
-					let hhprice = element.hh ? '<span class="badge badge-success badge-pill">' + element.hh + '</span><br>' : "";
 					container.insertAdjacentHTML('beforeend', `
 						<li class="list-group-item d-flex justify-content-between align-items-center px-1">
 							<h5 class="m-0 pr-3">
-								${element.name}<br>
+								${element.name}
+								${element.size ? '<small class="text-muted">' + element.size + '</small>' : ""}
+								<br>
 								<small class="text-muted">${element.ingredients}</small>
 							</h5>
 							<div>
-								${hhprice}
+								${element.hh ? '<span class="badge badge-success badge-pill">' + element.hh + '</span><br>' : ""}
 								<span class="badge badge-secondary badge-pill">${element.price}</span>
 							</div>
 						</li>
