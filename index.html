@@ -58,9 +58,9 @@
 						<li class="list-group-item d-flex justify-content-between align-items-center px-1">
 							<h5 class="m-0 pr-3">
 								${element.name}
-								${element.size ? '<small class="text-muted">' + element.size + '</small>' : ""}
+								<small class="text-muted">${element.size ? element.size : ''}</small>
 								<br>
-								<small class="text-muted">${element.ingredients}</small>
+								<small class="text-muted">${element.ingredients ? element.ingredients : ''}</small>
 							</h5>
 							<div>
 								${element.hh ? '<span class="badge badge-success badge-pill">' + element.hh + '</span><br>' : ""}

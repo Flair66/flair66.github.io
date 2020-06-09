@@ -442,22 +442,18 @@
 			},
 			{
 				"name": "Fever-Tree Mediterranean",
-				"ingredients": "",
 				"price": "3,80€"
 			},
 			{
 				"name": "Thomas Henry",
-				"ingredients": "",
 				"price": "2,90€"
 			},
 			{
 				"name": "Schweppes",
-				"ingredients": "",
 				"price": "2,70€"
 			},
 			{
 				"name": "Fentimans",
-				"ingredients": "",
 				"price": "3,80€"
 			}
 		]
@@ -1132,19 +1128,16 @@
 			{
 				"name": "Warsteiner",
 				"size": "0,33l",
-				"ingredients": "",
 				"price": "3,10€"
 			},
 			{
 				"name": "Paulaner Hefeweizen Hell",
 				"size": "0,5l",
-				"ingredients": "",
 				"price": "3,50€"
 			},
 			{
 				"name": "Paulaner Alkoholfrei",
 				"size": "0,5l",
-				"ingredients": "",
 				"price": "3,50€"
 			}
 		]
@@ -1156,49 +1149,40 @@
 			{
 				"name": "San Pellegrino",
 				"size": "0,25l",
-				"ingredients": "",
 				"price": "2,10€"
 			},
 			{
 				"name": "San Pellegrino",
 				"size": "0,75l",
-				"ingredients": "",
 				"price": "4,90€"
 			},
 			{
 				"name": "Red Bull",
 				"size": "Dose",
-				"ingredients": "",
 				"price": "3,60€"
 			},
 			{
 				"name": "Coca Cola",
-				"ingredients": "",
 				"price": "2,60€"
 			},
 			{
 				"name": "Coca Cola Light",
-				"ingredients": "",
 				"price": "2,60€"
 			},
 			{
 				"name": "Bitter Lemon",
-				"ingredients": "",
 				"price": "2,70€"
 			},
 			{
 				"name": "Orangensaft",
-				"ingredients": "",
 				"price": "2,60€"
 			},
 			{
 				"name": "Maracujasaft",
-				"ingredients": "",
 				"price": "2,60€"
 			},
 			{
 				"name": "Cranberrysaft",
-				"ingredients": "",
 				"price": "2,60€"
 			}
 		]
@@ -1210,61 +1194,51 @@
 			{
 				"name": "Martini Bianco",
 				"size": "4cl",
-				"ingredients": "",
 				"price": "3,50€"
 			},
 			{
 				"name": "Martini Rosso",
 				"size": "4cl",
-				"ingredients": "",
 				"price": "3,50€"
 			},
 			{
 				"name": "Ramazzotti",
 				"size": "4cl",
-				"ingredients": "",
 				"price": "3,90€"
 			},
 			{
 				"name": "Averna",
 				"size": "4cl",
-				"ingredients": "",
 				"price": "3,90€"
 			},
 			{
 				"name": "Jägermeister",
 				"size": "4cl",
-				"ingredients": "",
 				"price": "3,90€"
 			},
 			{
 				"name": "Sambuca",
 				"size": "4cl",
-				"ingredients": "",
 				"price": "3,90€"
 			},
 			{
 				"name": "Amaretto",
 				"size": "4cl",
-				"ingredients": "",
 				"price": "3,90€"
 			},
 			{
 				"name": "Grappa",
 				"size": "2cl",
-				"ingredients": "",
 				"price": "3,90€"
 			},
 			{
 				"name": "Baileys",
 				"size": "4cl",
-				"ingredients": "",
 				"price": "3,90€"
 			},
 			{
 				"name": "Tequila",
 				"size": "4cl",
-				"ingredients": "",
 				"price": "3,90€"
 			}
 		]
@@ -1275,37 +1249,30 @@
 		"entries": [
 			{
 				"name": "Espresso",
-				"ingredients": "",
 				"price": "2,10€"
 			},
 			{
 				"name": "Espresso Corretto",
-				"ingredients": "",
 				"price": "2,90€"
 			},
 			{
 				"name": "Espresso Doppio",
-				"ingredients": "",
 				"price": "3,70€"
 			},
 			{
 				"name": "Cappuccino",
-				"ingredients": "",
 				"price": "2,60€"
 			},
 			{
 				"name": "Tasse Kaffee",
-				"ingredients": "",
 				"price": "2,10€"
 			},
 			{
 				"name": "Latte Macchiato",
-				"ingredients": "",
 				"price": "2,90€"
 			},
 			{
 				"name": "Baileys Latte",
-				"ingredients": "",
 				"price": "3,70€"
 			}
 		]
@@ -1657,27 +1624,22 @@
 			},
 			{
 				"name": "Extra Brot",
-				"ingredients": "",
 				"price": "1,50€"
 			},
 			{
 				"name": "Getrockneten Tomaten",
-				"ingredients": "",
 				"price": "3,90€"
 			},
 			{
 				"name": "Artischocken",
-				"ingredients": "",
 				"price": "3,90€"
 			},
 			{
 				"name": "Oliven",
-				"ingredients": "",
 				"price": "3,90€"
 			},
 			{
 				"name": "Mix Beilage",
-				"ingredients": "",
 				"price": "4,50€"
 			}
 		]
