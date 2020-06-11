@@ -1988,5 +1988,16 @@
 				"price": "4,50€"
 			}
 		]
+	},
+	{
+		"id": "desert",
+		"name": "Deserts",
+		"entries": [
+			{
+				"name": "Schokoladen Souffle",
+				"size": "mit flüssigem Kern",
+				"price": "7,30€"
+			}
+		]
 	}
 ]
