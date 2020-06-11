@@ -27,6 +27,71 @@
 			</div>
 		</main>
 
+		<div class="modal fade" id="welcomemodal" data-backdrop="static" data-keyboard="true" data-focus="true" data-show="true" tabindex="-1" role="dialog" aria-labelledby="welcomelabel" aria-hidden="true">
+			<div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+				<div class="modal-content">
+					<div class="modal-header">
+						<h5 class="modal-title" id="welcomelabel">Herzlich Willkommen!</h5>
+					</div>
+					<div class="modal-body">
+						Liebe Gäste, Willkommen auf der digitalen Getränke- und Speisekarte des Flair66.
+						<hr>
+						<h4>Unsere Öffnungszeiten:</h4>
+						<dl class="row mx-0">
+							<dt class="col-5 text-right">
+								<strong>Montag:</strong>
+							</dt>
+							<dd class="col-7">
+								17:00 Uhr - 00:00 Uhr
+							</dd>
+							<dt class="col-5 text-right">
+								<strong>Dienstag:</strong>
+							</dt>
+							<dd class="col-7">
+								17:00 Uhr - 00:00 Uhr
+							</dd>
+							<dt class="col-5 text-right">
+								<strong>Mittwoch:</strong>
+							</dt>
+							<dd class="col-7">
+								17:00 Uhr - 00:00 Uhr
+							</dd>
+							<dt class="col-5 text-right">
+								<strong>Donnerstag:</strong>
+							</dt>
+							<dd class="col-7">
+								17:00 Uhr - 00:00 Uhr
+							</dd>
+							<dt class="col-5 text-right">
+								<strong>Freitag:</strong>
+							</dt>
+							<dd class="col-7">
+								17:00 Uhr - 02:00 Uhr
+							</dd>
+							<dt class="col-5 text-right">
+								<strong>Samstag:</strong>
+							</dt>
+							<dd class="col-7">
+								17:00 Uhr - 02:00 Uhr
+							</dd>
+							<dt class="col-5 text-right">
+								<strong>Sonntag:</strong>
+							</dt>
+							<dd class="col-7">
+								17:00 Uhr - 00:00 Uhr
+							</dd>
+						</dl>
+					</div>
+					<div class="modal-footer">
+						<button type="button" class="btn btn-success" data-dismiss="modal">Zur Karte</button>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+		<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
 		<script>
 			function create_block(block) {
 				document.getElementById('content').insertAdjacentHTML('beforeend', `
@@ -70,6 +135,8 @@
 					`);
 				});
 			}
+
+			//$('#welcomemodal').modal('show');
 
 			async function run() {
 				let data = await fetch("./data.json");
