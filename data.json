@@ -1891,6 +1891,21 @@
 				"name": "Bruschette Audace",
 				"ingredients": "Südtiroler Speck, Käse, Pilze",
 				"price": "5,60€"
+			},
+			{
+				"name": "Panini Caprese",
+				"ingredients": "",
+				"price": "5,50€"
+			},
+			{
+				"name": "Panini Calabrese",
+				"ingredients": "",
+				"price": "6,50€"
+			},
+			{
+				"name": "Panini Parma",
+				"ingredients": "",
+				"price": "7,50€"
 			}
 		]
 	},
