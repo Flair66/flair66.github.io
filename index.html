@@ -123,12 +123,15 @@
 					} else {
 						container.insertAdjacentHTML('beforeend', `
 							<li class="list-group-item d-flex justify-content-between align-items-center px-1">
-								<h5 class="m-0 pr-3">
-									${element.name}
-									<small class="text-muted">${element.size ? element.size : ''}</small>
-									<br>
-									<small class="text-muted">${element.ingredients ? element.ingredients : ''}</small>
-								</h5>
+								<div class="d-flex">
+									${element.glass ? '<img src="glassware/' + element.glass + '.svg" height="30px" class="mr-2"/>' : ''}
+									<h5 class="m-0 pr-3">
+										${element.name}
+										<small class="text-muted">${element.size ? element.size : ''}</small>
+										<br>
+										<small class="text-muted">${element.ingredients ? element.ingredients : ''}</small>
+									</h5>
+								</div>
 								<div>
 									${element.hh ? '<span class="badge badge-success badge-pill">' + element.hh + '</span><br>' : ""}
 									<span class="badge badge-secondary badge-pill">${element.price}</span>
