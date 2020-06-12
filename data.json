@@ -561,15 +561,9 @@
 				]
 			},
 			{
-				"id": "othergins",
-				"name": "Other Gins",
+				"id": "spanischegin",
+				"name": "Spanische Gin",
 				"entries": [
-					{
-						"name": "Hendrick's",
-						"size": "5cl",
-						"ingredients": "Schottland - 44% VOL",
-						"price": "6,40€"
-					},
 					{
 						"name": "Gin Mare",
 						"size": "5cl",
@@ -583,46 +577,10 @@
 						"price": "6,20€"
 					},
 					{
-						"name": "G-Vine Floraison",
-						"size": "5cl",
-						"ingredients": "Cognac - Frankreich - 40% VOL",
-						"price": "6,10€"
-					},
-					{
-						"name": "Nikka Coffey Gin",
-						"size": "5cl",
-						"ingredients": "Japan - 47% VOL",
-						"price": "9,90€"
-					},
-					{
-						"name": "One Key",
-						"size": "5cl",
-						"ingredients": "Slowenien - 40% VOL",
-						"price": "7,90€"
-					},
-					{
-						"name": "Buss N°509 Pink Grapefruit",
-						"size": "5cl",
-						"ingredients": "Antwerp - Belgien - 40% VOL",
-						"price": "8,10€"
-					},
-					{
-						"name": "Rutte Celery Gin",
-						"size": "5cl",
-						"ingredients": "Niederlande - 43% VOL",
-						"price": "8,10€"
-					},
-					{
 						"name": "Le Tribute",
 						"size": "5cl",
 						"ingredients": "Barcelona - Spanien - 43% VOL",
 						"price": "8,90€"
-					},
-					{
-						"name": "Dolce Vita",
-						"size": "5cl",
-						"ingredients": "Dry Gin - Padova - Italien - 40% VOL",
-						"price": "8,10€"
 					},
 					{
 						"name": "Xoriguer Mahon",
@@ -631,22 +589,46 @@
 						"price": "7,90€"
 					},
 					{
-						"name": "Roku Gin",
+						"name": "Cubical",
 						"size": "5cl",
-						"ingredients": "Japan - 43% VOL",
-						"price": "7,20€"
-					},
+						"ingredients": "London Dry Gin - Spanien - 45% VOL",
+						"price": "8,90€"
+					}
+				]
+			},
+			{
+				"id": "italienischegins",
+				"name": "Italienische Gins",
+				"entries": [
 					{
-						"name": "Magellan",
+						"name": "Dolce Vita",
 						"size": "5cl",
-						"ingredients": "Frankreich - 41,3% VOL",
-						"price": "9,10€"
+						"ingredients": "Dry Gin - Padova - Italien - 40% VOL",
+						"price": "8,10€"
 					},
 					{
 						"name": "Z44",
 						"size": "5cl",
-						"ingredients": "Süd Tirol - Alpen - 44% VOL",
+						"ingredients": "Süd Tirol - Italien - 44% VOL",
 						"price": "7,90€"
+					},
+					{
+						"name": "Del Professore Monsieur Gin",
+						"size": "5cl",
+						"ingredients": "Italien - 43,7% VOL",
+						"price": "8,10€"
+					}
+				]
+			},
+			{
+				"id": "belgischegins",
+				"name": "Belgische Gins",
+				"entries": [
+					{
+						"name": "Buss N°509 Pink Grapefruit",
+						"size": "5cl",
+						"ingredients": "Antwerp - Belgien - 40% VOL",
+						"price": "8,10€"
 					},
 					{
 						"name": "Filliers Dry Gin 28 Tangerine",
@@ -655,17 +637,53 @@
 						"price": "8,10€"
 					},
 					{
-						"name": "Brooklyn",
+						"name": "Amuerte",
 						"size": "5cl",
-						"ingredients": "Brooklyn - USA - 40% VOL",
-						"price": "9,20€"
+						"ingredients": "Coca Leaf Gin - Belgien - 43% VOL",
+						"price": "12,80€"
+					}
+				]
+			},
+			{
+				"id": "franzoesischegins",
+				"name": "Französische Gins",
+				"entries": [
+					{
+						"name": "G-Vine Floraison",
+						"size": "5cl",
+						"ingredients": "Cognac - Frankreich - 40% VOL",
+						"price": "6,10€"
 					},
 					{
-						"name": "Del Professore Monsieur Gin",
+						"name": "Magellan",
 						"size": "5cl",
-						"ingredients": "Italien - 43,7% VOL",
-						"price": "8,10€"
+						"ingredients": "Frankreich - 41,3% VOL",
+						"price": "9,10€"
+					}
+				]
+			},
+			{
+				"id": "japanischegins",
+				"name": "Japanische Gins",
+				"entries": [
+					{
+						"name": "Roku Gin",
+						"size": "5cl",
+						"ingredients": "Japan - 43% VOL",
+						"price": "7,20€"
 					},
+					{
+						"name": "Nikka Coffey Gin",
+						"size": "5cl",
+						"ingredients": "Japan - 47% VOL",
+						"price": "9,90€"
+					}
+				]
+			},
+			{
+				"id": "kolumbianischegins",
+				"name": "Kolumbianische Gins",
+				"entries": [
 					{
 						"name": "Colombian Treasure",
 						"size": "5cl",
@@ -677,23 +695,41 @@
 						"size": "5cl",
 						"ingredients": "Kolumbien - 43% VOL",
 						"price": "7,90€"
+					}
+				]
+			},
+			{
+				"id": "othergins",
+				"name": "Other Gins",
+				"entries": [
+					{
+						"name": "Hendrick's",
+						"size": "5cl",
+						"ingredients": "Schottland - 44% VOL",
+						"price": "6,40€"
+					},
+					{
+						"name": "One Key",
+						"size": "5cl",
+						"ingredients": "Slowenien - 40% VOL",
+						"price": "7,90€"
+					},
+					{
+						"name": "Rutte Celery Gin",
+						"size": "5cl",
+						"ingredients": "Niederlande - 43% VOL",
+						"price": "8,10€"
+					},
+					{
+						"name": "Brooklyn",
+						"size": "5cl",
+						"ingredients": "Brooklyn - USA - 40% VOL",
+						"price": "9,20€"
 					},
 					{
 						"name": "Deux Frères",
 						"size": "5cl",
 						"ingredients": "Dry Gin - Österreich - 43% VOL",
-						"price": "8,90€"
-					},
-					{
-						"name": "Amuerte",
-						"size": "5cl",
-						"ingredients": "Coca Leaf Gin - Belgien - 43% VOL",
-						"price": "12,80€"
-					},
-					{
-						"name": "Cubical",
-						"size": "5cl",
-						"ingredients": "London Dry Gin - Spanien - 45% VOL",
 						"price": "8,90€"
 					}
 				]
