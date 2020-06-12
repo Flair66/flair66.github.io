@@ -31,7 +31,7 @@
 			<div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
 				<div class="modal-content">
 					<div class="modal-header">
-						<h5 class="modal-title" id="welcomelabel">Herzlich Willkommen!</h5>
+						<h3 class="modal-title" id="welcomelabel">Herzlich Willkommen!</h3>
 					</div>
 					<div class="modal-body">
 						Liebe Gäste, Willkommen auf der digitalen Getränke- und Speisekarte des Flair66.
@@ -95,7 +95,7 @@
 		<script>
 			function create_block(block) {
 				document.getElementById('content').insertAdjacentHTML('beforeend', `
-					<div class="col-sm-6 col-md-4 col-lg-3 col-xl-2 p-1">
+					<div class="col-sm-6 col-md-4 col-lg-3 p-1">
 						<button class="btn btn-outline-dark btn-block" onclick="document.getElementById('block-${block.id}').scrollIntoView(true)">${block.name}</button>
 					</div>
 				`);
@@ -111,29 +111,60 @@
 								</button>
 								<u>${block.name}</u>
 							</h2>
-							<ul id="ul-${block.id}" class="list-group list-group-flush p-2">
+							<ul id="ul-${block.id}" class="accordion list-group list-group-flush p-2">
 							</ul>
 						</div>
 					</div>
 				`);
 
 				let container = document.getElementById('ul-' + block.id);
-				block.entries.forEach(element => {
-					container.insertAdjacentHTML('beforeend', `
-						<li class="list-group-item d-flex justify-content-between align-items-center px-1">
-							<h5 class="m-0 pr-3">
-								${element.name}
-								<small class="text-muted">${element.size ? element.size : ''}</small>
-								<br>
-								<small class="text-muted">${element.ingredients ? element.ingredients : ''}</small>
-							</h5>
-							<div>
-								${element.hh ? '<span class="badge badge-success badge-pill">' + element.hh + '</span><br>' : ""}
-								<span class="badge badge-secondary badge-pill">${element.price}</span>
-							</div>
-						</li>
-					`);
-				});
+				if (block.entries) {
+					block.entries.forEach(element => {
+						container.insertAdjacentHTML('beforeend', `
+							<li class="list-group-item d-flex justify-content-between align-items-center px-1">
+								<h5 class="m-0 pr-3">
+									${element.name}
+									<small class="text-muted">${element.size ? element.size : ''}</small>
+									<br>
+									<small class="text-muted">${element.ingredients ? element.ingredients : ''}</small>
+								</h5>
+								<div>
+									${element.hh ? '<span class="badge badge-success badge-pill">' + element.hh + '</span><br>' : ""}
+									<span class="badge badge-secondary badge-pill">${element.price}</span>
+								</div>
+							</li>
+						`);
+					});
+				}
+				if (block.blocks) {
+					block.blocks.forEach(subblock => {
+						container.insertAdjacentHTML('beforeend', `
+							<li id="label-${subblock.id}" class="list-group-item d-flex px-1" style="border: none">
+								<button class="btn btn-outline-dark btn-block" type="button" data-toggle="collapse" data-target="collapse-${subblock.id}" onclick="$('#collapse-${subblock.id}').toggleClass('d-none')">
+									${subblock.name}
+								</button>
+							</li>
+							<div id="collapse-${subblock.id}" class="list-group-flush d-none" aria-labelledby="label-${subblock.id}"></div>
+						`);
+						let block_container = document.getElementById('collapse-' + subblock.id);
+						subblock.entries.forEach(element => {
+							block_container.insertAdjacentHTML('beforeend', `
+								<li class="list-group-item d-flex justify-content-between align-items-center px-1">
+									<h5 class="m-0 pr-3">
+										${element.name}
+										<small class="text-muted">${element.size ? element.size : ''}</small>
+										<br>
+										<small class="text-muted">${element.ingredients ? element.ingredients : ''}</small>
+									</h5>
+									<div>
+										${element.hh ? '<span class="badge badge-success badge-pill">' + element.hh + '</span><br>' : ""}
+										<span class="badge badge-secondary badge-pill">${element.price}</span>
+									</div>
+								</li>
+							`);
+						});
+					})
+				}
 			}
 
 			//$('#welcomemodal').modal('show');
