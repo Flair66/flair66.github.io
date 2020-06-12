@@ -1247,177 +1247,185 @@
 		"entries": [
 			{
 				"name": "Sauvignon",
-				"size": "0,1l",
 				"ingredients": "Weißwein",
-				"price": "3,60€"
-			},
-			{
-				"name": "Sauvignon",
-				"size": "0,2l",
-				"ingredients": "Weißwein",
-				"price": "6,90€"
-			},
-			{
-				"name": "Sauvignon",
-				"size": "0,75l",
-				"ingredients": "Weißwein",
-				"price": "24,10€"
-			},
-			{
-				"name": "Pinot Grigio",
-				"size": "0,1l",
-				"ingredients": "Weißwein",
-				"price": "3,30€"
+				"sizes": [
+					{
+						"size": "0,1l",
+						"price": "3,60€"
+					},
+					{
+						"size": "0,2l",
+						"price": "6,90€"
+					},
+					{
+						"size": "0,75l",
+						"price": "24,10€"
+					}
+				]
 			},
 			{
 				"name": "Pinot Grigio",
-				"size": "0,2l",
 				"ingredients": "Weißwein",
-				"price": "6,10€"
-			},
-			{
-				"name": "Pinot Grigio",
-				"size": "0,75l",
-				"ingredients": "Weißwein",
-				"price": "21,30€"
-			},
-			{
-				"name": "Manzoni Bianco",
-				"size": "0,1l",
-				"ingredients": "Weißwein",
-				"price": "3,40€"
-			},
-			{
-				"name": "Manzoni Bianco",
-				"size": "0,2l",
-				"ingredients": "Weißwein",
-				"price": "6,20€"
+				"sizes": [
+					{
+						"size": "0,1l",
+						"price": "3,30€"
+					},
+					{
+						"size": "0,2l",
+						"price": "6,10€"
+					},
+					{
+						"size": "0,75l",
+						"price": "21,30€"
+					}
+				]
 			},
 			{
 				"name": "Manzoni Bianco",
-				"size": "0,75l",
 				"ingredients": "Weißwein",
-				"price": "21,90€"
+				"sizes": [
+					{
+						"size": "0,1l",
+						"price": "3,40€"
+					},
+					{
+						"size": "0,2l",
+						"price": "6,20€"
+					},
+					{
+						"size": "0,75€",
+						"price": "21,90€"
+					}
+				]
 			},
 			{
 				"name": "Prosecco Frizzante",
-				"size": "0,1l",
 				"ingredients": "Weißwein",
-				"price": "3,40€"
-			},
-			{
-				"name": "Prosecco Frizzante",
-				"size": "0,2l",
-				"ingredients": "Weißwein",
-				"price": "6,20€"
-			},
-			{
-				"name": "Prosecco Frizzante",
-				"size": "0,75l",
-				"ingredients": "Weißwein",
-				"price": "21,90€"
-			},
-			{
-				"name": "Lugana",
-				"size": "0,1l",
-				"ingredients": "Weißwein",
-				"price": "3,60€"
+				"sizes": [
+					{
+						"size": "0,1l",
+						"price": "3,40€"
+					},
+					{
+						"size": "0,2l",
+						"price": "6,20€"
+					},
+					{
+						"size": "0,75l",
+						"price": "21,90€"
+					}
+				]
 			},
 			{
 				"name": "Lugana",
-				"size": "0,2l",
 				"ingredients": "Weißwein",
-				"price": "6,90€"
-			},
-			{
-				"name": "Lugana",
-				"size": "0,75l",
-				"ingredients": "Weißwein",
-				"price": "24,10€"
+				"sizes": [
+					{
+						"size": "0,1l",
+						"price": "3,60€"
+					},
+					{
+						"size": "0,2l",
+						"price": "6,90€"
+					},
+					{
+						"size": "0,75l",
+						"price": "24,10€"
+					}
+				]
 			},
 			{
 				"name": "Veuve Clicquot",
-				"size": "0,75l",
 				"ingredients": "Weißwein",
-				"price": "89,00€"
+				"sizes": [
+					{
+						"size": "0,75l",
+						"price": "89,00€"
+					}
+				]
 			},
 			{
 				"name": "Barbera",
-				"size": "0,1l",
 				"ingredients": "Rotwein",
-				"price": "3,60€"
-			},
-			{
-				"name": "Barbera",
-				"size": "0,2l",
-				"ingredients": "Rotwein",
-				"price": "6,90€"
-			},
-			{
-				"name": "Barbera",
-				"size": "0,75l",
-				"ingredients": "Rotwein",
-				"price": "24,10€"
+				"sizes": [
+					{
+						"size": "0,1l",
+						"price": "3,60€"
+					},
+					{
+						"size": "0,2l",
+						"price": "6,90€"
+					},
+					{
+						"size": "0,75l",
+						"price": "24,10€"
+					}
+				]
 			},
 			{
 				"name": "Nero d'Avola",
-				"size": "0,1l",
 				"ingredients": "Rotwein",
-				"price": "3,40€"
-			},
-			{
-				"name": "Nero d'Avola",
-				"size": "0,2l",
-				"ingredients": "Rotwein",
-				"price": "6,20€"
-			},
-			{
-				"name": "Nero d'Avola",
-				"size": "0,75l",
-				"ingredients": "Rotwein",
-				"price": "21,30€"
+				"sizes": [
+					{
+						"size": "0,1l",
+						"price": "3,40€"
+					},
+					{
+						"size": "0,2l",
+						"price": "6,20€"
+					},
+					{
+						"size": "0,75l",
+						"price": "21,30€"
+					}
+				]
 			},
 			{
 				"name": "Primitivo Salento",
-				"size": "0,1l",
 				"ingredients": "Rotwein",
-				"price": "3,60€"
-			},
-			{
-				"name": "Primitivo Salento",
-				"size": "0,2l",
-				"ingredients": "Rotwein",
-				"price": "6,90€"
-			},
-			{
-				"name": "Primitivo Salento",
-				"size": "0,75l",
-				"ingredients": "Rotwein",
-				"price": "24,10€"
+				"sizes": [
+					{
+						"size": "0,1l",
+						"price": "3,60€"
+					},
+					{
+						"size": "0,2l",
+						"price": "6,90€"
+					},
+					{
+						"size": "0,75l",
+						"price": "24,10€"
+					}
+				]
 			},
 			{
 				"name": "Rosato",
-				"size": "0,1l",
 				"ingredients": "Roséwein",
-				"price": "3,30€"
-			},
-			{
-				"name": "Rosato",
-				"size": "0,2l",
-				"ingredients": "Roséwein",
-				"price": "6,10€"
-			},
-			{
-				"name": "Rosato",
-				"size": "0,75l",
-				"ingredients": "Roséwein",
-				"price": "21,30€"
+				"sizes": [
+					{
+						"size": "0,1l",
+						"price": "3,30€"
+					},
+					{
+						"size": "0,2l",
+						"price": "6,10€"
+					},
+					{
+						"size": "0,75l",
+						"price": "21,30€"
+					}
+				]
 			},
 			{
 				"name": "Weinschorle",
-				"size": "0,2l",
 				"ingredients": "Weiß, Rot oder Rosé",
-				"price": "4,40€"
+				"sizes": [
+					{
+						"size": "0,2l",
+						"price": "4,40€"
+					}
+				]
 			}
 		]
 	},
