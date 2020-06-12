@@ -561,8 +561,8 @@
 				]
 			},
 			{
-				"id": "anderegins",
-				"name": "Andere Gins",
+				"id": "othergins",
+				"name": "Other Gins",
 				"entries": [
 					{
 						"name": "Hendrick's",
@@ -699,8 +699,8 @@
 				]
 			},
 			{
-				"id": "tonics",
-				"name": "Tonics",
+				"id": "tonicwater",
+				"name": "Tonic Water",
 				"entries": [
 					{
 						"name": "Fever-Tree Mediterranean",
