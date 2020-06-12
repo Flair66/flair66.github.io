@@ -1456,42 +1456,68 @@
 		"entries": [
 			{
 				"name": "San Pellegrino",
-				"size": "0,25l",
-				"price": "2,10€"
-			},
-			{
-				"name": "San Pellegrino",
-				"size": "0,75l",
-				"price": "4,90€"
+				"size": "0,25l / 0,75l",
+				"price": "2,10€ / 4,90€"
 			},
 			{
 				"name": "Red Bull",
-				"size": "Dose",
+				"size": "0,25l",
 				"price": "3,60€"
 			},
 			{
 				"name": "Coca Cola",
-				"price": "2,60€"
+				"size": "0,2l / 0,33l",
+				"price": "2,60€ / 3,60€"
 			},
 			{
 				"name": "Coca Cola Light",
-				"price": "2,60€"
+				"size": "0,2l / 0,33l",
+				"price": "2,60€ / 3,60€"
 			},
 			{
 				"name": "Bitter Lemon",
+				"size": "0,2l",
 				"price": "2,70€"
 			},
 			{
+				"name": "Ananassaft",
+				"size": "0,2l / 0,33l",
+				"price": "2,60€ / 3,60€"
+			},
+			{
+				"name": "Ananassaftschorle",
+				"size": "0,2l / 0,33l",
+				"price": "2,60€ / 3,60€"
+			},
+			{
 				"name": "Orangensaft",
-				"price": "2,60€"
+				"size": "0,2l / 0,33l",
+				"price": "2,60€ / 3,60€"
+			},
+			{
+				"name": "Orangensaftschorle",
+				"size": "0,2l / 0,33l",
+				"price": "2,60€ / 3,60€"
 			},
 			{
 				"name": "Maracujasaft",
-				"price": "2,60€"
+				"size": "0,2l / 0,33l",
+				"price": "2,60€ / 3,60€"
+			},
+			{
+				"name": "Maracujasaftschorle",
+				"size": "0,2l / 0,33l",
+				"price": "2,60€ / 3,60€"
 			},
 			{
 				"name": "Cranberrysaft",
-				"price": "2,60€"
+				"size": "0,2l / 0,33l",
+				"price": "2,60€ / 3,60€"
+			},
+			{
+				"name": "Cranberrysaftschorle",
+				"size": "0,2l / 0,33l",
+				"price": "2,60€ / 3,60€"
 			}
 		]
 	},
