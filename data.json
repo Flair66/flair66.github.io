@@ -561,8 +561,8 @@
 				]
 			},
 			{
-				"id": "spanischegin",
-				"name": "Spanische Gin",
+				"id": "spanischegins",
+				"name": "Spanische Gins",
 				"entries": [
 					{
 						"name": "Gin Mare",
@@ -1886,116 +1886,146 @@
 	{
 		"id": "fingerfood",
 		"name": "Finger Food",
-		"entries": [
+		"blocks": [
 			{
-				"name": "Piadine Classica",
-				"ingredients": "Parma-Schinken, frisch Käse",
-				"price": "4,50€"
+				"id": "piadine",
+				"name": "Piadine",
+				"entries": [
+					{
+						"name": "Classica",
+						"ingredients": "Parma-Schinken, frisch Käse",
+						"price": "4,50€"
+					},
+					{
+						"name": "Toscana",
+						"ingredients": "Soppressa, Frischkäse, Grana Käse, Pilze",
+						"price": "4,80€"
+					},
+					{
+						"name": "Principe",
+						"ingredients": "Parma-Schinken, Käse, Getrocknete Tomaten, Oregano",
+						"price": "4,90€"
+					},
+					{
+						"name": "Saporita",
+						"ingredients": "vier Käsesorten, Paprika",
+						"price": "4,60€"
+					},
+					{
+						"name": "Speciale",
+						"ingredients": "Südtiroler Speck, Kräuterfrischkäse, Käse, Pilze, Kümmel",
+						"price": "4,90€"
+					}
+				]
 			},
 			{
-				"name": "Piadine Toscana",
-				"ingredients": "Soppressa, Frischkäse, Grana Käse, Pilze",
-				"price": "4,80€"
+				"id": "toast",
+				"name": "Toast",
+				"entries": [
+					{
+						"name": "Roma",
+						"ingredients": "Parma-Schinken, Smelzkäsescheiben, Artischocken",
+						"price": "4,30€"
+					},
+					{
+						"name": "Alpha",
+						"ingredients": "Soppressa, Schmelzkäsescheiben, Getrocknete Tomaten",
+						"price": "4,30€"
+					},
+					{
+						"name": "Vega",
+						"ingredients": "Schmelzkäsescheiben, Paprika, Getrokenete Tomaten, Artischocken, Pilze",
+						"price": "4,30€"
+					},
+					{
+						"name": "Salato",
+						"ingredients": "Schmelzkäsescheiben, Südtiroler Spek, Grana Käse",
+						"price": "4,30€"
+					}
+				]
 			},
 			{
-				"name": "Piadine Principe",
-				"ingredients": "Parma-Schinken, Käse, Getrocknete Tomaten, Oregano",
-				"price": "4,90€"
+				"id": "crostini",
+				"name": "Crostini",
+				"entries": [
+					{
+						"name": "Acapulco",
+						"ingredients": "Kräuferfrischkäse, Käse, Parma-Schinken",
+						"price": "3,50€"
+					},
+					{
+						"name": "Capri",
+						"ingredients": "Artischocken, Käse, Soppressa",
+						"price": "3,40€"
+					},
+					{
+						"name": "Tarragona",
+						"ingredients": "Paprika, Käse, Spianata",
+						"price": "3,40€"
+					},
+					{
+						"name": "Elegante",
+						"ingredients": "Vier Käsesorten, Balsamico-Creme",
+						"price": "3,40€"
+					},
+					{
+						"name": "Boscaiolo",
+						"ingredients": "Pilze, Käse, Parma-Schinken",
+						"price": "3,60€"
+					},
+					{
+						"name": "Friendly",
+						"ingredients": "Getrocknete Tomaten, Käse, Soppressa",
+						"price": "3,40€"
+					}
+				]
 			},
 			{
-				"name": "Piadine Saporita",
-				"ingredients": "vier Käsesorten, Paprika",
-				"price": "4,60€"
+				"id": "bruschette",
+				"name": "Bruschette",
+				"entries": [
+					{
+						"name": "Tirolese",
+						"ingredients": "Südtiroler Speck, Käse, Kümmel",
+						"price": "5,50€"
+					},
+					{
+						"name": "Deliziosa",
+						"ingredients": "Spianata, Paprika, Käse",
+						"price": "5,70€"
+					},
+					{
+						"name": "Autunnale",
+						"ingredients": "Soppressa, Pilze, Käse",
+						"price": "5,60€"
+					},
+					{
+						"name": "Audace",
+						"ingredients": "Südtiroler Speck, Käse, Pilze",
+						"price": "5,60€"
+					}
+				]
 			},
 			{
-				"name": "Piadine Speciale",
-				"ingredients": "Südtiroler Speck, Kräuterfrischkäse, Käse, Pilze, Kümmel",
-				"price": "4,90€"
-			},
-			{
-				"name": "Toast Roma",
-				"ingredients": "Parma-Schinken, Smelzkäsescheiben, Artischocken",
-				"price": "4,30€"
-			},
-			{
-				"name": "Toast Alpha",
-				"ingredients": "Soppressa, Schmelzkäsescheiben, Getrocknete Tomaten",
-				"price": "4,30€"
-			},
-			{
-				"name": "Toast Vega",
-				"ingredients": "Schmelzkäsescheiben, Paprika, Getrokenete Tomaten, Artischocken, Pilze",
-				"price": "4,30€"
-			},
-			{
-				"name": "Toast Salato",
-				"ingredients": "Schmelzkäsescheiben, Südtiroler Spek, Grana Käse",
-				"price": "4,30€"
-			},
-			{
-				"name": "Crostini Acapulco",
-				"ingredients": "Kräuferfrischkäse, Käse, Parma-Schinken",
-				"price": "3,50€"
-			},
-			{
-				"name": "Crostini Capri",
-				"ingredients": "Artischocken, Käse, Soppressa",
-				"price": "3,40€"
-			},
-			{
-				"name": "Crostini Tarragona",
-				"ingredients": "Paprika, Käse, Spianata",
-				"price": "3,40€"
-			},
-			{
-				"name": "Crostini Elegante",
-				"ingredients": "Vier Käsesorten, Balsamico-Creme",
-				"price": "3,40€"
-			},
-			{
-				"name": "Crostini Boscaiolo",
-				"ingredients": "Pilze, Käse, Parma-Schinken",
-				"price": "3,60€"
-			},
-			{
-				"name": "Crostini Friendly",
-				"ingredients": "Getrocknete Tomaten, Käse, Soppressa",
-				"price": "3,40€"
-			},
-			{
-				"name": "Bruschette Tirolese",
-				"ingredients": "Südtiroler Speck, Käse, Kümmel",
-				"price": "5,50€"
-			},
-			{
-				"name": "Bruschette Deliziosa",
-				"ingredients": "Spianata, Paprika, Käse",
-				"price": "5,70€"
-			},
-			{
-				"name": "Bruschette Autunnale",
-				"ingredients": "Soppressa, Pilze, Käse",
-				"price": "5,60€"
-			},
-			{
-				"name": "Bruschette Audace",
-				"ingredients": "Südtiroler Speck, Käse, Pilze",
-				"price": "5,60€"
-			},
-			{
-				"name": "Panini Caprese",
-				"ingredients": "",
-				"price": "5,50€"
-			},
-			{
-				"name": "Panini Calabrese",
-				"ingredients": "",
-				"price": "6,50€"
-			},
-			{
-				"name": "Panini Parma",
-				"ingredients": "",
-				"price": "7,50€"
+				"id": "panini",
+				"name": "Panini",
+				"entries": [
+					{
+						"name": "Panini Caprese",
+						"ingredients": "",
+						"price": "5,50€"
+					},
+					{
+						"name": "Panini Calabrese",
+						"ingredients": "",
+						"price": "6,50€"
+					},
+					{
+						"name": "Panini Parma",
+						"ingredients": "",
+						"price": "7,50€"
+					}
+				]
 			}
 		]
 	},
