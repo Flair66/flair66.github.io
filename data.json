@@ -443,8 +443,8 @@
 		]
 	},
 	{
-		"id": "gintonic",
-		"name": "Gin Tonic",
+		"id": "ginutonic",
+		"name": "Gin & Tonic",
 		"blocks": [
 			{
 				"id": "deutschegins",
