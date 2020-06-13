@@ -32,7 +32,7 @@
 			{
 				"name": "Very Berry",
 				"glass": 1,
-				"ingredients": "Limetten, Braunerzucker, Erdbeerpüree, frische Himbeeren-Brombeer-Heidelbeeren, Absolut Raspberry Vodka, Chambord",
+				"ingredients": "Limetten, brauner Zucker, Erdbeerpüree, frische Himbeeren-Brombeer-Heidelbeeren, Absolut Raspberry Vodka, Chambord",
 				"price": "7,50€"
 			},
 			{
@@ -50,20 +50,20 @@
 			{
 				"name": "Caipiroka",
 				"glass": 1,
-				"ingredients": "Limetten, Braunerzucker, Mangopüree, Smirnoff Vodka",
+				"ingredients": "Limetten, brauner Zucker, Mangopüree, Smirnoff Vodka",
 				"hh": "5,20€",
 				"price": "7,10€"
 			},
 			{
 				"name": "Royal Gold Caipi",
 				"glass": 1,
-				"ingredients": "Limetten, Braunerzucker, Smirnoff Vodka, Chambord, Prosecco",
+				"ingredients": "Limetten, brauner Zucker, Smirnoff Vodka, Chambord, Prosecco",
 				"price": "7,30€"
 			},
 			{
 				"name": "Strawberry Caipiroska",
 				"glass": 1,
-				"ingredients": "Limetten, Braunerzucker, Erdbeerpüree, Smirnoff Vodka",
+				"ingredients": "Limetten, brauner Zucker, Erdbeerpüree, Smirnoff Vodka",
 				"price": "7,10€"
 			},
 			{
@@ -239,34 +239,34 @@
 			{
 				"name": "Culto a la Vida",
 				"glass": 1,
-				"ingredients": "Limetten, Weisserzucker, Havana Club 7J, Cranberrysaft",
+				"ingredients": "Limetten, weißer Zucker, Havana Club 7J, Cranberrysaft",
 				"price": "7,50€"
 			},
 			{
 				"name": "Caipirissima",
 				"glass": 1,
-				"ingredients": "Limetten, Braunerzucker, Havana Club 3J",
+				"ingredients": "Limetten, brauner Zucker, Havana Club 3J",
 				"hh": "5,20€",
 				"price": "7,10€"
 			},
 			{
 				"name": "Mojito",
 				"glass": 1,
-				"ingredients": "Limetten, Braunerzucker, Pfefferminzblätter, Havana Club 3J, Soda",
+				"ingredients": "Limetten, brauner Zucker, Pfefferminzblätter, Havana Club 3J, Soda",
 				"hh": "5,20€",
 				"price": "7,20€"
 			},
 			{
 				"name": "Himbeeren Mojito",
 				"glass": 1,
-				"ingredients": "Limetten, Braunerzucker, Himbeerpüree, Pfefferminzblätter, Havana Club 3J, Soda",
+				"ingredients": "Limetten, brauner Zucker, Himbeerpüree, Pfefferminzblätter, Havana Club 3J, Soda",
 				"hh": "5,50€",
 				"price": "7,30€"
 			},
 			{
 				"name": "Mango Mojito",
 				"glass": 2,
-				"ingredients": "Limetten, Braunerzucker, Himbeerpüree, Pfefferminzblätter, Havana Club 3J, Soda",
+				"ingredients": "Limetten, brauner Zucker, Himbeerpüree, Pfefferminzblätter, Havana Club 3J, Soda",
 				"hh": "5,50€",
 				"price": "7,30€"
 			},
@@ -285,30 +285,30 @@
 			{
 				"name": "Smoked Mojito",
 				"glass": 2,
-				"ingredients": "Limetten, Braunerzucker, Pfefferminzblätter, Havana Club Añejo Especial, Angostura Bitter, Soda (geräuchert)",
+				"ingredients": "Limetten, brauner Zucker, Pfefferminzblätter, Havana Club Añejo Especial, Angostura Bitter, Soda (geräuchert)",
 				"price": "9,30€"
 			},
 			{
 				"name": "Mojito Flambé",
-				"ingredients": "Limetten, Braunerzucker, Pfefferminzblätter, Havana Club 7J",
+				"ingredients": "Limetten, brauner Zucker, Pfefferminzblätter, Havana Club 7J",
 				"price": "8,90€"
 			},
 			{
 				"name": "Royal Mojito",
 				"glass": 2,
-				"ingredients": "Limetten, Braunerzucker, Pfefferminzblätter, Havana Club 3J, Angostura, Prosecco",
+				"ingredients": "Limetten, brauner Zucker, Pfefferminzblätter, Havana Club 3J, Angostura, Prosecco",
 				"price": "7,70€"
 			},
 			{
 				"name": "Pink Mojito",
 				"glass": 2,
-				"ingredients": "Limetten, Braunerzucker, Pfefferminzblätter, Havana Club 3J, Sour Mix, Cranberrysaft, Prosecco",
+				"ingredients": "Limetten, brauner Zucker, Pfefferminzblätter, Havana Club 3J, Sour Mix, Cranberrysaft, Prosecco",
 				"price": "7,70€"
 			},
 			{
 				"name": "Chocolate Mojito",
 				"glass": 1,
-				"ingredients": "Limetten, Orangen, Braunerzucker, Pfefferminzblätter, Havana Club 3J, Braune Creme de Cacao, Bitter Schokolade, Soda",
+				"ingredients": "Limetten, Orangen, brauner Zucker, Pfefferminzblätter, Havana Club 3J, Braune Creme de Cacao, Bitter Schokolade, Soda",
 				"price": "7,50€"
 			},
 			{
@@ -391,7 +391,7 @@
 			{
 				"name": "Fuego",
 				"glass": 7,
-				"ingredients": "Frischer Limettensaft, Braunerzucker, Chili Paprika, Havana Club 3J, Maracujasaft",
+				"ingredients": "Frischer Limettensaft, brauner Zucker, Chili Paprika, Havana Club 3J, Maracujasaft",
 				"price": "7,80€"
 			},
 			{
@@ -989,18 +989,18 @@
 		"entries": [
 			{
 				"name": "Caipiriña",
-				"ingredients": "Limetten, Braunerzucker, Sour Mix, Cachaça",
+				"ingredients": "Limetten, brauner Zucker, Sour Mix, Cachaça",
 				"hh": "5,20€",
 				"price": "6,90€"
 			},
 			{
 				"name": "Tropical Caipiriña",
-				"ingredients": "Limetten, Braunerzucker, Ananas, Kiwi, Cachaça",
+				"ingredients": "Limetten, brauner Zucker, Ananas, Kiwi, Cachaça",
 				"price": "7,30€"
 			},
 			{
 				"name": "Berrys Caipiriña",
-				"ingredients": "Limetten, Braunerzucker, Erdbeerpüree, frische Himbeeren, frische Heidelbeeren, frische Brombeeren, Cachaça",
+				"ingredients": "Limetten, brauner Zucker, Erdbeerpüree, frische Himbeeren, frische Heidelbeeren, frische Brombeeren, Cachaça",
 				"price": "7,50€"
 			},
 			{
@@ -1054,7 +1054,7 @@
 				"price": "7,70€"
 			},
 			{
-				"name": "Manhatten",
+				"name": "Manhattan",
 				"ingredients": "Canadian Whisky, Vermouth Rosso",
 				"price": "7,80€"
 			},
@@ -1106,7 +1106,7 @@
 			},
 			{
 				"name": "Caipiri43",
-				"ingredients": "Limetten, Braunerzucker, Likör 43",
+				"ingredients": "Limetten, brauner Zucker, Likör 43",
 				"price": "6,90€"
 			},
 			{
@@ -1325,13 +1325,13 @@
 			},
 			{
 				"name": "Ipanema",
-				"ingredients": "Limetten, Braunerzucker, Maracujasaft",
+				"ingredients": "Limetten, brauner Zucker, Maracujasaft",
 				"hh": "4,60€",
 				"price": "6,40€"
 			},
 			{
 				"name": "Berrys Ipanema",
-				"ingredients": "Limetten, Braunerzucker, Beeren, Maracujasaft",
+				"ingredients": "Limetten, brauner Zucker, Beeren, Maracujasaft",
 				"price": "6,90€"
 			},
 			{
@@ -1979,7 +1979,7 @@
 			{
 				"name": "Jack Daniel's N°7",
 				"size": "4cl",
-				"ingredients": "40% - Tenneessee - USA",
+				"ingredients": "40% - Tennessee - USA",
 				"price": "5,50€"
 			},
 			{
@@ -2195,7 +2195,7 @@
 		"name": "Antipasti",
 		"entries": [
 			{
-				"name": "Gemischter Aufschnitteller",
+				"name": "Gemischter Aufschnittteller",
 				"size": "incl. Brot",
 				"ingredients": "Prosciutto crudo, Soppressa, Spianata",
 				"price": "10,90€ / 19,90€"
@@ -2207,7 +2207,7 @@
 				"price": "10,90€ / 19,90€"
 			},
 			{
-				"name": "Gemischter Aufschnit-Käseteller",
+				"name": "Gemischter Aufschnitt-Käseteller",
 				"size": "incl. Brot",
 				"ingredients": "Prosciutto crudo, Soppressa, Spianata, Montasio DOP, Asiago DOP, Grana Padano DOP, Pecorino Romano",
 				"price": "14,90€ / 28,90€"
@@ -2241,8 +2241,8 @@
 		]
 	},
 	{
-		"id": "desert",
-		"name": "Deserts",
+		"id": "dessert",
+		"name": "Desserts",
 		"entries": [
 			{
 				"name": "Schokoladen Souffle",
