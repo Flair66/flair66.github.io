@@ -5,187 +5,221 @@
 		"entries": [
 			{
 				"name": "Vodka Tonic",
+				"glass": 5,
 				"ingredients": "Smirnoff Vodka, Schweppes Tonic Wasser",
 				"price": "6,10€"
 			},
 			{
 				"name": "Screwdriver",
+				"glass": 5,
 				"ingredients": "Smirnoff Vodka, Orangensaft",
 				"hh": "4,50€",
 				"price": "6,10€"
 			},
 			{
 				"name": "Vodka Bull",
+				"glass": 5,
 				"ingredients": "Smirnoff Vodka, Red Bull",
 				"price": "7,30€"
 			},
 			{
 				"name": "Vodka Sour",
+				"glass": 1,
 				"ingredients": "Smirnoff Vodka, Sour Mix",
 				"hh": "4,60€",
 				"price": "6,30€"
 			},
 			{
 				"name": "Very Berry",
+				"glass": 1,
 				"ingredients": "Limetten, Braunerzucker, Erdbeerpüree, frische Himbeeren-Brombeer-Heidelbeeren, Absolut Raspberry Vodka, Chambord",
 				"price": "7,50€"
 			},
 			{
 				"name": "Socialité",
+				"glass": 1,
 				"ingredients": "Zitronen, Vanille Sirup, Absolut Vodka, Limoncello, Grand Marnier",
 				"price": "7,30€"
 			},
 			{
 				"name": "Moscow Mule",
+				"glass": 1,
 				"ingredients": "Limetten, Zucker Sirup, Smirnoff Vodka, Ginger Beer",
 				"price": "7,30€"
 			},
 			{
 				"name": "Caipiroka",
+				"glass": 1,
 				"ingredients": "Limetten, Braunerzucker, Mangopüree, Smirnoff Vodka",
 				"hh": "5,20€",
 				"price": "7,10€"
 			},
 			{
 				"name": "Royal Gold Caipi",
+				"glass": 1,
 				"ingredients": "Limetten, Braunerzucker, Smirnoff Vodka, Chambord, Prosecco",
 				"price": "7,30€"
 			},
 			{
 				"name": "Strawberry Caipiroska",
+				"glass": 1,
 				"ingredients": "Limetten, Braunerzucker, Erdbeerpüree, Smirnoff Vodka",
 				"price": "7,10€"
 			},
 			{
 				"name": "Sex in Gerlingen",
+				"glass": 5,
 				"ingredients": "Smirnoff Vodka, Midori, Chambord, Orangensaft, Ananassaft",
 				"hh": "5,50€",
 				"price": "7,60€"
 			},
 			{
 				"name": "Sex on the Beach",
+				"glass": 5,
 				"ingredients": "Smirnoff Vodka, Peach Likör, Cranberrysaft, Orangensaft",
 				"hh": "5,50€",
 				"price": "7,60€"
 			},
 			{
 				"name": "West Palm Breeze",
+				"glass": 2,
 				"ingredients": "Smirnoff Vodka, Peach Likör, Blue Curaçao, Kokossirup, Sahne, Ananassaft",
 				"price": "7,80€"
 			},
 			{
 				"name": "El Presidente",
+				"glass": 7,
 				"ingredients": "Absolut Vodka, Cassis Likör, Sour Mix, Prosecco",
 				"price": "7,50€"
 			},
 			{
 				"name": "Sex in the City",
+				"glass": 7,
 				"ingredients": "Absolut Kurant Vodka, Lychee Likör, frischer Limettensaft, Cranberrysaft",
 				"hh": "5,50€",
 				"price": "7,60€"
 			},
 			{
 				"name": "Absolut Berri Mule",
+				"glass": 5,
 				"ingredients": "Absolut Rasberry Vodka, Chambord, Cranberrysaft, Ginger Ber",
 				"price": "7,60€"
 			},
 			{
 				"name": "Bon Bon",
+				"glass": 7,
 				"ingredients": "Smirnoff Vodka, Erdbeerpüree, Sahne",
 				"hh": "5,50€",
 				"price": "7,40€"
 			},
 			{
 				"name": "Al Pacino",
+				"glass": 5,
 				"ingredients": "Smirnoff Vodka, Southern Comfort, Peach Likör, Lime Juice, Sour Mix, Maracujasaft",
 				"price": "7,80€"
 			},
 			{
 				"name": "Peartini",
+				"glass": 7,
 				"ingredients": "Absolut Pear Vodka, Peach Likör, Ananassaft, Lime Juice",
 				"hh": "5,50€",
 				"price": "7,60€"
 			},
 			{
 				"name": "Lychee Martini",
+				"glass": 7,
 				"ingredients": "Smirnoff Vodka, Lychee Likör, Maracujasaft",
 				"price": "7,40€"
 			},
 			{
 				"name": "Porn Star",
+				"glass": 7,
 				"ingredients": "Absolut Vanilla Vodka, Passoa, Vanillesirup, frischer Limettensaft, frische Maracuja, Prosecco",
 				"price": "8,90€"
 			},
 			{
 				"name": "Vodka Gimlet",
+				"glass": 7,
 				"ingredients": "Absolut Vodka, Lime Juice",
 				"price": "7,20€"
 			},
 			{
 				"name": "Raspberry Martini",
+				"glass": 7,
 				"ingredients": "Absolut Raspberry Vodka, Chambord, Himbeerpüre, Sour Mix",
 				"hh": "5,50€",
 				"price": "7,40€"
 			},
 			{
 				"name": "Cosmopolitan",
+				"glass": 7,
 				"ingredients": "Smirnoff Vodka, Triple Sec, frischer Limettensaft, Cranberrysaft",
 				"hh": "5,50€",
 				"price": "7,40€"
 			},
 			{
 				"name": "Mangopolitan",
+				"glass": 7,
 				"ingredients": "Smirnoff Vodka, Triple Sec, frischer Limettensaft, Mangopüree",
 				"hh": "5,50€",
 				"price": "7,40€"
 			},
 			{
 				"name": "Absolut Spiced Pears",
+				"glass": 7,
 				"ingredients": "Absolut Pears Vodka, Orangensaft, Zitronensaft, Vanillesirup",
 				"hh": "5,50€",
 				"price": "7,40€"
 			},
 			{
 				"name": "Hot Chocolate",
+				"glass": 7,
 				"ingredients": "Smirnoff Vodka, Cherry Likör, Brauner Zucker, Chili Paprika, Braune Creme de Cacao, frischer Limettensaft, geraspelte Bitterschokolade",
 				"price": "8,10€"
 			},
 			{
 				"name": "White Russian",
+				"glass": 7,
 				"ingredients": "Smirnoff Vodka, Kahlua, Sahne",
 				"price": "7,40€"
 			},
 			{
 				"name": "Multiply Orgasm",
+				"glass": 7,
 				"ingredients": "Smirnoff Vodka, Creme de Cacao, Amaretto di Saronno, Triple Sec, Sahne",
 				"hh": "5,50€",
 				"price": "7,50€"
 			},
 			{
 				"name": "Frozen Citrus Neon",
+				"glass": 3,
 				"ingredients": "Smirnoff Vodka, Midori, Blue Curaçao, Sour Mix",
 				"price": "7,70€"
 			},
 			{
 				"name": "Touch Down",
+				"glass": 5,
 				"ingredients": "Smirnoff Vodka, Apricot Brandy, Sour Mix, Lime Juice, Grenadine, Maracujasaft",
 				"hh": "5,60€",
 				"price": "7,80€"
 			},
 			{
 				"name": "Ibiza",
+				"glass": 5,
 				"ingredients": "Smirnoff Vodka, Peach Likör, frischer Limettensaft, Orangensaft, Cranberrysaft, Sour Mix",
 				"hh": "5,60€",
 				"price": "7,80€"
 			},
 			{
 				"name": "Passion",
+				"glass": 5,
 				"ingredients": "Smirnoff Vodka, Passoa, frischer Limettensaft, Cranberrysaft, Maracujasaft",
 				"hh": "5,50€",
 				"price": "7,70€"
 			},
 			{
 				"name": "Vodkatini",
+				"glass": 7,
 				"ingredients": "Beluga Vodka, Dry Vermouth mit Olive",
 				"price": "8,10€"
 			}
@@ -197,51 +231,60 @@
 		"entries": [
 			{
 				"name": "Cuba Libre",
+				"glass": 5,
 				"ingredients": "Havana Club 3J, Limetten, Cola",
 				"hh": "4,50€",
 				"price": "6,10€"
 			},
 			{
 				"name": "Culto a la Vida",
+				"glass": 1,
 				"ingredients": "Limetten, Weisserzucker, Havana Club 7J, Cranberrysaft",
 				"price": "7,50€"
 			},
 			{
 				"name": "Caipirissima",
+				"glass": 1,
 				"ingredients": "Limetten, Braunerzucker, Havana Club 3J",
 				"hh": "5,20€",
 				"price": "7,10€"
 			},
 			{
 				"name": "Mojito",
+				"glass": 1,
 				"ingredients": "Limetten, Braunerzucker, Pfefferminzblätter, Havana Club 3J, Soda",
 				"hh": "5,20€",
 				"price": "7,20€"
 			},
 			{
 				"name": "Himbeeren Mojito",
+				"glass": 1,
 				"ingredients": "Limetten, Braunerzucker, Himbeerpüree, Pfefferminzblätter, Havana Club 3J, Soda",
 				"hh": "5,50€",
 				"price": "7,30€"
 			},
 			{
 				"name": "Mango Mojito",
+				"glass": 2,
 				"ingredients": "Limetten, Braunerzucker, Himbeerpüree, Pfefferminzblätter, Havana Club 3J, Soda",
 				"hh": "5,50€",
 				"price": "7,30€"
 			},
 			{
 				"name": "Iceberg Mojito",
+				"glass": 7,
 				"ingredients": "Limettensaft, Zucker Sirup, Minze, Havana Club Añejo Especial, Soda",
 				"price": "7,50€"
 			},
 			{
 				"name": "Ginger Mojito",
+				"glass": 2,
 				"ingredients": "Limettensaft, Zucker Sirup, Minze, frischer Ginger, Havana Club Añejo Especial, Ginger Beer, Brombeer Gelatine",
 				"price": "7,90€"
 			},
 			{
 				"name": "Smoked Mojito",
+				"glass": 2,
 				"ingredients": "Limetten, Braunerzucker, Pfefferminzblätter, Havana Club Añejo Especial, Angostura Bitter, Soda (geräuchert)",
 				"price": "9,30€"
 			},
@@ -252,124 +295,147 @@
 			},
 			{
 				"name": "Royal Mojito",
+				"glass": 2,
 				"ingredients": "Limetten, Braunerzucker, Pfefferminzblätter, Havana Club 3J, Angostura, Prosecco",
 				"price": "7,70€"
 			},
 			{
 				"name": "Pink Mojito",
+				"glass": 2,
 				"ingredients": "Limetten, Braunerzucker, Pfefferminzblätter, Havana Club 3J, Sour Mix, Cranberrysaft, Prosecco",
 				"price": "7,70€"
 			},
 			{
 				"name": "Chocolate Mojito",
+				"glass": 1,
 				"ingredients": "Limetten, Orangen, Braunerzucker, Pfefferminzblätter, Havana Club 3J, Braune Creme de Cacao, Bitter Schokolade, Soda",
 				"price": "7,50€"
 			},
 			{
 				"name": "Pina Colada",
+				"glass": 2,
 				"ingredients": "Havana Club 3J, Kokossirup, Sahne, Ananassaft",
 				"price": "7,60€"
 			},
 			{
 				"name": "Pina Colada Kalhua",
+				"glass": 2,
 				"ingredients": "Havana Club 3J, Kalhua, Kokossirup, Sahne, Ananassaft",
 				"price": "7,70€"
 			},
 			{
 				"name": "Strawberry Colada",
+				"glass": 2,
 				"ingredients": "Havana Club 3J, Erdbeerpüree, Kokossirup, Sahne, Ananassaft",
 				"price": "7,70€"
 			},
 			{
 				"name": "Cojito",
+				"glass": 7,
 				"ingredients": "Havana Club 3J, Malibú, Lime Juice, Minzblätter",
 				"price": "7,50€"
 			},
 			{
 				"name": "Dorian Gray",
+				"glass": 7,
 				"ingredients": "Havana Club 3J, Grand Marnier, Orangensaft, Cranberrysaft",
 				"hh": "5,50€",
 				"price": "7,60€"
 			},
 			{
 				"name": "Thailand",
+				"glass": 5,
 				"ingredients": "Havana Club 3J, Havana Club Añejo Especial, Apricot Brandy, frischer Limettensaft, Ananassaft, Orangensaft, Grenadine",
 				"price": "7,80€"
 			},
 			{
 				"name": "Bahamas",
+				"glass": 5,
 				"ingredients": "Havana Club 3J, Creme de Banana, Malibú, Ananassaft, Orangensaft",
 				"hh": "5,50€",
 				"price": "7,40€"
 			},
 			{
 				"name": "American Graffiti",
+				"glass": 5,
 				"ingredients": "Havana Club 3J, Havana Club Añejo Especial, Southern Comfort, Beefeater Gin, frischer Limettensaft, Ananassaft, Sour Mix",
 				"price": "7,80€"
 			},
 			{
 				"name": "Atlantic Cooler",
+				"glass": 5,
 				"ingredients": "Havana Club 3J, Midori, Malibú, Ananassaft",
 				"hh": "5,50€",
 				"price": "7,40€"
 			},
 			{
 				"name": "Daiquiri",
+				"glass": 7,
 				"ingredients": "Havana Club Añejo Especial, Limettensaft, Sour Mix",
 				"hh": "5,50€",
 				"price": "7,50€"
 			},
 			{
 				"name": "Mai Tai",
+				"glass": 5,
 				"ingredients": "Havana Club 3J, Havana Club Añejo Especial, Triple Sec, Mandelsirup, Limettensaft, Orangensaft, Ananassaft",
 				"price": "7,80€"
 			},
 			{
 				"name": "Gigolo",
+				"glass": 7,
 				"ingredients": "Havana Club 3J, Limoncello, Aperol, Limejuice",
 				"hh": "5,50€",
 				"price": "7,50€"
 			},
 			{
 				"name": "Fuego",
+				"glass": 7,
 				"ingredients": "Frischer Limettensaft, Braunerzucker, Chili Paprika, Havana Club 3J, Maracujasaft",
 				"price": "7,80€"
 			},
 			{
 				"name": "Stairway to Heaven",
+				"glass": 2,
 				"ingredients": "Ron Zacapa 23J, Chambord, Sour Mix, Ginger Beer",
 				"price": "11,80€"
 			},
 			{
 				"name": "Baileys Colada",
+				"glass": 2,
 				"ingredients": "Havana Club 3J, Baileys, Ananassaft, Kokossirup, Sahne",
 				"price": "7,30€"
 			},
 			{
 				"name": "Bang Bang",
+				"glass": 1,
 				"ingredients": "Havana Club 3J, Kiwi, frischer Limettensaft, Vanillesirup",
 				"price": "7,70€"
 			},
 			{
 				"name": "Old Fashioned Rum",
+				"glass": 4,
 				"size": "Zacapa 23J",
 				"ingredients": "Zacapa 23J, Zucker Sirup, Angostura Bitter",
 				"price": "11,10€"
 			},
 			{
 				"name": "Old Fashioned Rum",
+				"glass": 4,
 				"size": "Havana Club Selección de Maestros",
 				"ingredients": "Havana Club Selección de Maestros, Zucker Sirup, Angostura Bitter",
 				"price": "11,60€"
 			},
 			{
 				"name": "Old Fashioned Rum",
+				"glass": 4,
 				"size": "Botucal 12J",
 				"ingredients": "Botucal 12J, Zucker Sirup, Angostura Bitter",
 				"price": "9,30€"
 			},
 			{
 				"name": "Old Fashioned Rum",
+				"glass": 4,
 				"size": "Matusalem 15J",
 				"ingredients": "Matusalem 15J, Zucker Sirup, Angostura Bitter",
 				"price": "9,10€"
@@ -386,84 +452,98 @@
 				"entries": [
 					{
 						"name": "Monkey 47",
+						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Schwarzwald - Deutschland - 47% VOL",
 						"price": "7,10€"
 					},
 					{
 						"name": "Windspiel",
+						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Premium Dry Gin - Deutschland - 47% VOL",
 						"price": "7,40€"
 					},
 					{
 						"name": "Rubus",
+						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Bötzingen - Deutschland - 42% VOL",
 						"price": "7,90€"
 					},
 					{
 						"name": "Ginstr",
+						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Dry Gin - Stuttgart - Deutschland - 44% VOL",
 						"price": "7,90€"
 					},
 					{
 						"name": "Satoshi",
+						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Dry Gin - Deutschland - 44% VOL",
 						"price": "8,10€"
 					},
 					{
 						"name": "The Duke",
+						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Dry Gin - München - Deutschland - 45% VOL",
 						"price": "7,90€"
 					},
 					{
 						"name": "Senft 21",
+						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Dry Gin - Bodensee - Deutschland - 44% VOL",
 						"price": "7,90€"
 					},
 					{
 						"name": "Tonka",
+						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Hamburg - Deutschland - 47% VOL",
 						"price": "8,10€"
 					},
 					{
 						"name": "Granit",
+						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Bayern - Deutschland - 42% VOL",
 						"price": "7,90€"
 					},
 					{
 						"name": "Berliner Brandstifter",
+						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Berlin - Deutschland - 43,3% VOL",
 						"price": "8,90€"
 					},
 					{
 						"name": "Boar",
+						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Premium Dry Gin - Schwarzwald - Deutschland - 43% VOL",
 						"price": "8,10€"
 					},
 					{
 						"name": "Ferdinand's Saar Quince",
+						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Deutschland - 30% VOL",
 						"price": "8,10€"
 					},
 					{
 						"name": "Ferdinand's Saar Dry Gin",
+						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Deutschland - 44% VOL",
 						"price": "7,90€"
 					},
 					{
 						"name": "Niemand",
+						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Dry Gin - Hanover - Deutschland - 46% VOL",
 						"price": "8,90€"
@@ -476,84 +556,98 @@
 				"entries": [
 					{
 						"name": "Tanqueray 10",
+						"glass": 9,
 						"size": "5cl",
 						"ingredients": "London - Großbritannien - 47,3% VOL",
 						"price": "6,10€"
 					},
 					{
 						"name": "Bombay Sapphire",
+						"glass": 9,
 						"size": "5cl",
 						"ingredients": "London - Großbritannien - 40% VOL",
 						"price": "5,40€"
 					},
 					{
 						"name": "Martin Miller's",
+						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Dry Gin - London - Großbritannien - 40% VOL",
 						"price": "5,10€"
 					},
 					{
 						"name": "Beefeater24",
+						"glass": 9,
 						"size": "5cl",
 						"ingredients": "London - Großbritannien - 45% VOL",
 						"price": "5,10€"
 					},
 					{
 						"name": "Opihr",
+						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Dry Gin - London - Großbritannien - 42,5% VOL",
 						"price": "7,90€"
 					},
 					{
 						"name": "Jinzu",
+						"glass": 9,
 						"size": "5cl",
 						"ingredients": "London - Großbritannien - 41,3% VOL",
 						"price": "7,90€"
 					},
 					{
 						"name": "The Botanical's",
+						"glass": 9,
 						"size": "5cl",
 						"ingredients": "London Dry Gin - London - Großbritannien - 42,5% VOL",
 						"price": "8,20€"
 					},
 					{
 						"name": "The King of Soho",
+						"glass": 9,
 						"size": "5cl",
 						"ingredients": "London Dry Gin - London - Großbritannien - 42% VOL",
 						"price": "7,90€"
 					},
 					{
 						"name": "Bombay Sapphire English Estate",
+						"glass": 9,
 						"size": "5cl",
 						"ingredients": "London Dry Gin - Hampshire - Großbritannien - 41% VOL",
 						"price": "6,40€"
 					},
 					{
 						"name": "Tranqueray Malacca",
+						"glass": 9,
 						"size": "5cl",
 						"ingredients": "London - Großbritannien - 41,3% VOL",
 						"price": "7,90€"
 					},
 					{
 						"name": "Professor Cornelius Bathtub Gin",
+						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Großbritannien - 43,3% VOL",
 						"price": "7,90€"
 					},
 					{
 						"name": "Tanqueray Rangpur",
+						"glass": 9,
 						"size": "5cl",
 						"ingredients": "London - Großbritannien - 41,3% VOL",
 						"price": "7,90€"
 					},
 					{
 						"name": "Tranqueray Sevilla",
+						"glass": 9,
 						"size": "5cl",
 						"ingredients": "London - Großbritannien - 41,3% VOL",
 						"price": "7,90€"
 					},
 					{
 						"name": "Mombasa Club",
+						"glass": 9,
 						"size": "5cl",
 						"ingredients": "London Dry Gin - London - Großbritannien - 41,5% VOL",
 						"price": "8,10€"
@@ -566,30 +660,35 @@
 				"entries": [
 					{
 						"name": "Gin Mare",
+						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Guadalajara - Spanien - 42,7% VOL",
 						"price": "6,90€"
 					},
 					{
 						"name": "Nordes",
+						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Galicien - Spanien - 40% VOL",
 						"price": "6,20€"
 					},
 					{
 						"name": "Le Tribute",
+						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Barcelona - Spanien - 43% VOL",
 						"price": "8,90€"
 					},
 					{
 						"name": "Xoriguer Mahon",
+						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Menorca - Spanien - 38% VOL",
 						"price": "7,90€"
 					},
 					{
 						"name": "Cubical",
+						"glass": 9,
 						"size": "5cl",
 						"ingredients": "London Dry Gin - Spanien - 45% VOL",
 						"price": "8,90€"
@@ -602,18 +701,21 @@
 				"entries": [
 					{
 						"name": "Dolce Vita",
+						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Dry Gin - Padova - Italien - 40% VOL",
 						"price": "8,10€"
 					},
 					{
 						"name": "Z44",
+						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Süd Tirol - Italien - 44% VOL",
 						"price": "7,90€"
 					},
 					{
 						"name": "Del Professore Monsieur Gin",
+						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Italien - 43,7% VOL",
 						"price": "8,10€"
@@ -626,18 +728,21 @@
 				"entries": [
 					{
 						"name": "Buss N°509 Pink Grapefruit",
+						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Antwerp - Belgien - 40% VOL",
 						"price": "8,10€"
 					},
 					{
 						"name": "Filliers Dry Gin 28 Tangerine",
+						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Belgien - 43,7% VOL",
 						"price": "8,10€"
 					},
 					{
 						"name": "Amuerte",
+						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Coca Leaf Gin - Belgien - 43% VOL",
 						"price": "12,80€"
@@ -650,12 +755,14 @@
 				"entries": [
 					{
 						"name": "G-Vine Floraison",
+						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Cognac - Frankreich - 40% VOL",
 						"price": "6,10€"
 					},
 					{
 						"name": "Magellan",
+						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Frankreich - 41,3% VOL",
 						"price": "9,10€"
@@ -668,12 +775,14 @@
 				"entries": [
 					{
 						"name": "Roku Gin",
+						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Japan - 43% VOL",
 						"price": "7,20€"
 					},
 					{
 						"name": "Nikka Coffey Gin",
+						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Japan - 47% VOL",
 						"price": "9,90€"
@@ -686,12 +795,14 @@
 				"entries": [
 					{
 						"name": "Colombian Treasure",
+						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Kolumbien - 43% VOL",
 						"price": "8,90€"
 					},
 					{
 						"name": "Colombian Ortodoxy",
+						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Kolumbien - 43% VOL",
 						"price": "7,90€"
@@ -704,30 +815,35 @@
 				"entries": [
 					{
 						"name": "Hendrick's",
+						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Schottland - 44% VOL",
 						"price": "6,40€"
 					},
 					{
 						"name": "One Key",
+						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Slowenien - 40% VOL",
 						"price": "7,90€"
 					},
 					{
 						"name": "Rutte Celery Gin",
+						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Niederlande - 43% VOL",
 						"price": "8,10€"
 					},
 					{
 						"name": "Brooklyn",
+						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Brooklyn - USA - 40% VOL",
 						"price": "9,20€"
 					},
 					{
 						"name": "Deux Frères",
+						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Dry Gin - Österreich - 43% VOL",
 						"price": "8,90€"
@@ -764,60 +880,71 @@
 		"entries": [
 			{
 				"name": "Gin Tonic",
+				"glass": 9,
 				"ingredients": "Beefeater Gin, Schweppes Tonic",
 				"price": "6,90€"
 			},
 			{
 				"name": "Gin Gimlet",
+				"glass": 7,
 				"ingredients": "Tanqueray Ten Gin, Lime Juice",
 				"price": "7,90€"
 			},
 			{
 				"name": "Gin Fizz",
+				"glass": 5,
 				"ingredients": "Beefeater Gin, Sour Mix, Soda",
 				"hh": "5,50€",
 				"price": "7,60€"
 			},
 			{
 				"name": "Singapore Sling",
+				"glass": 5,
 				"ingredients": "Beefeater Gin, Triple Sec, Dom Bénédictine, Cherry Heering, Angostura, frischer Limettensaft, Grenadine, Ananassaft",
 				"price": "7,80€"
 			},
 			{
 				"name": "Bone Crusher",
+				"glass": 2,
 				"ingredients": "Beefeater Gin, Havana Rum 3J, Triple Sec, Sour Mix, Cranberrysaft, Prosecco",
 				"hh": "5,50€",
 				"price": "7,70€"
 			},
 			{
 				"name": "Aviation",
+				"glass": 7,
 				"ingredients": "Beefeater Gin, Maraschino Likör, frischer Zitronensaft, Zucker Sirup",
 				"price": "7,40€"
 			},
 			{
 				"name": "La Bohemien",
+				"glass": 7,
 				"ingredients": "Beefeater Gin, Vermouth Dry, Cranberrysaft",
 				"hh": "5,50€",
 				"price": "7,40€"
 			},
 			{
 				"name": "Lady Killer",
+				"glass": 2,
 				"ingredients": "Beefeater Gin, Grand Marnier, Apricot Brandy, Maracujasaft, Ananassaft",
 				"hh": "5,50€",
 				"price": "7,70€"
 			},
 			{
 				"name": "Jimi Hendrick's",
+				"glass": 1,
 				"ingredients": "Hendrick's Gin, Gurke, Minze, frischer Limettensaft, Holunderblütensirup, Ginger Beer",
 				"price": "7,90€"
 			},
 			{
 				"name": "Martini Cocktail",
+				"glass": 7,
 				"ingredients": "Tanqueray Ten Gin, Vermouth Dry mit Olive",
 				"price": "7,70€"
 			},
 			{
 				"name": "White Lady",
+				"glass": 7,
 				"ingredients": "Bombay Saphire Gin, Grand Marnier, frischer Zitronensaft, Sour Mix",
 				"price": "7,50€"
 			}
