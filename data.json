@@ -782,6 +782,20 @@
 						"size": "5cl",
 						"ingredients": "Japan - 47% VOL",
 						"price": "9,90€"
+					},
+					{
+						"name": "Ki No Bi",
+						"glass": 9,
+						"size": "5cl",
+						"ingredients": "Kyoto Dry Gin - Japan - 45,7% VOL",
+						"price": "12,50€"
+					},
+					{
+						"name": "Kin No Bi",
+						"glass": 9,
+						"size": "5cl",
+						"ingredients": "Kyoto Dry Gin - Japan - 45,7% VOL",
+						"price": "17,50€"
 					}
 				]
 			},
