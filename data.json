@@ -1874,6 +1874,36 @@
 				"size": "4cl",
 				"ingredients": "40% - Russland",
 				"price": "3,60€"
+			},
+			{
+				"name": "Belvedere",
+				"size": "4cl",
+				"ingredients": "40% - Polen",
+				"price": "?,??€"
+			},
+			{
+				"name": "Haku",
+				"size": "4cl",
+				"ingredients": "40% - Japan",
+				"price": "?,??€"
+			},
+			{
+				"name": "Exquisite",
+				"size": "4cl",
+				"ingredients": "40% - Polen",
+				"price": "?,??€"
+			},
+			{
+				"name": "Chopin",
+				"size": "4cl",
+				"ingredients": "40% - Polen",
+				"price": "?,??€"
+			},
+			{
+				"name": "Kauffman",
+				"size": "4cl",
+				"ingredients": "40$ - Russland",
+				"price": "?,??€"
 			}
 		]
 	},
@@ -1912,10 +1942,100 @@
 				"price": "28,00€"
 			},
 			{
-				"name": "Botucal",
+				"name": "Botucal Reserva Exclusiva",
+				"size": "4cl",
+				"ingredients": "12 Jahre - 40% - Venezuela",
+				"price": "8,40€"
+			},
+			{
+				"name": "Botucal Mantuano",
+				"size": "4cl",
+				"ingredients": "8 Jahre - 40% - Venezuela",
+				"price": "?,??€"
+			},
+			{
+				"name": "Botucal Anejo",
+				"size": "4cl",
+				"ingredients": "7 Jahre - 40% - Venezuela",
+				"price": "?,??€"
+			}
+			{
+				"name": "XO Ron Millonario",
+				"size": "4cl",
+				"ingredients": "40% - Peru",
+				"price": "?,??€"
+			},
+			{
+				"name": "Brugal",
+				"size": "4cl",
+				"ingredients": "12 Jahre - 40% - Dominikanische Republik",
+				"price": "?,??€"
+			},
+			{
+				"name": "A.H.Riise Non Plus Ultra Very Rare Rum",
+				"size": "4cl",
+				"ingredients": "25 Jahre - 42% - Karibik",
+				"price": "?,??€"
+			},
+			{
+				"name": "Ryoma",
+				"size": "4cl",
+				"ingredients": "7 Jahre - 40% - Japan",
+				"price": "?,??€"
+			},
+			{
+				"name": "El Ron Prohibido Reserva",
+				"size": "4cl",
+				"ingredients": "12 Jahre - 40% - Mexiko",
+				"price": "?,??€"
+			},
+			{
+				"name": "Senft Rum",
+				"size": "4cl",
+				"ingredients": "40% - Deutschland",
+				"price": "?,??€"
+			},
+			{
+				"name": "Mount Gay 1703 Old Cask Selection",
+				"size": "4cl",
+				"ingredients": "10-30 Jahre - 43% - Barbados",
+				"price": "?,??€"
+			},
+			{
+				"name": "Botrán Solera 1893",
+				"size": "4cl",
+				"ingredients": "40% - Guatemala",
+				"price": "?,??€"
+			},
+			{
+				"name": "QRM Ron Quorhum",
+				"size": "4cl",
+				"ingredients": "23 Jahre - 40% - Dominikanische Republik",
+				"price": "?,??€"
+			},
+			{
+				"name": "Rhum Rhum Liberation 2015",
+				"size": "4cl",
+				"ingredients": "45% - Guadeloupe",
+				"price": "?,??€"
+			},
+			{
+				"name": "Bumbu",
+				"size": "4cl",
+				"ingredients": "35% - Barbados",
+				"price": "?,??€"
+			},
+			{
+				"name": "Don Papa Rum",
+				"size": "4cl",
+				"ingredients": "7 Jahre - 40% - Philippinen",
+				"price": "?,??€"
+			},
+			{
+				"name": "Ron Extra Anejo Cacique 500",
 				"size": "4cl",
 				"ingredients": "40% - Venezuela",
-				"price": "8,40€"
+				"price": "?,??€"
 			}
 		]
 	},
