@@ -416,30 +416,25 @@
 			{
 				"name": "Old Fashioned Rum",
 				"glass": 4,
-				"size": "Zacapa 23J",
-				"ingredients": "Zacapa 23J, Zucker Sirup, Angostura Bitter",
-				"price": "11,10€"
-			},
-			{
-				"name": "Old Fashioned Rum",
-				"glass": 4,
-				"size": "Havana Club Selección de Maestros",
-				"ingredients": "Havana Club Selección de Maestros, Zucker Sirup, Angostura Bitter",
-				"price": "11,60€"
-			},
-			{
-				"name": "Old Fashioned Rum",
-				"glass": 4,
-				"size": "Botucal 12J",
-				"ingredients": "Botucal 12J, Zucker Sirup, Angostura Bitter",
-				"price": "9,30€"
-			},
-			{
-				"name": "Old Fashioned Rum",
-				"glass": 4,
-				"size": "Matusalem 15J",
-				"ingredients": "Matusalem 15J, Zucker Sirup, Angostura Bitter",
-				"price": "9,10€"
+				"ingredients": "Rum, Zucker Sirup, Angostura Bitter",
+				"sizes": [
+					{
+						"size": "Zacapa 23J",
+						"price": "11,10€"
+					},
+					{
+						"size": "Havana Club Selección de Maestros",
+						"price": "11,60€"
+					},
+					{
+						"size": "Botucal 12J",
+						"price": "9,30€"
+					},
+					{
+						"size": "Matusalem 15J",
+						"price": "9,10€"
+					}
+				]
 			}
 		]
 	},
@@ -1079,30 +1074,25 @@
 			{
 				"name": "Old Fashioned Whiskey",
 				"glass": 4,
-				"size": "Jack Daniel's Tennessee Old No. 7",
-				"ingredients": "Jack Daniel's Tennessee Old No. 7, Zucker Sirup, Angostura Bitter",
-				"price": "8,90€"
-			},
-			{
-				"name": "Old Fashioned Whiskey",
-				"glass": 4,
-				"size": "Makers Mark",
-				"ingredients": "Makers Mark, Zucker Sirup, Angostura Bitter",
-				"price": "9,30€"
-			},
-			{
-				"name": "Old Fashioned Whiskey",
-				"glass": 4,
-				"size": "Bulleit Rye",
-				"ingredients": "Bulleit Rye, Zucker Sirup, Angostura Bitter",
-				"price": "9,10€"
-			},
-			{
-				"name": "Old Fashioned Whiskey",
-				"glass": 4,
-				"size": "Four Roses Bourbon",
-				"ingredients": "Four Roses Bourbon, Zucker Sirup, Angostura Bitter",
-				"price": "8,90€"
+				"ingredients": "Whiskey, Zucker Sirup, Angostura Bitter",
+				"sizes": [
+					{
+						"size": "Jack Daniel's Tennessee Old No. 7",
+						"price": "8,90€"
+					},
+					{
+						"size": "Makers Mark",
+						"price": "9,30€"
+					},
+					{
+						"size": "Bulleit Rye",
+						"price": "9,10€"
+					},
+					{
+						"size": "Four Roses Bourbon",
+						"price": "8,90€"
+					}
+				]
 			}
 		]
 	},
@@ -1448,14 +1438,17 @@
 				"sizes": [
 					{
 						"size": "0,1l",
+						"glass": 12,
 						"price": "3,60€"
 					},
 					{
 						"size": "0,2l",
+						"glass": 13,
 						"price": "6,90€"
 					},
 					{
 						"size": "0,75l",
+						"glass": 14,
 						"price": "24,10€"
 					}
 				]
@@ -1466,14 +1459,17 @@
 				"sizes": [
 					{
 						"size": "0,1l",
+						"glass": 12,
 						"price": "3,30€"
 					},
 					{
 						"size": "0,2l",
+						"glass": 13,
 						"price": "6,10€"
 					},
 					{
 						"size": "0,75l",
+						"glass": 14,
 						"price": "21,30€"
 					}
 				]
@@ -1484,14 +1480,17 @@
 				"sizes": [
 					{
 						"size": "0,1l",
+						"glass": 12,
 						"price": "3,40€"
 					},
 					{
 						"size": "0,2l",
+						"glass": 13,
 						"price": "6,20€"
 					},
 					{
 						"size": "0,75€",
+						"glass": 14,
 						"price": "21,90€"
 					}
 				]
@@ -1502,14 +1501,17 @@
 				"sizes": [
 					{
 						"size": "0,1l",
+						"glass": 12,
 						"price": "3,40€"
 					},
 					{
 						"size": "0,2l",
+						"glass": 13,
 						"price": "6,20€"
 					},
 					{
 						"size": "0,75l",
+						"glass": 14,
 						"price": "21,90€"
 					}
 				]
@@ -1520,14 +1522,17 @@
 				"sizes": [
 					{
 						"size": "0,1l",
+						"glass": 12,
 						"price": "3,60€"
 					},
 					{
 						"size": "0,2l",
+						"glass": 13,
 						"price": "6,90€"
 					},
 					{
 						"size": "0,75l",
+						"glass": 14,
 						"price": "24,10€"
 					}
 				]
@@ -1538,6 +1543,7 @@
 				"sizes": [
 					{
 						"size": "0,75l",
+						"glass": 14,
 						"price": "89,00€"
 					}
 				]
@@ -1548,14 +1554,17 @@
 				"sizes": [
 					{
 						"size": "0,1l",
+						"glass": 12,
 						"price": "3,60€"
 					},
 					{
 						"size": "0,2l",
+						"glass": 13,
 						"price": "6,90€"
 					},
 					{
 						"size": "0,75l",
+						"glass": 14,
 						"price": "24,10€"
 					}
 				]
@@ -1566,14 +1575,17 @@
 				"sizes": [
 					{
 						"size": "0,1l",
+						"glass": 12,
 						"price": "3,40€"
 					},
 					{
 						"size": "0,2l",
+						"glass": 13,
 						"price": "6,20€"
 					},
 					{
 						"size": "0,75l",
+						"glass": 14,
 						"price": "21,30€"
 					}
 				]
@@ -1584,14 +1596,17 @@
 				"sizes": [
 					{
 						"size": "0,1l",
+						"glass": 12,
 						"price": "3,60€"
 					},
 					{
 						"size": "0,2l",
+						"glass": 13,
 						"price": "6,90€"
 					},
 					{
 						"size": "0,75l",
+						"glass": 14,
 						"price": "24,10€"
 					}
 				]
@@ -1602,14 +1617,17 @@
 				"sizes": [
 					{
 						"size": "0,1l",
+						"glass": 12,
 						"price": "3,30€"
 					},
 					{
 						"size": "0,2l",
+						"glass": 13,
 						"price": "6,10€"
 					},
 					{
 						"size": "0,75l",
+						"glass": 14,
 						"price": "21,30€"
 					}
 				]
@@ -1620,6 +1638,7 @@
 				"sizes": [
 					{
 						"size": "0,2l",
+						"glass": 13,
 						"price": "4,40€"
 					}
 				]
