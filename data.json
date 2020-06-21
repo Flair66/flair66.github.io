@@ -2396,17 +2396,17 @@
 				"entries": [
 					{
 						"name": "Panini Caprese",
-						"ingredients": "",
+						"ingredients": "frische Tomaten, Mozzarella, Basilikumpesto",
 						"price": "5,50€"
 					},
 					{
 						"name": "Panini Calabrese",
-						"ingredients": "",
+						"ingredients": "scharfe Salami, Frischkäse, gegrillte Aubergine",
 						"price": "6,50€"
 					},
 					{
 						"name": "Panini Parma",
-						"ingredients": "",
+						"ingredients": "Parmaschinken, Rucola, Frischkäse und Parmesankäse",
 						"price": "7,50€"
 					}
 				]
@@ -2469,7 +2469,7 @@
 		"entries": [
 			{
 				"name": "Schokoladen Souffle",
-				"size": "mit flüssigem Kern",
+				"size": "mit flüssigem Kern und frischen Früchten",
 				"price": "7,30€"
 			}
 		]
