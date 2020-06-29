@@ -715,6 +715,20 @@
 						"size": "5cl",
 						"ingredients": "Italien - 43,7% VOL",
 						"price": "8,10€"
+					},
+					{
+						"name": "Malfy",
+						"glass": 9,
+						"size": "5cl",
+						"ingredients": "Gin Rosa - Italien - 41% VOL",
+						"price": "7,90€"
+					},
+					{
+						"name": "Pig Skin",
+						"glass": 9,
+						"size": "5cl",
+						"ingredients": "Italien - 40% VOL",
+						"price": "7,90€"
 					}
 				]
 			},
@@ -879,6 +893,14 @@
 					{
 						"name": "Fentimans",
 						"price": "3,80€"
+					},
+					{
+						"name": "1724",
+						"price": "4,60€"
+					},
+					{
+						"name": "Aqua Monaco",
+						"price": "3,50€"
 					}
 				]
 			}
