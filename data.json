@@ -76,14 +76,14 @@
 			{
 				"name": "Sex on the Beach",
 				"glass": 5,
-				"ingredients": "Smirnoff Vodka, Peach Likör, Cranberrysaft, Orangensaft",
+				"ingredients": "Smirnoff Vodka, Pfirsichlikör, Cranberrysaft, Orangensaft",
 				"hh": "5,50€",
 				"price": "7,60€"
 			},
 			{
 				"name": "West Palm Breeze",
 				"glass": 2,
-				"ingredients": "Smirnoff Vodka, Peach Likör, Blue Curaçao, Kokossirup, Sahne, Ananassaft",
+				"ingredients": "Smirnoff Vodka, Pfirsichlikör, Blue Curaçao, Kokossirup, Sahne, Ananassaft",
 				"price": "7,80€"
 			},
 			{
@@ -115,13 +115,13 @@
 			{
 				"name": "Al Pacino",
 				"glass": 5,
-				"ingredients": "Smirnoff Vodka, Southern Comfort, Peach Likör, Lime Juice, Sour Mix, Maracujasaft",
+				"ingredients": "Smirnoff Vodka, Southern Comfort, Pfirsichlikör, Lime Juice, Sour Mix, Maracujasaft",
 				"price": "7,80€"
 			},
 			{
 				"name": "Peartini",
 				"glass": 7,
-				"ingredients": "Absolut Pears Vodka, Peach Likör, Ananassaft, Lime Juice",
+				"ingredients": "Absolut Pears Vodka, Pfirsichlikör, Ananassaft, Lime Juice",
 				"hh": "5,50€",
 				"price": "7,60€"
 			},
@@ -206,7 +206,7 @@
 			{
 				"name": "Ibiza",
 				"glass": 5,
-				"ingredients": "Smirnoff Vodka, Peach Likör, frisch gepresster Limettensaft, Orangensaft, Cranberrysaft, Sour Mix",
+				"ingredients": "Smirnoff Vodka, Pfirsichlikör, frisch gepresster Limettensaft, Orangensaft, Cranberrysaft, Sour Mix",
 				"hh": "5,60€",
 				"price": "7,80€"
 			},
@@ -1046,7 +1046,7 @@
 			{
 				"name": "Archangel",
 				"glass": 5,
-				"ingredients": "Cachaça, Peach Liqueur, Ananassaft, Erdbeerpüree",
+				"ingredients": "Cachaça, Pfirsichlikör, Ananassaft, Erdbeerpüree",
 				"hh": "5,50€",
 				"price": "7,60€"
 			}
@@ -1152,7 +1152,7 @@
 			{
 				"name": "Chicken Drop",
 				"glass": 7,
-				"ingredients": "Jägermeister, Peach Liqueur, Orangensaft",
+				"ingredients": "Jägermeister, Pfirsichlikör, Orangensaft",
 				"price": "7,40€"
 			},
 			{
@@ -1337,7 +1337,7 @@
 			{
 				"name": "Chi Chi",
 				"glass": 10,
-				"ingredients": "Smirnoff Vodka, Peach Liqueur, Cranberrysaft",
+				"ingredients": "Smirnoff Vodka, Pfirsichlikör, Cranberrysaft",
 				"hh": "3,90€",
 				"price": "4,80€"
 			},
