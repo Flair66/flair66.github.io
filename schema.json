@@ -1,0 +1,86 @@
+{
+	"$schema": "http://json-schema.org/draft-04/schema#",
+
+	"$defs": {
+		"block": {
+			"title": "Block",
+			"type": "object",
+			"properties": {
+				"id": {
+					"type": "string"
+				},
+				"name": {
+					"type": "string"
+				},
+				"blocks": {
+					"type": "array",
+					"items": {
+						"$ref": "#/$defs/block"
+					},
+					"default": []
+				},
+				"entries": {
+					"type": "array",
+					"items": {
+						"$ref": "#/$defs/entry"
+					},
+					"default": []
+				}
+			},
+			"required": [
+				"id",
+				"name"
+			]
+		},
+		"entry": {
+			"title": "Entry",
+			"type": "object",
+			"properties": {
+				"name": {
+					"type": "string"
+				},
+				"glass": {
+					"type": "integer",
+					"minimum": 1,
+					"maximum": 14
+				},
+				"size": {
+					"type": "string"
+				},
+				"ingredients": {
+					"type": "string"
+				},
+				"hh": {
+					"type": "string"
+				},
+				"price": {
+					"type": "string"
+				},
+				"sizes": {
+					"type": "array",
+					"items": {
+						"type": "object",
+						"properties": {
+							"size": {
+								"type": "string"
+							},
+							"price": {
+								"type": "string"
+							}
+						}
+					},
+					"default": []
+				}
+			},
+			"required": [
+				"name"
+			]
+		}
+	},
+
+	"type": "array",
+	"items": {
+		"$ref": "#/$defs/block"
+	},
+	"default": []
+}
