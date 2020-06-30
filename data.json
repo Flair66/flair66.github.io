@@ -6,7 +6,7 @@
 			{
 				"name": "Vodka Tonic",
 				"glass": 5,
-				"ingredients": "Smirnoff Vodka, Schweppes Tonic Water",
+				"ingredients": "Smirnoff Vodka, Schweppes Tonic",
 				"price": "6,10€"
 			},
 			{
@@ -32,38 +32,38 @@
 			{
 				"name": "Very Berry",
 				"glass": 1,
-				"ingredients": "Limetten, brauner Zucker, Erdbeerpüree, frische Himbeeren-Brombeer-Heidelbeeren, Absolut Raspberry Vodka, Chambord",
+				"ingredients": "Limetten, brauner Rohrzucker, Erdbeerpüree, Himbeeren, Brombeeren, Heidelbeeren, Absolut Raspberry Vodka, Chambord",
 				"price": "7,50€"
 			},
 			{
 				"name": "Socialité",
 				"glass": 1,
-				"ingredients": "Zitronen, Vanille Sirup, Absolut Vodka, Limoncello, Grand Marnier",
+				"ingredients": "Zitronen, Vanillesirup, Absolut Vodka, Limoncello, Grand Marnier",
 				"price": "7,30€"
 			},
 			{
 				"name": "Moscow Mule",
 				"glass": 1,
-				"ingredients": "frisch gepresster Limettensaft, Zucker Sirup, Smirnoff Vodka, Ginger Beer",
+				"ingredients": "frisch gepresster Limettensaft, Zuckersirup, Smirnoff Vodka, Ginger Beer",
 				"price": "7,30€"
 			},
 			{
 				"name": "Caipiroka",
 				"glass": 1,
-				"ingredients": "Limetten, brauner Zucker, Mangopüree, Smirnoff Vodka",
+				"ingredients": "Limetten, brauner Rohrzucker, Mangopüree, Smirnoff Vodka",
 				"hh": "5,20€",
 				"price": "7,10€"
 			},
 			{
 				"name": "Royal Gold Caipi",
 				"glass": 1,
-				"ingredients": "Limetten, brauner Zucker, Smirnoff Vodka, Chambord, Prosecco",
+				"ingredients": "Limetten, brauner Rohrzucker, Smirnoff Vodka, Chambord, Prosecco",
 				"price": "7,30€"
 			},
 			{
 				"name": "Strawberry Caipiroska",
 				"glass": 1,
-				"ingredients": "Limetten, brauner Zucker, Erdbeerpüree, Smirnoff Vodka",
+				"ingredients": "Limetten, brauner Rohrzucker, Erdbeerpüree, Smirnoff Vodka",
 				"price": "7,10€"
 			},
 			{
@@ -102,7 +102,7 @@
 			{
 				"name": "Absolut Berri Mule",
 				"glass": 5,
-				"ingredients": "Absolut Rasberry Vodka, Chambord, Cranberrysaft, Ginger Beer",
+				"ingredients": "Absolut Raspberry Vodka, Chambord, Cranberrysaft, Ginger Beer",
 				"price": "7,60€"
 			},
 			{
@@ -121,7 +121,7 @@
 			{
 				"name": "Peartini",
 				"glass": 7,
-				"ingredients": "Absolut Pear Vodka, Peach Likör, Ananassaft, Lime Juice",
+				"ingredients": "Absolut Pears Vodka, Peach Likör, Ananassaft, Lime Juice",
 				"hh": "5,50€",
 				"price": "7,60€"
 			},
@@ -134,7 +134,7 @@
 			{
 				"name": "Porn Star",
 				"glass": 7,
-				"ingredients": "Absolut Vanilla Vodka, Passoa, Vanillesirup, frisch gepresster Limettensaft, frische Maracuja, Prosecco",
+				"ingredients": "Absolut Vanilla Vodka, Passoa, Vanillesirup, frisch gepresster Limettensaft, Maracuja, Prosecco",
 				"price": "8,90€"
 			},
 			{
@@ -146,7 +146,7 @@
 			{
 				"name": "Raspberry Martini",
 				"glass": 7,
-				"ingredients": "Absolut Raspberry Vodka, Chambord, Himbeerpüre, Sour Mix",
+				"ingredients": "Absolut Raspberry Vodka, Chambord, Himbeerpüree, Sour Mix",
 				"hh": "5,50€",
 				"price": "7,40€"
 			},
@@ -174,13 +174,13 @@
 			{
 				"name": "Hot Chocolate",
 				"glass": 7,
-				"ingredients": "Smirnoff Vodka, Cherry Likör, brauner Zucker, Chili Paprika, Braune Creme de Cacao, frisch gepresster Limettensaft, geraspelte Bitterschokolade",
+				"ingredients": "Smirnoff Vodka, Cherry Likör, brauner Rohrzucker, Chili Paprika, Braune Creme de Cacao, frisch gepresster Limettensaft, geraspelte Bitterschokolade",
 				"price": "8,10€"
 			},
 			{
 				"name": "White Russian",
 				"glass": 7,
-				"ingredients": "Smirnoff Vodka, Kahlua, Sahne",
+				"ingredients": "Smirnoff Vodka, Kahlúa, Sahne",
 				"price": "7,40€"
 			},
 			{
@@ -273,19 +273,19 @@
 			{
 				"name": "Iceberg Mojito",
 				"glass": 7,
-				"ingredients": "Limettensaft, Zuckersirup, Minze, Havana Club Añejo Especial, Soda",
+				"ingredients": "Limettensaft, Zuckersirup, MinPfefferminzblätterze, Havana Club Añejo Especial, Soda",
 				"price": "7,50€"
 			},
 			{
 				"name": "Ginger Mojito",
 				"glass": 2,
-				"ingredients": "Limettensaft, Zuckersirup, Minze, frischer Ginger, Havana Club Añejo Especial, Ginger Beer, Brombeer Gelatine",
+				"ingredients": "Limettensaft, Zuckersirup, Pfefferminzblätter, Ingwer, Havana Club Añejo Especial, Ginger Beer, Brombeer Gelatine",
 				"price": "7,90€"
 			},
 			{
 				"name": "Smoked Mojito",
 				"glass": 2,
-				"ingredients": "Limetten, Zuckersirup, Pfefferminzblätter, Havana Club Añejo Especial, Angostura Bitter, Soda (geräuchert)",
+				"ingredients": "Limetten, Zuckersirup, Pfefferminzblätter, Havana Club Añejo Especial, Angostura Bitter, Soda - (geräuchert)",
 				"price": "9,30€"
 			},
 			{
@@ -319,9 +319,9 @@
 				"price": "7,60€"
 			},
 			{
-				"name": "Pina Colada Kalhua",
+				"name": "Pina Colada Kahlúa",
 				"glass": 2,
-				"ingredients": "Havana Club 3J, Kalhua, Kokossirup, Sahne, Ananassaft",
+				"ingredients": "Havana Club 3J, Kahlúa, Kokossirup, Sahne, Ananassaft",
 				"price": "7,70€"
 			},
 			{
@@ -333,7 +333,7 @@
 			{
 				"name": "Cojito",
 				"glass": 7,
-				"ingredients": "Havana Club 3J, Malibú, Lime Juice, Minzblätter",
+				"ingredients": "Havana Club 3J, Malibú, Lime Juice, Pfefferminzblätter",
 				"price": "7,50€"
 			},
 			{
@@ -346,7 +346,7 @@
 			{
 				"name": "Thailand",
 				"glass": 5,
-				"ingredients": "Havana Club 3J, Havana Club Añejo Especial, Apricot Brandy, frischer Limettensaft, Ananassaft, Orangensaft, Grenadine",
+				"ingredients": "Havana Club 3J, Havana Club Añejo Especial, Apricot Brandy, frisch gepresster Limettensaft, Ananassaft, Orangensaft, Grenadine",
 				"price": "7,80€"
 			},
 			{
@@ -392,7 +392,7 @@
 			{
 				"name": "Fuego",
 				"glass": 7,
-				"ingredients": "frisch gepresster Limettensaft, brauner Zucker, Chili Paprika, Havana Club 3J, Maracujasaft",
+				"ingredients": "frisch gepresster Limettensaft, brauner Rohrzucker, Chili Paprika, Havana Club 3J, Maracujasaft",
 				"price": "7,80€"
 			},
 			{
@@ -932,7 +932,7 @@
 			{
 				"name": "Singapore Sling",
 				"glass": 5,
-				"ingredients": "Beefeater Gin, Triple Sec, Dom Bénédictine, Cherry Heering, Angostura, frischer Limettensaft, Grenadine, Ananassaft",
+				"ingredients": "Beefeater Gin, Triple Sec, Dom Bénédictine, Cherry Heering, Angostura, frisch gepresster Limettensaft, Grenadine, Ananassaft",
 				"price": "7,80€"
 			},
 			{
@@ -965,7 +965,7 @@
 			{
 				"name": "Jimi Hendrick's",
 				"glass": 1,
-				"ingredients": "Hendrick's Gin, Gurke, Minze, frisch gepresster Limettensaft, Holunderblütensirup, Ginger Beer",
+				"ingredients": "Hendrick's Gin, Gurkenscheiben, Pfefferminzblätter, frisch gepresster Limettensaft, Holunderblütensirup, Ginger Beer",
 				"price": "7,90€"
 			},
 			{
@@ -1015,7 +1015,7 @@
 			{
 				"name": "Tequila Julep",
 				"glass": 1,
-				"ingredients": "Tequila, Apricot Brandy, Minze, brauner Rohrzucker, Soda, Angostura",
+				"ingredients": "Tequila, Apricot Brandy, Pfefferminzblätter, brauner Rohrzucker, Soda, Angostura",
 				"price": "7,70€"
 			}
 		]
@@ -1040,7 +1040,7 @@
 			{
 				"name": "Berrys Caipiriña",
 				"glass": 1,
-				"ingredients": "Limetten, brauner Rohrzucker, Erdbeerpüree, frische Himbeeren, frische Heidelbeeren, frische Brombeeren, Cachaça",
+				"ingredients": "Limetten, brauner Rohrzucker, Erdbeerpüree, Himbeeren, Heidelbeeren, Brombeeren, Cachaça",
 				"price": "7,50€"
 			},
 			{
@@ -1293,7 +1293,7 @@
 			{
 				"name": "Ramazzotti Rosato Duo",
 				"glass": 6,
-				"ingredients": "Ramazzotti Aperitivo Rosato, Schweppes Tonic, Limette",
+				"ingredients": "Ramazzotti Aperitivo Rosato, Schweppes Tonic, Limetten",
 				"hh": "4,20€",
 				"price": "5,20€"
 			},
@@ -1319,7 +1319,7 @@
 			{
 				"name": "Hugo",
 				"glass": 6,
-				"ingredients": "Prosecco, Holundersirup, Lime Juice, Pfefferminzblätter, Mineralwasser",
+				"ingredients": "Prosecco, Holunderblütensirup, Lime Juice, Pfefferminzblätter, Mineralwasser",
 				"price": "5,40€"
 			}
 		]
@@ -1350,25 +1350,25 @@
 			{
 				"name": "B 52",
 				"glass": 10,
-				"ingredients": "Kahlua, Baileys, Grand Marnier",
+				"ingredients": "Kahlúa, Baileys, Grand Marnier",
 				"price": "4,80€"
 			},
 			{
 				"name": "B 53",
 				"glass": 10,
-				"ingredients": "Kahlua, Sambuca, Grand Marnier",
+				"ingredients": "Kahlúa, Sambuca, Grand Marnier",
 				"price": "4,80€"
 			},
 			{
 				"name": "Blow Job",
 				"glass": 10,
-				"ingredients": "Kahlua, Baileys, Sahne",
+				"ingredients": "Kahlúa, Baileys, Sahne",
 				"price": "4,80€"
 			},
 			{
 				"name": "F 16",
 				"glass": 10,
-				"ingredients": "Kahlua, Baileys, Rum",
+				"ingredients": "Kahlúa, Baileys, Rum",
 				"price": "4,80€"
 			},
 			{
@@ -1427,7 +1427,7 @@
 			{
 				"name": "Virgin Breeze",
 				"glass": 2,
-				"ingredients": "Orange, Zuckersirup, Mangopüree, Orangensaft, Cranberrysaft",
+				"ingredients": "Orangen, Zuckersirup, Mangopüree, Orangensaft, Cranberrysaft",
 				"price": "6,90€"
 			},
 			{
