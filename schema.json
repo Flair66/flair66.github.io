@@ -40,9 +40,7 @@
 					"type": "string"
 				},
 				"glass": {
-					"type": "integer",
-					"minimum": 1,
-					"maximum": 14
+					"$ref": "#/$defs/glass"
 				},
 				"size": {
 					"type": "string"
@@ -54,7 +52,7 @@
 					"type": "string"
 				},
 				"price": {
-					"type": "string"
+					"$ref": "#/$defs/price"
 				},
 				"sizes": {
 					"type": "array",
@@ -64,10 +62,17 @@
 							"size": {
 								"type": "string"
 							},
+							"glass": {
+								"$ref": "#/$defs/glass"
+							},
 							"price": {
-								"type": "string"
+								"$ref": "#/$defs/price"
 							}
-						}
+						},
+						"required": [
+							"size",
+							"price"
+						]
 					},
 					"default": []
 				}
@@ -75,6 +80,15 @@
 			"required": [
 				"name"
 			]
+		},
+		"glass": {
+			"type": "integer",
+			"minimum": 1,
+			"maximum": 14
+		},
+		"price": {
+			"type": "string",
+			"pattern": "^([0-9]|[1-9][0-9]),[0-9][0-9]€( \/ ([0-9]|[1-9][0-9]),[0-9][0-9]€)*$"
 		}
 	},
 
