@@ -105,6 +105,45 @@
 						]
 					},
 					"default": []
+				},
+				"detail": {
+					"type": "object",
+					"title": "Detail Modal",
+					"properties": {
+						"title": {
+							"type": "string"
+						},
+						"blocks": {
+							"type": "array",
+							"title": "Text Elemente",
+							"items": {
+								"type": "object",
+								"title": "Text Element",
+								"properties": {
+									"type": {
+										"type": "string",
+										"enum": [
+											"text",
+											"image"
+										]
+									},
+									"content": {
+										"type": "string",
+										"format": "textarea"
+									}
+								},
+								"required": [
+									"type",
+									"content"
+								]
+							},
+							"default": []
+						}
+					},
+					"required": [
+						"title",
+						"blocks"
+					]
 				}
 			},
 			"required": [
