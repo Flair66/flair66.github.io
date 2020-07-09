@@ -751,7 +751,14 @@
 						"price": "8,10€"
 					},
 					{
-						"name": "Amuerte",
+						"name": "Amuerte - Black Edition",
+						"glass": 9,
+						"size": "5cl",
+						"ingredients": "Coca Leaf Gin - Belgien - 43% VOL",
+						"price": "12,80€"
+					},
+					{
+						"name": "Amuerte - White Edition",
 						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Coca Leaf Gin - Belgien - 43% VOL",
@@ -1931,6 +1938,12 @@
 				"size": "4cl",
 				"ingredients": "40% - Russland",
 				"price": "14,80€"
+			},
+			{
+				"name": "Smokecraft",
+				"size": "4cl",
+				"ingredients": "Edelholzvodka - 40% - Berlin - Deutschland",
+				"price": "12,60€"
 			}
 		]
 	},
