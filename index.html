@@ -146,6 +146,12 @@
 
 			function create_entrys(entries, container) {
 				entries.forEach(element => {
+					let detail_id = 0;
+					if (element.detail) {
+						detail_id = detail_modal_data.length;
+						detail_modal_data.push(element.detail);
+					}
+
 					if (element.sizes) {
 						function helper(id) {
 							if (element.sizes[id]) {
@@ -164,9 +170,9 @@
 						}
 
 						container.insertAdjacentHTML('beforeend', `
-							<li class="list-group-item px-1 position-relative" style="padding-left: 31px !important">
+							<li class="list-group-item px-1 position-relative" style="padding-left: 31px !important" ${element.detail ? 'onclick="run_detail_modal(' + detail_id + ')"' : ''}>
 								${element.glass ? '<img src="glassware/' + element.glass + '.svg" height="30px" class="mr-2 float-left position-absolute" style="top: 50%;margin-left: -31px;transform: translateY(-50%)"/>' : ''}
-								<h5 class="m-0 pr-3">
+								<h5 class="m-0 pr-3 ${element.detail ? 'text-info' : ''}">
 									${element.name}
 									<small class="text-muted">${element.ingredients ? element.ingredients : ''}</small>
 								</h5>
@@ -179,17 +185,11 @@
 							</li>
 						`);
 					} else {
-						let detail_id = 0;
-						if (element.detail) {
-							detail_id = detail_modal_data.length;
-							detail_modal_data.push(element.detail);
-						}
-
 						container.insertAdjacentHTML('beforeend', `
-							<li class="list-group-item d-flex justify-content-between align-items-center px-1 ${element.detail ? 'text-info' : ''}" ${element.detail ? 'onclick="run_detail_modal(' + detail_id + ')' : ''}">
+							<li class="list-group-item d-flex justify-content-between align-items-center px-1" ${element.detail ? 'onclick="run_detail_modal(' + detail_id + ')"' : ''}>
 								<div class="d-flex">
 									${element.glass ? '<img src="glassware/' + element.glass + '.svg" height="30px" class="mr-2"/>' : ''}
-									<h5 class="m-0 pr-3">
+									<h5 class="m-0 pr-3 ${element.detail ? 'text-info' : ''}">
 										${element.name}
 										<small class="text-muted">${element.size ? element.size : ''}</small>
 										<br>
