@@ -1,28 +1,48 @@
 {
 	"$schema": "http://json-schema.org/draft-04/schema#",
 
-	"$defs": {
+	"definitions": {
 		"block": {
-			"title": "Block",
 			"type": "object",
+			"title": "Block",
+			"headerTemplate": "{{ i1 }} - {{ self.name }} [{{ self.id }}]",
+			"format": "grid",
 			"properties": {
 				"id": {
-					"type": "string"
+					"type": "string",
+					"title": "Identifier",
+					"options": {
+						"grid-columns": 6
+					}
 				},
 				"name": {
-					"type": "string"
+					"type": "string",
+					"title": "Name",
+					"options": {
+						"grid-columns": 6
+					}
 				},
 				"blocks": {
 					"type": "array",
+					"title": "Unterblöcke",
 					"items": {
-						"$ref": "#/$defs/block"
+						"$ref": "#/definitions/block"
+					},
+					"options": {
+						"disable_collapse": false,
+						"collapsed": true
 					},
 					"default": []
 				},
 				"entries": {
 					"type": "array",
+					"title": "Einträge",
 					"items": {
-						"$ref": "#/$defs/entry"
+						"$ref": "#/definitions/entry"
+					},
+					"options": {
+						"disable_collapse": false,
+						"collapsed": true
 					},
 					"default": []
 				}
@@ -33,40 +53,50 @@
 			]
 		},
 		"entry": {
-			"title": "Entry",
 			"type": "object",
+			"title": "Entry",
+			"headerTemplate": "{{ i1 }} - {{ self.name }}",
 			"properties": {
 				"name": {
-					"type": "string"
+					"type": "string",
+					"title": "Name"
 				},
 				"glass": {
-					"$ref": "#/$defs/glass"
+					"$ref": "#/definitions/glass",
+					"title": "Glass Icon"
 				},
 				"size": {
-					"type": "string"
+					"type": "string",
+					"title": "Detail"
 				},
 				"ingredients": {
-					"type": "string"
+					"type": "string",
+					"title": "Beschreibung"
 				},
 				"hh": {
-					"type": "string"
+					"$ref": "#/definitions/price",
+					"title": "Happy Hour"
 				},
 				"price": {
-					"$ref": "#/$defs/price"
+					"$ref": "#/definitions/price",
+					"title": "Preis"
 				},
 				"sizes": {
 					"type": "array",
+					"format": "table",
+					"title": "Größen",
 					"items": {
 						"type": "object",
+						"title": "Size",
 						"properties": {
 							"size": {
 								"type": "string"
 							},
 							"glass": {
-								"$ref": "#/$defs/glass"
+								"$ref": "#/definitions/glass"
 							},
 							"price": {
-								"$ref": "#/$defs/price"
+								"$ref": "#/definitions/price"
 							}
 						},
 						"required": [
@@ -94,7 +124,7 @@
 
 	"type": "array",
 	"items": {
-		"$ref": "#/$defs/block"
+		"$ref": "#/definitions/block"
 	},
 	"default": []
 }
