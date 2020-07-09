@@ -118,10 +118,32 @@
 			</div>
 		</div>
 
+		<div class="modal fade" id="detailmodal" data-keyboard="true" data-focus="true" tabindex="-1" role="dialog" aria-labelledby="detaillabel" aria-hidden="true">
+			<div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+				<div class="modal-content">
+					<div class="modal-header">
+						<h3 class="modal-title" id="detaillabel"></h3>
+					</div>
+					<div id="detailbody" class="modal-body"></div>
+					<div class="modal-footer">
+						<button class="btn btn-outline-secondary" data-dismiss="modal">
+							<svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-chevron-double-left" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+								<path fill-rule="evenodd" d="M8.354 1.646a.5.5 0 0 1 0 .708L2.707 8l5.647 5.646a.5.5 0 0 1-.708.708l-6-6a.5.5 0 0 1 0-.708l6-6a.5.5 0 0 1 .708 0z"/>
+								<path fill-rule="evenodd" d="M12.354 1.646a.5.5 0 0 1 0 .708L6.707 8l5.647 5.646a.5.5 0 0 1-.708.708l-6-6a.5.5 0 0 1 0-.708l6-6a.5.5 0 0 1 .708 0z"/>
+							</svg>
+							Zurück
+						</button>
+					</div>
+				</div>
+			</div>
+		</div>
+
 		<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
 		<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
 		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
 		<script>
+			var detail_modal_data = [];
+
 			function create_entrys(entries, container) {
 				entries.forEach(element => {
 					if (element.sizes) {
@@ -157,8 +179,14 @@
 							</li>
 						`);
 					} else {
+						let detail_id = 0;
+						if (element.detail) {
+							detail_id = detail_modal_data.length;
+							detail_modal_data.push(element.detail);
+						}
+
 						container.insertAdjacentHTML('beforeend', `
-							<li class="list-group-item d-flex justify-content-between align-items-center px-1">
+							<li class="list-group-item d-flex justify-content-between align-items-center px-1 ${element.detail ? 'text-info' : ''}" ${element.detail ? 'onclick="run_detail_modal(' + detail_id + ')' : ''}">
 								<div class="d-flex">
 									${element.glass ? '<img src="glassware/' + element.glass + '.svg" height="30px" class="mr-2"/>' : ''}
 									<h5 class="m-0 pr-3">
@@ -221,8 +249,27 @@
 				}
 			}
 
-			$('#welcomemodal').modal('show');
+			function run_detail_modal(id) {
+				document.getElementById('detaillabel').innerText = detail_modal_data[id].title;
 
+				let container = document.getElementById('detailbody');
+				container.innerHTML = '';
+				detail_modal_data[id].blocks.forEach(block => {
+					if (block.type === 'text') {
+						container.insertAdjacentHTML('beforeend', `
+							<p class="mb-3">${block.content}</p>
+						`);
+					} else if (block.type === 'image') {
+						container.insertAdjacentHTML('beforeend', `
+							<img class="mb-3" width="100%" src="./data/${block.content}">
+						`);
+					}
+				});
+
+				$('#detailmodal').modal('show');
+			}
+
+			$('#welcomemodal').modal('show');
 			async function run() {
 				let data = await fetch("./data.json");
 				let blocks = await data.json();
