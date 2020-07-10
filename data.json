@@ -949,35 +949,80 @@
 						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Guadalajara - Spanien - 42,7% VOL",
-						"price": "6,90€"
+						"price": "6,90€",
+						"detail": {
+							"title": "Gin Mare",
+							"blocks": [
+								{
+									"type": "text",
+									"content": "Der Gin Mare zeichnet sich durch folgende 4 Botanicals aus: Thymian aus der Türkei, Rosmarin aus Griechenland, Basilikum aus Italien und grüne Arbequina-Oliven aus Spanien. Eine 36-stündige Mazeration dieser Zutaten in Alkohol und dessen anschliessende Redestillation im traditionellen Pot-Still-Verfahren sind ausschlaggebend für das Aroma des Gin Mare. Allerdings enthält die Spirituose auch die gin-typischen Botanicals Wacholder, Kardamom und Zitrus."
+								}
+							]
+						}
 					},
 					{
-						"name": "Nordes",
+						"name": "Nordés Atlantic Galician",
 						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Galicien - Spanien - 40% VOL",
-						"price": "6,20€"
+						"price": "6,20€",
+						"detail": {
+							"title": "Nordés Atlantic Galician",
+							"blocks": [
+								{
+									"type": "text",
+									"content": "Dank Gin Nordés weiss bald die ganze Welt, wo genau Galicien liegt. Die Region im äussersten Nordwesten von Spanien ist seit 1981 autonom und besitzt neben dem Spanischen ihre ganz eigene Sprache, das Gallego. Wer bereits den Jakobsweg bis nach Santiago de Compostela - Sitz von Atlantic Galician Spirits - gewandert ist, wird bereits gute Eindrücke von der Landschaft und Kultur Galiciens gesammelt haben. Das Unternehmen gehört der Osborne Group an, die den berühmten spanischen Stier als Markenzeichen hat und sich dem Weinhandel widmet. Da ist es wenig überraschend, dass der Grundalkohol für diesen Gin aus dem Traubenmost der Weissweinsorte Albariño gebrannt wird, und das ganze vier Mal. Bevor der fünfte Brennvorgang startet, werden die zwölf Botanicals hinzugegeben. Sechs von ihnen stammen aus der Region; die anderen kommen aus der weiten Welt. Für den spritzigen, floralen und würzigen Geschmack des Nordés Gins zuständig sind Wacholder, Eukalyptus, Hibiskus, Schwarztee, Zitronenverbene, Süssholz, Ingwer, Kardamom, Pfefferminze, Lorbeerblätter, Chinin und Salicorn/Queller."
+								}
+							]
+						}
 					},
 					{
 						"name": "Le Tribute",
 						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Barcelona - Spanien - 43% VOL",
-						"price": "8,90€"
+						"price": "8,90€",
+						"detail": {
+							"title": "Le Tribute",
+							"blocks": [
+								{
+									"type": "text",
+									"content": "Bereits 1835 wurde die MG Destillerie in Vilanova, einem kleinen Fischerdorf in der Nähe von Barcelona, gegründet und wird heute bereits in der fünften Generation von der Familie Giro geführt. 1940 lancierte die Destillerie den MG Gin, der bis heute einer der meist verkauften Gins in Spanien ist. 2007 folgte dann der Gin Mare. Nun, zehn Jahre später, präsentiert die MG Destillerie den Le Tribute Gin, der als 'yet dry enough' bezeichnet wird. Er basiert auf Weizenalkohol und wird mit sieben verschiedenen Botanicals aromatisiert: Wacholder, Limette, Orangenschale, Zitronenschale, Kumquat, Tangerine, Grapefruit und Lemongrass. Alle Zutaten werden separat destilliert, beim Zitronengras verwendet man statt des Alkohols Wasser, wodurch das Zitronenaroma besser zur Geltung kommen soll. Anschliessend werden alle Destillate miteinander vermischt und mit 43%vol. in die edle Glasflasche abgefüllt, welche optisch an den Jugendstil / Art Nouveau angelehnt ist."
+								}
+							]
+						}
 					},
 					{
 						"name": "Xoriguer Mahon",
 						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Menorca - Spanien - 38% VOL",
-						"price": "7,90€"
+						"price": "7,90€",
+						"detail": {
+							"title": "Xoriguer Mahon",
+							"blocks": [
+								{
+									"type": "text",
+									"content": "Der Name Xoriguer für den auf Menorca hergestellten Gin geht auf Miguel Pons Justo zurück, der damit das Windmühlengeschäft seiner Familie ehren wollte. Die Flasche mit dem mediterranen, traditionell-familiären Touch zeigt bis heute die alte Windmühle von 1784. Der Beinahme 'Mahon' spielt auf die Herkunft des Xoriguer Gins, Menorcas Hauptstadt mit etwas unter 30.000 Einwohnern, an. Für die Herstellung wird Weinalkohol (und kein Getreidealkohol!) herangezogen, der die Aromen einer streng geheim gehaltenen Botanical-Mischung aufnimmt. Kurioserweise kann das Team das frisch erzeugte Destillat alle zehn Minuten kosten, da es bereits in einer Trinkstärke von 38% aus der Brennanlage herauskommt."
+								}
+							]
+						}
 					},
 					{
 						"name": "Cubical",
 						"glass": 9,
 						"size": "5cl",
 						"ingredients": "London Dry Gin - Spanien - 45% VOL",
-						"price": "8,90€"
+						"price": "8,90€",
+						"detail": {
+							"title": "Cubical",
+							"blocks": [
+								{
+									"type": "text",
+									"content": "Die Basis für den Cubical Ultra Premium London Dry Gin wird von der ehrwürdigen Langley Distillery in Birmingham hergestellt. Dies geschieht auf althergebrachte Weise in über 100 Jahre alten Destillierkolben durch einen vierfachen Brennprozess. In Spanien kommen schliesslich die Botanicals hinzu. Diese geben sich teilweise klassisch, teilweise eher aussergewöhnlich. Die Liste der Zutaten, die dem Cubical Ultra Premium Gin sein unverwechselbares Aroma verleihen, umfasst zum Einen Wacholder, Koriander, Kardamom, Zitronen- bzw. Orangenschalen sowie Anis. Andererseits finden sich Zimt, Mandeln, Mandarinen, Thymian, Mangos und Pfefferminze in der Rezeptur. Mit seiner quadratischen, blau schimmernden Flasche sticht er sofort ins Auge."
+								}
+							]
+						}
 					}
 				]
 			},
@@ -997,7 +1042,16 @@
 						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Süd Tirol - Italien - 44% VOL",
-						"price": "7,90€"
+						"price": "7,90€",
+						"detail": {
+							"title": "Z44",
+							"blocks": [
+								{
+									"type": "text",
+									"content": "Aus dem Südtiroler Brennhaus Roner, einem alten Familienbetrieb, in dem die Brennregeln von Generation zu Generation weitergegeben wurden, kommt dieser Gin. Neben den typischen Gin-Botanicals wie Wacholder und Zitrusschalen sind weiterhin Veilchenwurzeln, Scharfgarbe, Enzianwurzel und andere Berg- und Wiesenkräuter auf seiner Inhaltsliste enthalten. Diese Botanicals werden entweder mazeriert oder destilliert, um die Aromastoffe im Alkohol aufzulösen. Die grösste Besonderheit aber ist die Verwendung von Zirbelkieferzapfen, die nach drei Jahren Reifezeit am Baum per Hand gepflückt werden. Diese geben dem Z44 Gin eine ganz spezielle Geschmacksnote. Die Flasche kann sich übrigens auch sehen lassen - einige der Botanicals sind als feine Zeichnungen auf ihr verewigt worden."
+								}
+							]
+						}
 					},
 					{
 						"name": "Del Professore Monsieur Gin",
@@ -1011,14 +1065,36 @@
 						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Gin Rosa - Italien - 41% VOL",
-						"price": "7,90€"
+						"price": "7,90€",
+						"detail": {
+							"title": "Malfy",
+							"blocks": [
+								{
+									"type": "text",
+									"content": "In Moncalieri - traditionell eine Gegend, in der Wermut-Spirituosen wie Carpano, Cinzano und Martini produziert werden - ist die Brennerei Torino Distillati mit ihrem Malfy Gin eher ein Exot. Nachdem die Destillerie im Jahr 1906 von dem Familienunternehmen 'Fratelli Ferrero di Riccardo' gegründet wurde und sich der Wermut- und Weinherstellung verschrieb, ging sie in den 60iger Jahren an Seagram über. Dann, im Jahr 1992, fiel sie in die Hände von Carlo Vergnano, der mit Hilfe seiner Frau und Tochter den Malfy Gin als 'Nebenprodukt' entwickelte und diesen zuerst in kleinen Mengen herstellte. Bald schon erfreute sich der Gin einer gewissen Beliebtheit und wurde in grösseren Chargen sowie in verschiedenen Ausführungen produziert."
+								},
+								{
+									"type": "text",
+									"content": "Der Gin Rosa legt den Schwerpunkt auf sizilianische Pink Grapefruits und einen Hauch Rhabarber. Dafür mazerieren die Zesten besagter Zitrusfrüchte in neutralem Getreidealkohol. Der Extrakt wird dann mit toskanischem Wacholder, Koriander, Zimtkassie, Engelwurz, Iriswurzel, Süssholz, Rhabarber sowie den Schalen von Amalfi-Zitronen und Orangen versetzt und in einer Edelstahlbrennblase unter Vakuum bei 60°C destilliert. Durch die geringe Destillationstemperatur bleiben die Aromastoffe fast unverändert. Das Tasting der Rosa-Version offenbart Noten von tropisch-fruchtiger Grapefruit, Wacholder, Kräutern, Zitronen und Rhabarber."
+								}
+							]
+						}
 					},
 					{
-						"name": "Pig Skin",
+						"name": "Pigskin",
 						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Italien - 40% VOL",
-						"price": "7,90€"
+						"price": "7,90€",
+						"detail": {
+							"title": "Pigskin",
+							"blocks": [
+								{
+									"type": "text",
+									"content": "Mit einer Infusion von Kräutern der Macchia wie Wacholder, Salbei, Myrtenblättern und Beifuß wird dieser delikate Gin destilliert. Die Farbe verdankt er einer weiteren Infusion wilder Knospen. Danach reift er in alten Holzfässern aus Kastanienholz, in denen zuvor der Wein aus der Vernaccia Traube war. Er duftet klar nach Myrte und schmeckt feinwürzig nach Kräutern."
+								}
+							]
+						}
 					}
 				]
 			},
@@ -1031,28 +1107,68 @@
 						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Antwerp - Belgien - 40% VOL",
-						"price": "8,10€"
+						"price": "8,10€",
+						"detail": {
+							"title": "Buss N°509 Pink Grapefruit",
+							"blocks": [
+								{
+									"type": "text",
+									"content": "Zitrusfrüchte sind unerlässlich, wenn es um die Aromatisierung von Gin geht. Allen voran Zitronen und Orangen (sowohl Bitterorangen als auch Saftorangen) liefern ihre Schalen mit den kostbaren ätherischen Ölen. Davon abgesehen eignen sich weitere Früchte, um frisch oder getrocknet verwendet zu werden. Der Buss N°509 Pink Grapefruit Belgium Flavor Gin Author Collection 2015 beispielsweise macht sich Grapefruits zunutze, die mit ihrem unverwechselbaren Geschmack etwas Saures und Bitteres beisteuern. Der Wacholderschnaps ist Teil der Author Collection mit frischen Früchten und beweist, dass die Firma Buss Spirits aus Antwerpen einen guten Riecher für moderne Spirituosen besitzt."
+								}
+							]
+						}
 					},
 					{
 						"name": "Filliers Dry Gin 28 Tangerine",
 						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Belgien - 43,7% VOL",
-						"price": "8,10€"
+						"price": "8,10€",
+						"detail": {
+							"title": "Filliers Dry Gin 28 Tangerine",
+							"blocks": [
+								{
+									"type": "text",
+									"content": "Während sich die meisten Gin Brennereien auf eine Auswahl von 10-12 Botanicals beschränken, verwendet man unglaubliche 28 Botanicals für diesen vielseitigen Dry Gin aus Belgien. Dieser Filliers Gin wie man ihn heute kennt wurde 1928 das erste mal gebrannt und zwar erst von der Dritten Distiller Generation im Hause Filliers. Diesen traditionellen Dry Gin stellt heute bereits die fünfte Generation her, mit unverändertem Rezept. Neben den enthaltenen Botanicals werden außerdem eine große Menge Mandarinen aus Valencia in Spanien beigegeben, dadurch erhält der Gin eine sommerliche Citrusfrische mit intensiven Fruchtnoten. Perfekt für Sommercocktails."
+								},
+								{
+									"type": "text",
+									"content": "<b>Aroma:</b> Orange und Tangerine, zusammen mit weiteren Zitrusfrüchten und einer subtilen Wacholdernote.<br><b>Geschmack:</b> Starke Orangenfront, mit wärmendem Koriander und Pfeffer, sowie Kardamom und Wacholder.<br><b>Nachklang:</b> Lang und trocknend, mit verweilenden Fruchtnoten."
+								}
+							]
+						}
 					},
 					{
 						"name": "Amuerte - Black Edition",
 						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Coca Leaf Gin - Belgien - 43% VOL",
-						"price": "12,80€"
+						"price": "12,80€",
+						"detail": {
+							"title": "Amuerte - Black Edition",
+							"blocks": [
+								{
+									"type": "text",
+									"content": "Es gibt nicht nur Gin mit Hanfblättern, sondern auch Gin mit Coca-Blättern! Denn lange bevor der aus den Pflanzen extrahierte Wirkstoff Kokain zu einer weit gefürchteten Droge wurde, war der Strauch eine sehr geschätzte Nutzpflanze in Peru, Kolumbien und anderen Andenländern. Dort stellt das Kauen der Coca-Blätter eine Alltagszeremonie unter den indigenen Stämmen dar. Als Jeroen und seine Frau Eveline als Rucksackreisende im kolumbianischen Regenwald ihre erste Begegnung mit den Blättern hatten, wussten sie sofort, dass dies die ideale Zutat für ihren angedachten Gin sei. Erfahrung mit dem Destillieren hatten sie bereits, denn Jeroen enstammt einer belgischen Brennerfamilie, die sich seit jeher mit Gin und Genever auseinandersetzt. Um die naturgegebene Bitterkeit der Coca-Pflanze auszugleichen, zog man für die Herstellung noch typisch peruanische Früchte wie Tamarillo, Papaya und Drachenfrucht heran. Ob es weitere Zutaten gibt, lässt sich nicht ganz erschliessen – jedenfalls trägt der Amuerte Gin herb-bittere, fruchtig-exotische Züge und ist mit einem klassischen London Dry Gin kaum zu vergleichen. Die Designer-Flasche ist mit einem kunstvoll gezeichneten Totenschädel und 24-karätigem Gold versehen. Die Symbolik und der Name sollen jedoch keine negativen Schwingungen rüberbringen, sondern die Käufer des Gins lediglich daran erinnern, jeden Tag in vollen Zügen auszuleben, bevor es zu spät dafür ist."
+								}
+							]
+						}
 					},
 					{
 						"name": "Amuerte - White Edition",
 						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Coca Leaf Gin - Belgien - 43% VOL",
-						"price": "12,80€"
+						"price": "12,80€",
+						"detail": {
+							"title": "Amuerte - White Edition",
+							"blocks": [
+								{
+									"type": "text",
+									"content": "Es gibt nicht nur Gin mit Hanfblättern, sondern auch Gin mit Coca-Blättern! Denn lange bevor der aus den Pflanzen extrahierte Wirkstoff Kokain zu einer weit gefürchteten Droge wurde, war der Strauch eine sehr geschätzte Nutzpflanze in Peru, Kolumbien und anderen Andenländern. Dort stellt das Kauen der Coca-Blätter eine Alltagszeremonie unter den indigenen Stämmen dar. Als Jeroen und seine Frau Eveline als Rucksackreisende im kolumbianischen Regenwald ihre erste Begegnung mit den Blättern hatten, wussten sie sofort, dass dies die ideale Zutat für ihren angedachten Gin sei. Erfahrung mit dem Destillieren hatten sie bereits, denn Jeroen enstammt einer belgischen Brennerfamilie, die sich seit jeher mit Gin und Genever auseinandersetzt. Um die naturgegebene Bitterkeit der Coca-Pflanze auszugleichen, zog man für die Herstellung der White Edition noch 'Finger Lime' aus einem italienischen Naturpark, Kardamom, Koriander und Szechuan-Pfeffer heran. Damit entwickelte man einen ganz neuartigen Geschmack zur Black Edition, die 2018 für Furore sorgte. Für alle, die es noch nicht wissen: Finger Lime ist eine längliche, fingerförmige Zitrusfrucht, deren Fruchtfleisch wie Kaviar aussieht. Ob es weitere Zutaten gibt, lässt sich nicht ganz erschliessen - jedenfalls trägt die Amuerte White Edition herb-bittere, frische und würzige Züge. Die Designer-Flasche ist mit einem kunstvoll gezeichneten Totenschädel und 24-karätiger Goldfolie versehen. Die Symbolik und der Name sollen übrigens keine negativen Schwingungen rüberbringen, sondern die Käufer des Gins lediglich daran erinnern, jeden Tag in vollen Zügen auszuleben, bevor es zu spät dafür ist."
+								}
+							]
+						}
 					}
 				]
 			},
@@ -1065,14 +1181,32 @@
 						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Cognac - Frankreich - 40% VOL",
-						"price": "6,10€"
+						"price": "6,10€",
+						"detail": {
+							"title": "G-Vine Floraison",
+							"blocks": [
+								{
+									"type": "text",
+									"content": "Bei diesem Gin bilden Weintrauben die Grundlage. Das nach vierfacher Destillation entstehende, neutrale Traubendestillat durchläuft schliesslich eine Mazeration mit handverlesenen Blüten der Ugni Blanc-Trauben, die nur während weniger Tage im Juni aufzufinden sind. Parallel hierzu entlockt man acht weiteren Botanicals in einem fünf Tage andauernden Prozess ihre Aromen. Hierbei werden Ingwerwurzel, Lakritz, Cassia-Rinde, Koriander, Wacholderbeeren, Kubeben-Pfeffer, Muskatnuss und Limone mit dem Destillat aufgegossen und destilliert - dies geschieht allerdings separat in botanischen Gruppen. Der vorletzte Schritt umfasst das Blending aller vier Destillate, wobei Jean-Sébastien Robicquet die Komponenten im optimalen Verhältnis zusammenbringt. In einem finalen Destillationsdurchgang vereinigen sich letztendlich alle Aromen."
+								}
+							]
+						}
 					},
 					{
 						"name": "Magellan",
 						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Frankreich - 41,3% VOL",
-						"price": "9,10€"
+						"price": "9,10€",
+						"detail": {
+							"title": "Magellan",
+							"blocks": [
+								{
+									"type": "text",
+									"content": "Insgesamt elf Botanicals tummlen sich im französischen Magellan Blue Gin. Diese reichen von würzigen Ingredienzen wie Kardamom und Muskatnuss, Koriandersamen, Paradieskörnern, Lakritz, Cassia Rinde und Nelken bis zu den sanfteren Aromen von Zimt. Einen Hauch Frucht bringen Orangenschalen und Wacholderbeeren, Iriswurzel und Irisblüten sorgen für den besonderen Touch, der sämtliche Aromen harmonisch verbindet. Und wer sich fragt, woher Magellan Gin seine appetitlich blaue Färbung erhält, der findet auch diese Antwort in der Irisblüte, deren blaue Blütenblätter das gewisse Etwas verleihen, optisch wie geschmacklich."
+								}
+							]
+						}
 					}
 				]
 			},
@@ -1092,14 +1226,27 @@
 						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Japan - 47% VOL",
-						"price": "9,90€"
+						"price": "9,90€",
+						"detail": {
+							"title": "Nikka Coffey Gin",
+							"blocks": [
+								{
+									"type": "text",
+									"content": "Der Nikka Coffey Gin enthält 11 Key Botanicals: Wacholder, Koriander, Angelikawurzel, Zitronen- und Orangenschale sowie typisch japanische Zutaten wie die Zitruspflanzen Yuzu, Amanatsu, Shīkuwāsā und Kabosu, Sansho Pfeffer und in Anknüpfung an Nikkas Unternehmenstradition: Apfelsaft. Denn während heute junge Whiskybrennereien die Durststrecke bis zur Erstabfüllung ihres Whiskys mit Gin, Wodka und anderen klaren Destillaten überbrücken, startete Nikka einst mit Apfelsaft."
+								}
+							]
+						}
 					},
 					{
 						"name": "Ki No Bi",
 						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Kyoto Dry Gin - Japan - 45,7% VOL",
-						"price": "12,50€"
+						"price": "12,50€",
+						"detail": {
+							"title": "Ki No Bi",
+							"content": "Ki no Bi (Die Schönheiten der Jahreszeiten – und kein Jedimeister!) wurde destilliert, geblendet und in Kyoto abgefüllt, mit trockener Stilistik und einem japanischen Akzent. Als Basis dient ein Destillat aus gebranntem Reis, die Zutaten wie gelber Yuzu, Hinoki-Holz Späne, grüner Sansho Pfeffer, Bambusblätter und Gyokuro Tee stammen alle aus der umliegenden Region. Die Botanicals werden in jeweils 6 Aromagruppen eingeteilt und getrennt von den anderen Aromagruppen destilliert. Basen, Citrus, Tee, Kraut, Würze, Blüten. Erst dann, unter Zugabe des berühmten Fushimi Wassers, folgt die Vereinigung zum Ki No Bi mit prachtvollen 45,7% vol. Unter dem Meisterdistiller Alex Davies, wurde die Schönheit aus Kyoto zu einem filigranen Meisterstück mit betörenden Blütennoten und delikater Würze gebrannt und geblendet."
+						}
 					},
 					{
 						"name": "Kin No Bi",
@@ -1115,18 +1262,44 @@
 				"name": "Kolumbianische Gins",
 				"entries": [
 					{
-						"name": "Colombian Treasure",
+						"name": "Dictador Treasure Colombian",
 						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Kolumbien - 43% VOL",
-						"price": "8,90€"
+						"price": "8,90€",
+						"detail": {
+							"title": "Dictador Treasure Colombian",
+							"blocks": [
+								{
+									"type": "text",
+									"content": "Dictador Treasure ist ein einzigartiger Gin aus Kolumbien. Hergestellt wird er aus Beeren, Pflanzen, Gewürze, Zitrusschalen und der Limon Mandarino, einer kolumbianischen Frucht. Die Limon Madarino prägt den Dictador Treasure durch einen exotischen Charackter. Hinzu kommt, dass der Treasure nach der Destillation über 6 Monate in ehemaligen Dictador Rumfässern lagert. Durch seinen weichen und einzigartigen Geschmack kommt Dictador Treasure am besten pur oder on the rocks zur Geltung."
+								},
+								{
+									"type": "text",
+									"content": "<b>Herkunft:</b> Kolumbien<br><b>Farbe:</b> Helles Bernstein<br><b>Duft:</b> Aromen von Mandarine mit Zitrone, Minze, Pfeffer und ein wenig Süße aus dem Holz und dazu Beeren und etwas Mandarine<br><b>Geschmack:</b> Rund und sehr weich, Mandarine, danach Zitrone, Minze und Pfeffer, aber auch traditionelle Gin-Noten<br><b>Abgang:</b> Geschmeidig und frisch"
+								}
+							]
+						}
 					},
 					{
-						"name": "Colombian Ortodoxy",
+						"name": "Dictador Ortodoxy Colombian",
 						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Kolumbien - 43% VOL",
-						"price": "7,90€"
+						"price": "7,90€",
+						"detail": {
+							"title": "Dictador Ortodoxy Colombian",
+							"blocks": [
+								{
+									"type": "text",
+									"content": "Dictador Ortodoxy ist ein sehr aromatischer Dry Gin aus Kolumbien. Hergestellt wird er aus unzähligen Gewürzen, Botanicals, Wurzeln und Beeren. Dictador ist ursprünglich ein Hersteller von ausschließlich Premium Rum. Die Liebe des ehemaligen Dictador Präsidenten Dario Parra zu Gin ist nun der Grund, dass der kolumbiansche Rum-Produzent auch edlen Gin destilliert. Die Besonderheit des Ortodoxy, dass der Gin nach seiner Destillation in Refill-Rumfässern reift, um ein besonderes Geschmacksbild zu bekommen. Der Ortodoxy eignet sich besonders für einen leckere Gin Tonic."
+								},
+								{
+									"type": "text",
+									"content": "<b>Herkunft:</b> Kolumbien<br><b>Farbe:</b> Klar<br><b>Duft:</b> Schöne Wacholdernoten mit Engelwurz, Ingwer, Minze und Zitrone<br><b>Geschmack:</b> Vorrangig Wacholderbeeren mit Pfefferminze und Zimt, leicht pfeffrig und angenehm süßlich<br><b>Abgang:</b> Rund und weich, leicht herb-süßlich"
+								}
+							]
+						}
 					}
 				]
 			},
@@ -1139,35 +1312,84 @@
 						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Schottland - 44% VOL",
-						"price": "6,40€"
+						"price": "6,40€",
+						"detail": {
+							"title": "Hendrick's",
+							"blocks": [
+								{
+									"type": "text",
+									"content": "Hendrick’s selbst bezeichnen ihren Gin als "made oddly", was nicht nur auf einen außergewöhnlichen Geschmack sondern auch auf eine exzentrische Herstellungsweise hindeutet. Small Batch ist bei letzterem die Devise, sodass lediglich geringe Mengen produziert werden, um sowohl satte Aromen als auch abgerundeten Geschmack gewährleisten zu können. Dies kommt durch eine Verbindung aus Bennet- wie Carter-Head-Still Verfahren zustande. Von der liebevollen und sorgsamen Destillation abgesehen, ist es vor allem die bemerkenswerte Zugabe von Bulgarischen Damaszener Rosen sowie herb-erfrischenden Gurken, die gemeinsam blumige Frische und einen unvergleichlichen Geschmack mitbringen. Vielleicht bemerkt er Spuren von Koriander, Zitrone und den anderen sorgfältig ausgewählten Botanicals, die aus aller Welt stammen und in einzigartiger Mischung zueinander gebracht wurden."
+								}
+							]
+						}
 					},
 					{
 						"name": "One Key",
 						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Slowenien - 40% VOL",
-						"price": "7,90€"
+						"price": "7,90€",
+						"detail": {
+							"title": "One Key",
+							"blocks": [
+								{
+									"type": "text",
+									"content": "Der Gin von One Key wird in Slowenien unter der Lizenz der Abnormal Group aus Singapur hergestellt. Abgefüllt wird die Spirituose in einer einzigartigen Flasche, die nur mit dem dazu passenden Schlüssel (im Flaschenboden integriert) geöffnet werden kann. Der Inhalt ist geprägt von altbekannten Zutaten wie Getreide und Wacholder, dazu wird er durch exotische Gewürze wie Ingwer und Koriander abgerundet. Insgesamt ein edler und exquisiter Gin."
+								},
+								{
+									"type": "text",
+									"content": "<b>Nase:</b> Duftet nach Wacholderbeeren und Koriander.<br><b>Gaumen:</b> Würzig-fruchtig, Aromen von Ingwer, Kardamom und Zitrusfrüchten.<br><b>Finish:</b> Langer intensiver Abgang."
+								}
+							]
+						}
 					},
 					{
 						"name": "Rutte Celery Gin",
 						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Niederlande - 43% VOL",
-						"price": "8,10€"
+						"price": "8,10€",
+						"detail": {
+							"title": "Rutte Celery Gin",
+							"blocks": [
+								{
+									"type": "text",
+									"content": "Obwohl die Destillerie Rutte seit 1872 im Geschäft ist, verzeichnete sie wenig Wachstum. Tatsächlich ist sie heute die kleinste Brennerei in ganz Holland, doch das ist den Betreibern auch ganz recht so: Sie möchten weiterhin hohe Qualität und einen Hauch 'Intimität' offerieren. Das Team rund um Brennmeisterin Myriam Hendrickx macht sich sogar die Mühe, jede Flasche einzeln mit dem Abfülljahr und der Batchnummer zu beschriften. Das ehemalige Wohnzimmer des familieneigenen Betriebs wurde zwar mittlerweile zu einer Verkostungsbar umgewandelt und die Brennblase ist ein wahres Hightech-Gerät, doch ansonsten hat sich nur wenig geändert. Die Destillerie Rutte hat drei Gins im Angebot, darunter den Celery Gin mit den üblichen Verdächtigen Wacholder, Angelikawurzel, Orangenschalen, Kardamom und Koriander. Die etwas aussergewöhnliche Zutat ist der pikante Sellerie, den man auch klar herausschmeckt."
+								}
+							]
+						}
 					},
 					{
 						"name": "Brooklyn",
 						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Brooklyn - USA - 40% VOL",
-						"price": "9,20€"
+						"price": "9,20€",
+						"detail": {
+							"title": "Brooklyn",
+							"blocks": [
+								{
+									"type": "text",
+									"content": "Der mit sechs Gold-Awards prämierte Brooklyn Gin kommt nicht – wie der Name vermuten lässt – aus Brooklyn, sondern aus Warwick, einer Kleinstadt am Rande des Bundestaats New York. Das Gründerteam des kleinen, 2010 ins Leben gerufenen Unternehmens konnte sich aus finanziellen Gründen keine eigene Destillerie leisten und wich deshalb auf die 'Warwick Valley Winery & Distillery' aus. Dort durften sie fortan ihren zu 100% handcrafted Gin herstellen, während sie bis heute an ihrem Traum einer eigenen Brennerei in Brooklyn festhalten. Der 40%-ige Gin besteht aus frischen, von Hand geschälten Zitrusschalen und von Hand gewonnenem Wacholderöl. Die Hingabe von Emil Jättne und Joa Santos soll man im Geschmack spüren. Immerhin konzentrieren sich die beiden voll und ganz auf ihren Gin und haben keine weiteren Getränke im Angebot."
+								}
+							]
+						}
 					},
 					{
 						"name": "Deux Frères",
 						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Dry Gin - Österreich - 43% VOL",
-						"price": "8,90€"
+						"price": "8,90€",
+						"detail": {
+							"title": "Deux Frères",
+							"blocks": [
+								{
+									"type": "text",
+									"content": "Der Deux Frères Gin ist ein qualitativ hochwertiger Dry Gin mit einer klaren Wacholdernote. Blumig, frisch in der Nase, entfaltet er sein weiches und harmonisches Aroma im Gaumen. Hierbei zeichnen ihn eine feine Würze und ausgewogene Aromakomplexität aus. Der Abgang ist lange und anhaltend."
+								}
+							]
+						}
 					}
 				]
 			},
@@ -1214,7 +1436,7 @@
 				"price": "6,90€"
 			},
 			{
-				"name": "Gin Gimlet",
+				"name": "Gin t",
 				"glass": 7,
 				"ingredients": "Tanqueray Ten Gin, Lime Juice",
 				"price": "7,90€"
