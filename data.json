@@ -451,98 +451,236 @@
 						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Schwarzwald - Deutschland - 47% VOL",
-						"price": "7,10€"
+						"price": "7,10€",
+						"detail": {
+							"title": "Monkey 47",
+							"blocks": [
+								{
+									"type": "text",
+									"content": "Monkey 47 ist eine aus dem Schwarzwald stammende Dry-Gin-Marke, bezeichnet als „Schwarzwald Dry Gin“. Der Gin wird von der in Loßburg (Baden-Württemberg) ansässigen Brennerei ‚Black Forest Distillers‘ hergestellt. Monkey 47 schmeckt nach Wacholder mit Zitrusnoten, besitzt feinblumige, liebliche sowie leicht pfeffrige Noten und hat subtil herbe Fruchtkomponenten."
+								}
+							]
+						}
 					},
 					{
 						"name": "Windspiel",
 						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Premium Dry Gin - Eifel - Deutschland - 47% VOL",
-						"price": "7,40€"
+						"price": "7,40€",
+						"detail": {
+							"title": "Windspiel",
+							"blocks": [
+								{
+									"type": "text",
+									"content": "Zu Ehren Friedrichs des Grossen wurde dieser deutsche Dry Gin aus Kartoffelalkohol 'Windspiel' genannt. Dem König von Preussen lagen nämlich nicht nur der Kartoffelanbau, sondern auch seine Windhunde am Herzen. Auf das eher ungewöhnliche Aroma des Basisdestillats treffen traditionelle Botanicals wie Wacholder, Koriander und Zitrone sowie Zimtrinde und Lavendel."
+								}
+							]
+						}
 					},
 					{
 						"name": "Rubus",
 						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Bötzingen - Deutschland - 42% VOL",
-						"price": "7,90€"
+						"price": "7,90€",
+						"detail": {
+							"title": "Rubus",
+							"blocks": [
+								{
+									"type": "text",
+									"content": "Dieser einzigartige Gin wird sie überraschen. Fruchtig und mit einem frischen Himbeerduft. Bei diesem Gin steht der Wacholder ausnahmsweise nicht im Vordergrund. Mit 10 botanischen Zutaten von der Wacholder , Koriandersamen, Lavendel, Kardamom, aber auch Stachelbeere, Himbeere wie Orangen- und Grapefruitschalen bescheren Sie Ihrem Gaumen ein einzigartiges Geschmackserlebnis. Florian Faude überrascht immer wieder mit seinen Brennkünsten. Sein Repertoire bietet eine Vielzahl an außergewöhnlichen Bränden, darunter finden Sie auch Rote Beete oder Gurken Schnäpse."
+								}
+							]
+						}
 					},
 					{
-						"name": "Ginstr",
+						"name": "GINSTR",
 						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Dry Gin - Stuttgart - Deutschland - 44% VOL",
-						"price": "7,90€"
+						"price": "7,90€",
+						"detail": {
+							"title": "GINSTR",
+							"blocks": [
+								{
+									"type": "text",
+									"content": "Der hippe GINSTR Gin begeistert nicht nur die Stuttgarter. Gin-Liebhaber von nah und fern vergöttern ihn einfach. Kein Wunder also, dass er nun den Oscar der Ginwelt, die begehrte Goldmedaille bei den World Spirits Awards, erhielt. Seine erfrischenden Zitrusaromen gepaart mit Blüten und Granatapfelkernen treffen genau den Geist der Zeit. Wer wünscht sich nicht, unbekümmert an einem G&T zu nippen und dabei einfach Spaß zu haben. So wird GINSTR ganz schnell zum GINSTaR."
+								}
+							]
+						}
 					},
 					{
 						"name": "Satoshi",
 						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Dry Gin - Ludwigsburg - Deutschland - 44% VOL",
-						"price": "8,10€"
+						"price": "8,10€",
+						"detail": {
+							"title": "Satoshi",
+							"blocks": [
+								{
+									"type": "text",
+									"content": "Satoshi London Dry Gin ist ein im klassischen London Dry Gin Verfahren produzierter Gin. Er überrascht jedoch mit den frischen Aromen der sizilianischen Blutorange Moro. Die charakteristische Frische dieser Zitrusfrucht wird dezent von Zitronengras umspielt. Die würzige Note ausgewählter Chargen frischer Macis (Samenmantel um Muskatnuss) und der exklusive und nur wild in den tropischen Wäldern Madagaskars wachsende Urwaldpfeffer, auch Bourbonpfeffer genannt, bilden mit feinwürzig und süß schmeckenden Wacholderriesen den Körper. Angelika- und Veilchenwurz, sowie weitere Zutaten, runden das Destillat ab."
+								}
+							]
+						}
 					},
 					{
 						"name": "The Duke",
 						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Dry Gin - München - Deutschland - 45% VOL",
-						"price": "7,90€"
+						"price": "7,90€",
+						"detail": {
+							"title": "The Duke",
+							"blocks": [
+								{
+									"type": "text",
+									"content": "Ein edles Produkt fängt mit der Auswahl seiner Zutaten an. So wird der THE DUKE Gin aus rein biologischen Rohstoffen hergestellt. Die vollmundigen Aromen unbehandelter Wacholderbeeren haben dazu den Ausschlag gegeben. Hinzu kommen Koriander, Zitronenschalen, Angelikawurzel, Ingwer, Lavendelblüten, Kubebenpfeffer und weitere „Drogen“, sodass insgesamt 13 ausgesuchte Kräuter & Gewürze diesen Gin ausmachen. Als typisch bayerisches Herkunftsmerkmal, betonen dabei vor allem zwei bestimmte Botanicals seinen Ursprungsort: Hopfenblüten und Malz."
+								}
+							]
+						}
 					},
 					{
 						"name": "Senft 21",
 						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Dry Gin - Bodensee - Deutschland - 44% VOL",
-						"price": "7,90€"
+						"price": "7,90€",
+						"detail": {
+							"title": "Senft 21",
+							"blocks": [
+								{
+									"type": "text",
+									"content": "Manege frei für ein erfrischendes Geschmackserlebnis aus der Wacholderbeere, kombiniert mit 21 hochwertigen Botanicals. Der Bodensee Gin verzaubert mit würzigem Koriander, gefolgt von einem leicht harzigen Duft der Wachholderbeere. Ein besonderes Gaumenspiel entfaltet sich aus fruchtigen Zitronen und süßlichen Orangenschalen und einem Hauch, an Traube erinnernden Salbei-Muskatteller."
+								}
+							]
+						}
 					},
 					{
 						"name": "Tonka",
 						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Hamburg - Deutschland - 47% VOL",
-						"price": "8,10€"
+						"price": "8,10€",
+						"detail": {
+							"title": "Tonka",
+							"blocks": [
+								{
+									"type": "text",
+									"content": "STORY: Dieser Gin wurde von einem Hamburger mit der Tonkabohne verfeinert, diese brasilianische Bohne gilt als aphrodisierend und anregend. Nicht nur in Brasilien, sondern auch bei uns gilt die Tonkabohne als Glücksbringer. Zur Wacholdernote verleiht die Tonkabohne einen eleganten Geruch von Vanille. Auf der Zunge sehr weich und am Gaumen eher trocken. Die angenehme Schärfe der Tonkabohne gibt hier den Ton an."
+								}
+							]
+						}
 					},
 					{
 						"name": "Granit",
 						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Bayern - Deutschland - 42% VOL",
-						"price": "7,90€"
+						"price": "7,90€",
+						"detail": {
+							"title": "Granit",
+							"blocks": [
+								{
+									"type": "text",
+									"content": "Im Charakter dieses Gins zeigt sich die Erfahrung von über 100 Jahren Brenntradition der Hausbrennerei Penninger. Traditionelle Gin-Gewürze kombiniert mit ausgewählten bayerischen Kräutern und Pflanzen ergeben seinen erstklassigen Geschmack. Das kristallklare Wasser aus den Bergen des Bayerischen Waldes schafft eine besondere Milde. Die Filtration über eine Säule von Granitsteinen verschiedener Größe und Körnung verleiht unserem handwerklich hergestellten GRANIT den letzten Schliff – und gibt ihm seinen Namen."
+								}
+							]
+						}
 					},
 					{
 						"name": "Berliner Brandstifter",
 						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Berlin - Deutschland - 43,3% VOL",
-						"price": "8,90€"
+						"price": "8,90€",
+						"detail": {
+							"title": "Berliner Brandstifter",
+							"blocks": [
+								{
+									"type": "text",
+									"content": "Der Berlin Aged Gin ist mehrere Monate in Spätburgunder Fässern gereift. Die dezente Rotweinnote harmoniert hervorragend mit den Aromen des Berliner Brandstifter Gins sowie der besonderen Zugabe von Brombeeren, welche die Edition 2019 veredelt. Die Lagerung und das Zusammenspiel der Botanicals verleihen dem Berlin Aged Gin seine einzigartige, fruchtige und vollmundige Note. Trotz seiner 50,3% schmeckt der Berlin Aged Gin sehr mild."
+								}
+							]
+						}
 					},
 					{
 						"name": "Boar",
 						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Premium Dry Gin - Schwarzwald - Deutschland - 43% VOL",
-						"price": "8,10€"
+						"price": "8,10€",
+						"detail": {
+							"title": "Boar",
+							"blocks": [
+								{
+									"type": "text",
+									"content": "Im Schwarzwald wild gewachsene und handverlesene Zutaten machen diese meisterliche Komposition zu etwas ganz Besonderem. In einem fast mystischen Genussmoment entfalten sich die traditionellen Naturaromen mit besonders feiner Milde – Klassisch mit Wacholderbeeren, Lavendel und Thymian, veredelt und harmonisiert durch ein innovatives Verfahren unter Zugabe des seltenen Schwarzwaldgolds – dem Schwarzwälder Trüffel."
+								}
+							]
+						}
 					},
 					{
 						"name": "Ferdinand's Saar Quince",
 						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Saarbrücken - Deutschland - 30% VOL",
-						"price": "8,10€"
+						"price": "8,10€",
+						"detail": {
+							"title": "Ferdinand's Saar Quince",
+							"blocks": [
+								{
+									"type": "text",
+									"content": "Die neueste Gin-Kreation von Ferdinand Saar, ganz im Westen Deutschlands: eine sehr feine neue Gin-Innovation aus Quitten! Ähnlich wie auch Sloe Gin hergestellt wird, so werden für auch den Quince Gin zunächst die primär geschmacksgebenden Früchte in einem Basisalkohol mazeriert (eingelegt). Für den Sloe Gin werden hier die Früchte der Schlehe verwendet, für den Quince Gin präsentiert Ferdinand Saar ein Novum und mazeriert Quitten. Auch der Basisalkohol ist nicht wie üblich ein Getreidedestillat, sondern ein Wein aus Rieslingtrauben. Das Ergebnis ist völlig neues Gin-Erlebnis, sehr angenehm."
+								},
+								{
+									"type": "text",
+									"content": "<b>Farbe:</b> strohgelb<br><b>Nase:</b> leicht und fruchtig, mit schönen Wacholder-Noten<br><b>Gaumen:</b> harmonische Komposition aus intensiv süßlich-säuerlichen Fruchtnoten, gepaart mit Wacholder und Zitrusnoten, dazu Eindrücke von Wein, Kräutern, Blumen und Gewürzen<br><b>Finish:</b> langanhaltend, Wacholder steht im Vordergrund"
+								}
+							]
+						}
 					},
 					{
 						"name": "Ferdinand's Saar Dry Gin",
 						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Saarbrücken - Deutschland - 44% VOL",
-						"price": "7,90€"
+						"price": "7,90€",
+						"detail": {
+							"title": "Ferdinand's Saar Dry Gin",
+							"blocks": [
+								{
+									"type": "text",
+									"content": "Gestatten? Ein Saarländer namens Ferdinand. Der Gin enthält rund dreißig verschiedene Botanicals und wird zusätzlich mit einem Schuss Riesling verfeinert. Alle Zutaten stammen hauptsächlich aus der Region und werden selbst angebaut."
+								},
+								{
+									"type": "text",
+									"content": "<b>Nase:</b> Vielschichtige Aromen von Wacholder, Früchten und etwas Säure.<br><b>Gaumen:</b> Schöne Fruchtnoten, mit floralen Akzenten von Holunder, Kamille und Lavendel, umrahmt von Wacholdernoten.<br><b>Finish:</b> Lange anhaltend."
+								}
+							]
+						}
 					},
 					{
 						"name": "Niemand",
 						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Dry Gin - Hannover - Deutschland - 46% VOL",
-						"price": "8,90€"
+						"price": "8,90€",
+						"detail": {
+							"title": "Niemand",
+							"blocks": [
+								{
+									"type": "text",
+									"content": "Holz trifft Blume. Außergewöhnlich, einzigartig, besonders. Der Premium-Handcraft-Gin begeistert mit seiner floralen Note. Rosmarin, Lavendel & Sandelholz prägen diesen Gin & laden zu einem verträumten Spaziergang durch den Nadelwald ein."
+								},
+								{
+									"type": "text",
+									"content": "<b>Botanicals:</b> Lavendel, Sandelholz, Rosmarin, Apfel, Ingwer, Zimt, Koriander, Vanille, Pinienkerne, Wacholder."
+								}
+							]
+						}
 					}
 				]
 			},
@@ -551,102 +689,254 @@
 				"name": "Englische Gins",
 				"entries": [
 					{
-						"name": "Tanqueray 10",
+						"name": "Tanqueray No.10",
 						"glass": 9,
 						"size": "5cl",
 						"ingredients": "London - Großbritannien - 47,3% VOL",
-						"price": "6,10€"
-					},
-					{
-						"name": "Bombay Sapphire",
-						"glass": 9,
-						"size": "5cl",
-						"ingredients": "London - Großbritannien - 40% VOL",
-						"price": "5,40€"
-					},
-					{
-						"name": "Martin Miller's",
-						"glass": 9,
-						"size": "5cl",
-						"ingredients": "Dry Gin - London - Großbritannien - 40% VOL",
-						"price": "5,10€"
-					},
-					{
-						"name": "Beefeater24",
-						"glass": 9,
-						"size": "5cl",
-						"ingredients": "London - Großbritannien - 45% VOL",
-						"price": "5,10€"
-					},
-					{
-						"name": "Opihr",
-						"glass": 9,
-						"size": "5cl",
-						"ingredients": "Dry Gin - London - Großbritannien - 42,5% VOL",
-						"price": "7,90€"
-					},
-					{
-						"name": "Jinzu",
-						"glass": 9,
-						"size": "5cl",
-						"ingredients": "London - Großbritannien - 41,3% VOL",
-						"price": "7,90€"
-					},
-					{
-						"name": "The Botanical's",
-						"glass": 9,
-						"size": "5cl",
-						"ingredients": "London Dry Gin - London - Großbritannien - 42,5% VOL",
-						"price": "8,20€"
-					},
-					{
-						"name": "The King of Soho",
-						"glass": 9,
-						"size": "5cl",
-						"ingredients": "London Dry Gin - London - Großbritannien - 42% VOL",
-						"price": "7,90€"
-					},
-					{
-						"name": "Bombay Sapphire English Estate",
-						"glass": 9,
-						"size": "5cl",
-						"ingredients": "London Dry Gin - Hampshire - Großbritannien - 41% VOL",
-						"price": "6,40€"
+						"price": "6,10€",
+						"detail": {
+							"title": "Tanqueray No.10",
+							"blocks": [
+								{
+									"type": "text",
+									"content": "Tanqueray No.10 ist der jüngere Bruder des Tanqueray London Dry Gins. Durch die Zufügung weiterer frischer Botanicals und eine besonders schonende, vierfache Destillation im Small Batch-Verfahren erreicht dieser Gin ein Höchstmass an Aromengehalt, wobei eine besondere Betonung auf den Zitrusnoten liegt. Der Name des Tanqueray No.10 leitet sich von der Nummer der Destille ab, die als einzige bei den deutschen Luftangriffen 1941 nicht zerstört wurde. Der Brennkessel ist deshalb bis heute in Gebrauch."
+								}
+							]
+						}
 					},
 					{
 						"name": "Tranqueray Malacca",
 						"glass": 9,
 						"size": "5cl",
 						"ingredients": "London - Großbritannien - 41,3% VOL",
-						"price": "7,90€"
-					},
-					{
-						"name": "Professor Cornelius Bathtub Gin",
-						"glass": 9,
-						"size": "5cl",
-						"ingredients": "Großbritannien - 43,3% VOL",
-						"price": "7,90€"
+						"price": "7,90€",
+						"detail": {
+							"title": "Tranqueray Malacca",
+							"blocks": [
+								{
+									"type": "text",
+									"content": "Mit der Sonderedition Tanqueray Malacca Gin ergänzt der traditionsreiche Ginhersteller sein Angebot um einen weiteren Premium-Gin. Inspiriert von einem originalen Rezept von Charles Tanqueray, handelt es sich hierbei um eine Neuauflage des bereits 1997 vorgestellten Tanqueray Malacca Gin. Würzig im Geschmack, stechen hier vielfältige Aromen hervor: Die für Gin typischen Botanicals wie Wacholder und Limetten sind hier ebenso präsent wie die leichte Schärfe von Pfeffer, sanfte, frische Noten von Lavendel und Jasmin sowie aromatische Nelken. Im Abgang ist der Tanqueray Malacca Gin von Vanille- und Nelkennoten geprägt."
+								}
+							]
+						}
 					},
 					{
 						"name": "Tanqueray Rangpur",
 						"glass": 9,
 						"size": "5cl",
 						"ingredients": "London - Großbritannien - 41,3% VOL",
-						"price": "7,90€"
+						"price": "7,90€",
+						"detail": [
+							{
+								"title": "Tanqueray Rangpur",
+								"blocks": [
+									{
+										"type": "text",
+										"content": "Diese Edition von Tanqueray ist vor allem den Südfrüchten gewidmet. Und zwar einer Südfrucht, die es so im Supermarkt nicht so ohne weiteres gibt, der Rangpur Limette. Diese besondere Limetten-Sorte soll eine Kreuzung aus Mandarinen und Zitronen sein (genaues weiß man allerdings nicht). Neben den „üblichen Verdächtigen“ wie Wacholder und co. sticht vor allem der Teint dieser saftig-frischen Frucht hervor."
+									},
+									{
+										"type": "text",
+										"content": "<b>Nase:</b> dichte Zitruswolke, die betört aber nicht überwältigt, dezent im Hintergrund verbergen sich Wacholder und Würzige Düfte.<br><b>Gaumen:</b> zarter, weicher Körper der vor allem eines an die Zunge trägt: Zitrus.<br><b>Finish:</b> auch im Abgang bleibt sich Rangpur mit frischem Zitrus-Spiel treu."
+									}
+								]
+							}
+						]
 					},
 					{
-						"name": "Tranqueray Sevilla",
+						"name": "Tanqueray Sevilla",
 						"glass": 9,
 						"size": "5cl",
 						"ingredients": "London - Großbritannien - 41,3% VOL",
-						"price": "7,90€"
+						"price": "7,90€",
+						"detail": {
+							"title": "Tanqueray Sevilla",
+							"blocks": [
+								{
+									"type": "text",
+									"content": "So wie die Edition Rangpur die frische Limetten-Partitur spielt, so bringt dieser Flor de Sevilla vor allem eines in die Nase und in den Mund: Orangen. Nein, nicht als Südfrucht-Zunami auf der Zunge sondern fein balanciert und wohldosiert. Im Flor de Sevilla sind neben Wacholder und anderen Ingredienzien auch die Blüten und die Früchte von Orangen aus Sevilla enthalten."
+								},
+								{
+									"type": "text",
+									"content": "<b>Nase:</b> sehr exotisches Bukett, irgendwie nach Urlaub, voller Orangen, leichten Blütennoten, Südfrüchten, Gewürzen und hintergründigen Wacholdernuancen.<br><b>Gaumen:</b> samtweiche Textur, mit bitter-süßem Orangenteint, wieder sehr diskreten Wacholdernoten und einer Spur hauchfeiner Bourbon Vanille.<br><b>Finish:</b> langer, sehr fruchtiger Nachhall."
+								}
+							]
+						}
+					},
+					{
+						"name": "Bombay Sapphire",
+						"glass": 9,
+						"size": "5cl",
+						"ingredients": "London - Großbritannien - 40% VOL",
+						"price": "5,40€",
+						"detail": {
+							"title": "Bombay Sapphire",
+							"blocks": [
+								{
+									"type": "text",
+									"content": "Der Bombay Sapphire ist ein weltberühmter Gin, der nicht zuletzt aufgrund seiner Flasche bekannt wurde. Die zehn Botanicals werden aus allen Ecken der Welt von einem Master of Botanicals ausgewählt. Durch die besondere Herstellungsmethode (Dampfinfusion) ist er milder und weicher im Geschmack als andere Gins und bringt damit Abwechslung in die London Dry Gins dieser Welt."
+								},
+								{
+									"type": "text",
+									"content": "<b>Botanicals:</b> Wacholderbeeren, Engelwurz, Iriswurzel, Mandeln, Zitronenschale, Paradieskörner, Zimtkassie, Kubeben-Pfeffer, Süßholz, Koriander<br><b>Geschmack:</b> mild, blumig, aromatisch"
+								}
+							]
+						}
+					},
+					{
+						"name": "Bombay Sapphire English Estate",
+						"glass": 9,
+						"size": "5cl",
+						"ingredients": "London Dry Gin - Hampshire - Großbritannien - 41% VOL",
+						"price": "6,40€",
+						"detail": {
+							"title": "Bombay Sapphire English Estate",
+							"blocks": [
+								{
+									"type": "text",
+									"content": "English Estate ist ein erfrischender Limited Edition Gin, der von unserem Zuhause auf dem englischen Land inspiriert wurde. Wir haben den vertrauten Zitrusnoten von Bombay Sapphire die Botanicals Polei-Minze, Hagebutte und geröstete Haselnuss hinzugefügt, die in den Hügeln und Hecken von England gefunden werden."
+								}
+							]
+						}
+					},
+					{
+						"name": "Martin Miller's",
+						"glass": 9,
+						"size": "5cl",
+						"ingredients": "Dry Gin - London - Großbritannien - 40% VOL",
+						"price": "5,10€",
+						"detail": {
+							"title": "Martin Miller's",
+							"blocks": [
+								{
+									"type": "text",
+									"content": "Zusammen mit zwei Freunden entwickelte der Brite Martin Miller 1998 den gleichnamigen Gin, der nach einem überlieferten Verfahren in einer über 100-jährigen Pot Still-Anlage gebrannt wird. Bei den Zutaten konzentriert man sich auf einen eher klassischen Botanical-Mix: So wird der Gin mit Wacholder, Koriander, Angelika, Süssholzwurzel, Zimtrinde (Cassia), Florentiner Schwertlilie (Iris germanica) sowie getrockneten Zitronen-, Bitterorangen- und Limettenschalen verfeinert. Muskatnuss sorgt für einen leicht exotischen Touch. Vor der Abfüllung kommt dann noch pures Gletscherwasser aus Island hinzu. Der Bezug zu Island wird auch auf der Flasche dargestellt: Zu sehen ist eine Art Seekarte, die den Weg von England nach Island zeigt."
+								}
+							]
+						}
+					},
+					{
+						"name": "Beefeater24",
+						"glass": 9,
+						"size": "5cl",
+						"ingredients": "London - Großbritannien - 45% VOL",
+						"price": "5,10€",
+						"detail": {
+							"title": "Beefeater24",
+							"blocks": [
+								{
+									"type": "text",
+									"content": "Beefeater 24 ist der neuste Gin aus dem Hause Beefeater. Seine Besonderheit erhält dieser Gin durch Zugabe eines Blends aus japanischem Senga und chinesischem grünem Tee. Zusätzlich durch seine extrem langsame Destillation ist Beefeater 24 sehr weich und frisch im Aroma. Darüber hinaus besteht Beefeater 24 aus zwölf verschiedenen pflanzlichen Komponenten wie z.B. handgepflückter Grapefruit, sevillianischer Orangenschale und südeuropäischem Wacholder, das dem Beefeater 24 gepaart mit der kunstvoll designten Flasche einen tollen Auftritt beschert."
+								}
+							]
+						}
+					},
+					{
+						"name": "Opihr",
+						"glass": 9,
+						"size": "5cl",
+						"ingredients": "Dry Gin - London - Großbritannien - 42,5% VOL",
+						"price": "7,90€",
+						"detail": {
+							"title": "Opihr",
+							"blocks": [
+								{
+									"type": "text",
+									"content": "Der OPIHR Oriental Spiced London Dry Gin wird von der ältesten Destillerie Londons produziert. Diese wurde 1761 gegründet und setzt noch immer auf die originale Herstellungsmethode. Beim OPIHR Oriental Spiced London Dry Gin handelt es sich um einen würzigen Gin, der mit exotischen Pflanzen und Beeren verfeinert wird, darunter: Cubeb-Beeren aus Indonesien, schwarzer Pfeffer aus Indien sowie Koriander aus Marokko."
+								},
+								{
+									"type": "text",
+									"content": "<b>Farbe:</b> Klar und hell.<br><b>Aroma:</b> Ein reicher orientalisch gewürzter Gin mit einem weichen Parfüm und scharfen Ausbrüchen von Zitrus. Herausragende Noten von Kümmel und Kardamom bieten einen warmen erdigen Hintergrund mit dem Ausgleich durch die Präsenz von Grapefruitschale.<br><b>Geschmack:</b> Sanfter Kampfer, feine Süsse und orientalische Gewürze sorgen für ein anhaltendes aber sich nicht verstärkendes warmes Gefühl im Mund.<br><b>Finish:</b> Anhaltende Länge mit weichem grobkörnigem schwarzem Pfeffer und Gewürzen."
+								}
+							]
+						}
+					},
+					{
+						"name": "Jinzu",
+						"glass": 9,
+						"size": "5cl",
+						"ingredients": "London - Großbritannien - 41,3% VOL",
+						"price": "7,90€",
+						"detail": {
+							"title": "Jinzu",
+							"blocks": [
+								{
+									"type": "text",
+									"content": "Der Jinzu Gin wurde im Jahr 2013 von Dee Davis, einer schottischen Bartenderin, für die Teilnahme an Diageos „Show Your spirit“-Wettbewerb kreiert. Inspiriert von ihren Reisen nach Japan, gewann diese Fusion von britischen Gin und japanischem Sake den höchsten Preis und wurde danach zusammen mit Nichols in der Cambridge Distillery weiterentwickelt. Nachdem traditionelle Gin-Botanicals mit neutralem Getreidealkohol vermählt wurden und weiterhin Yuzu-Zitrusfrüchte und japanische Kirschblüten in die Mischung kamen, lief diese über eine alte Kupferbrennblase. Das Brennprodukt wurde dann mit dem japanischen Reiswein und schottischem Quellwasser verschnitten. In die formschöne Flasche abgefüllt, erinnert diese an den Jinzu-Fluss in Japan, an dem in jedem Frühjahr tausende Kirschbäume die Landschaft in eine rosafarbene Pracht verwandeln."
+								}
+							]
+						}
+					},
+					{
+						"name": "The Botanical's",
+						"glass": 9,
+						"size": "5cl",
+						"ingredients": "London Dry Gin - London - Großbritannien - 42,5% VOL",
+						"price": "8,20€",
+						"detail": {
+							"title": "The Botanical's",
+							"blocks": [
+								{
+									"type": "text",
+									"content": "Der Botanische das ist eine Premium-Klasse Gin, London Dry-Typ, mit einem Alkoholgehalt von 42,5%. Ist nach einem kleinen Handwerksbetrieb verfünffachen Destillation Inhalt Überweisungen Stills John Dore, als der Rolls Royce unter den Stills erhalten."
+								},
+								{
+									"type": "text",
+									"content": "Alkohol kommt aus dem Weizen von höchster Qualität und pflanzlichen Stoffen, aus denen sich der Botanische Gin sind vierzehn: Wacholderbeeren, Koriander, Orangenschale, Zitronenschale, Grapefruit schälen, Zimtstange chinesischen Zimt, Iriswurzel, Engelwurz, Süßholz, Muskat, Orangenblüte Zitrone, Orangenblüten und eine endgültige geheime Zutat."
+								}
+							]
+						}
+					},
+					{
+						"name": "The King of Soho",
+						"glass": 9,
+						"size": "5cl",
+						"ingredients": "London Dry Gin - London - Großbritannien - 42% VOL",
+						"price": "7,90€",
+						"detail": {
+							"title": "The King of Soho",
+							"blocks": [
+								{
+									"type": "text",
+									"content": "Der King of Soho wurde von Howard Raymond mit Hilfe eines der besten Master Distillers Englands (Brennmeister der elften Generation) als Tribut an seinen Vater, Paul Raymond, entwickelt. Dieser verwandelte das Jagdgebiet Soho in den 60iger und 70iger Jahren in das kulturelle Zentrum Londons, für das es heute bekannt ist. Der King of Soho Gin wird mit zwölf Botanicals, wie Grapefruitschale, Koriander, Cassia und Angelikawurzel mazeriert und vierfach destilliert und basiert auf neutralem Getreidedestillat. Nach dem Brennvorgang wird neben Wasser und Destillat nichts mehr dazugegeben - damit erfüllt dieser Gin die Kriterien für einen echten London Dry Gin."
+								}
+							]
+						}
+					},
+					{
+						"name": "Professor Cornelius Bathtub Gin",
+						"glass": 9,
+						"size": "5cl",
+						"ingredients": "Großbritannien - 43,3% VOL",
+						"price": "7,90€",
+						"detail": {
+							"title": "Professor Cornelius Bathtub Gin",
+							"blocks": [
+								{
+									"type": "text",
+									"content": "Der Professor Cornelius Ableforth’s Bathtub Gin ist einfach anders. Der London Dry Gin wird in extrem kleinen Batches im sogenannten „Cold Compounding“ Verfahren hergestellt. Die Zusammenstellung der Botanicals hat der Schöpfer dieses äußerst würzigen Gins, Professor Ableforth, in fleißiger Heimarbeit ausgetüftelt. Aussen wie innen sehr speziell!"
+								}
+							]
+						}
 					},
 					{
 						"name": "Mombasa Club",
 						"glass": 9,
 						"size": "5cl",
 						"ingredients": "London Dry Gin - London - Großbritannien - 41,5% VOL",
-						"price": "8,10€"
+						"price": "8,10€",
+						"detail": {
+							"title": "Mombasa Club",
+							"blocks": [
+								{
+									"type": "text",
+									"content": "Komplexer, vielschichtiger Premium Gin, basierend auf vierfach destilliertem Getreidealkohol, in dem neben Wacholderbeeren unter anderem auch Koriandersamen, Nelken und Cassia-Rinde mazeriert wurden."
+								},
+								{
+									"type": "text",
+									"content": "<b>Nase:</b> intensive Wacholder-Noten, sowie interessante Noten von exotischen Gewürzen<br><b>Gaumen:</b> elegante Mischung aus Wacholdernoten, mit süßen Tönen und Zitrusnoten, dazu Anklänge von Anis<br><b>Finish:</b> langanhaltend"
+								}
+							]
+						}
 					}
 				]
 			},
@@ -1476,8 +1766,8 @@
 		"name": "Weine",
 		"entries": [
 			{
-				"name": "Sauvignon",
-				"ingredients": "Weißwein",
+				"name": "Sauvignon blanc",
+				"ingredients": "Weißwein trocken",
 				"sizes": [
 					{
 						"size": "0,1l",
@@ -1498,7 +1788,7 @@
 			},
 			{
 				"name": "Pinot Grigio",
-				"ingredients": "Weißwein",
+				"ingredients": "Weißwein ",
 				"sizes": [
 					{
 						"size": "0,1l",
@@ -1561,7 +1851,7 @@
 			},
 			{
 				"name": "Lugana",
-				"ingredients": "Weißwein",
+				"ingredients": "Weißwein trocken",
 				"sizes": [
 					{
 						"size": "0,1l",
@@ -1578,7 +1868,20 @@
 						"glass": 14,
 						"price": "24,10€"
 					}
-				]
+				],
+				"detail": {
+					"title": "Lugana",
+					"blocks": [
+						{
+							"type": "image",
+							"content": "lugana.jpg"
+						},
+						{
+							"type": "text",
+							"content": "Strohgelb mit angedeuteten Gewürzaroma, es weist nach der Reifung goldene Schattierungen auf.Der Duft ist Zuckermelone, Mandarin und Grapefruit mit Hauch von Minze und einige florale Noten im Jugendstadium. Im Mund es ist fruchtig, frisch und mineralisch, mit deutlicher Typizität."
+						}
+					]
+				}
 			},
 			{
 				"name": "Veuve Clicquot",
