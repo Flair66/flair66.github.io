@@ -1219,7 +1219,20 @@
 						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Japan - 43% VOL",
-						"price": "7,20€"
+						"price": "7,20€",
+						"detail": {
+							"title": "Roku Gin",
+							"blocks": [
+								{
+									"type": "text",
+									"content": "Roku, im Japanischen gleichbedeutend mit der Zahl Sechs, ist der japanische Premium Craft Gin aus dem Spirituosen-Atelier von Suntory in Osaka. Seine einzigartige Zubereitung aus sechs in Japan beheimateten Botanicals gibt diesem besonderen Gin seine unverwechselbare japanische Identität."
+								},
+								{
+									"type": "text",
+									"content": "In einer vielschichtigen Balance treffen japanische Krischblüte, edler Gyokuro-Tee, Sencha-Grüntee, japanischer Sansho-Pfeffer und eine Zitrusnote aus der Schale der Yuzufrucht auf Ginaromen von Wacholder, Koriandersaat, Angelikawurzel und -samen sowie Zimt, Kardamomsaat und Bitterorangenschale."
+								}
+							]
+						}
 					},
 					{
 						"name": "Nikka Coffey Gin",
