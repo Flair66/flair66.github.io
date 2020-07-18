@@ -1193,6 +1193,26 @@
 						}
 					},
 					{
+						"name": "Malfy con Limone",
+						"glass": 9,
+						"size": "5cl",
+						"ingredients": "Italien - 41% VOL",
+						"price": "7,90€",
+						"detail": {
+							"title": "Malfy con Limone",
+							"blocks": [
+								{
+									"type": "text",
+									"content": "Der Malfy con Limone Gin ist sicherlich kein traditioneller, wacholderlastiger Gin, sondern ein Destillat, das mit ausgesprochener Zitrusfrische und Geschmeidigkeit punktet. Sehr cremig und gaumenschmeichelnd mit einer Menge Zitrusfrische und einer sanften Pfefferschärfe am Gaumen; der Wacholder hält sich dezent im Hintergrund."
+								},
+								{
+									"type": "text",
+									"content": "<b>Aroma:</b> Sehr zitruslastig, mit deutlichen Wacholdernoten in der Nase.<br><b>Geschmack:</b> Es setzen sich die Zitrusnoten fort und vermählen sich mit etwas Wacholder und Koriander.<br><b>Botanicals:</b> Zitronen, Koriander, Cassiarinde, Angelikawurzel, Iriswurzel"
+								}
+							]
+						}
+					},
+					{
 						"name": "Pigskin",
 						"glass": 9,
 						"size": "5cl",
