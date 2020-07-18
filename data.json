@@ -874,7 +874,7 @@
 						"name": "Bombay Sapphire",
 						"glass": 9,
 						"size": "5cl",
-						"ingredients": "London - Großbritannien - 40% VOL",
+						"ingredients": "London Dry Gin - Hampshire - Großbritannien - 40% VOL",
 						"price": "5,40€",
 						"detail": {
 							"title": "Bombay Sapphire",
@@ -906,6 +906,10 @@
 								{
 									"type": "text",
 									"content": "English Estate ist ein erfrischender Limited Edition Gin, der von unserem Zuhause auf dem englischen Land inspiriert wurde. Wir haben den vertrauten Zitrusnoten von Bombay Sapphire die Botanicals Polei-Minze, Hagebutte und geröstete Haselnuss hinzugefügt, die in den Hügeln und Hecken von England gefunden werden."
+								},
+								{
+									"type": "text",
+									"content": "<b>Botanicals:</b> Zitronenschale, Koriandersamen, Engelwurz, Iriswurzel, Paradieskörner, Kubebenpfeffer, Zimtrinde, Mandeln, Süßholz, Minze, Hagebutte, Haselnuss, Wacholder, Schwertlilie"
 								}
 							]
 						}
@@ -922,6 +926,14 @@
 								{
 									"type": "text",
 									"content": "Zusammen mit zwei Freunden entwickelte der Brite Martin Miller 1998 den gleichnamigen Gin, der nach einem überlieferten Verfahren in einer über 100-jährigen Pot Still-Anlage gebrannt wird. Bei den Zutaten konzentriert man sich auf einen eher klassischen Botanical-Mix: So wird der Gin mit Wacholder, Koriander, Angelika, Süssholzwurzel, Zimtrinde (Cassia), Florentiner Schwertlilie (Iris germanica) sowie getrockneten Zitronen-, Bitterorangen- und Limettenschalen verfeinert. Muskatnuss sorgt für einen leicht exotischen Touch. Vor der Abfüllung kommt dann noch pures Gletscherwasser aus Island hinzu. Der Bezug zu Island wird auch auf der Flasche dargestellt: Zu sehen ist eine Art Seekarte, die den Weg von England nach Island zeigt."
+								},
+								{
+									"type": "text",
+									"content": "<b>Botanicals:</b> Wacholder, Cassia-Rinde, Lakritz, Orangenschalen, Engelwurz, Schwertlilie"
+								},
+								{
+									"type": "text",
+									"content": "Bekri empfiehlt dazu den <b>Feever Tree Mediteranean</b> oder <b>Feever Tree Indian</b> Tonic."
 								}
 							]
 						}
@@ -938,6 +950,14 @@
 								{
 									"type": "text",
 									"content": "Beefeater 24 ist der neuste Gin aus dem Hause Beefeater. Seine Besonderheit erhält dieser Gin durch Zugabe eines Blends aus japanischem Senga und chinesischem grünem Tee. Zusätzlich durch seine extrem langsame Destillation ist Beefeater 24 sehr weich und frisch im Aroma. Darüber hinaus besteht Beefeater 24 aus zwölf verschiedenen pflanzlichen Komponenten wie z.B. handgepflückter Grapefruit, sevillianischer Orangenschale und südeuropäischem Wacholder, das dem Beefeater 24 gepaart mit der kunstvoll designten Flasche einen tollen Auftritt beschert."
+								},
+								{
+									"type": "text",
+									"content": "<b>Botanicals:</b> Orangenschalen, Angelikawurzel, Angelika Samen, Iriswurzel, chinesischer grüner Tee, Mandeln, Grapefruit Schale, Zironenschale, japanischer Sencha Tee, Koriander Samen, Süßholzwurzel, Wacholder"
+								},
+								{
+									"type": "text",
+									"content": "Bekri empfiehlt dazu den <b>Thomas Henry</b> oder <b>Feever Tree Indian</b> Tonic."
 								}
 							]
 						}
@@ -957,7 +977,11 @@
 								},
 								{
 									"type": "text",
-									"content": "<b>Farbe:</b> Klar und hell.<br><b>Aroma:</b> Ein reicher orientalisch gewürzter Gin mit einem weichen Parfüm und scharfen Ausbrüchen von Zitrus. Herausragende Noten von Kümmel und Kardamom bieten einen warmen erdigen Hintergrund mit dem Ausgleich durch die Präsenz von Grapefruitschale.<br><b>Geschmack:</b> Sanfter Kampfer, feine Süsse und orientalische Gewürze sorgen für ein anhaltendes aber sich nicht verstärkendes warmes Gefühl im Mund.<br><b>Finish:</b> Anhaltende Länge mit weichem grobkörnigem schwarzem Pfeffer und Gewürzen."
+									"content": "<b>Farbe:</b> Klar und hell.<br><b>Aroma:</b> Ein reicher orientalisch gewürzter Gin mit einem weichen Parfüm und scharfen Ausbrüchen von Zitrus. Herausragende Noten von Kümmel und Kardamom bieten einen warmen erdigen Hintergrund mit dem Ausgleich durch die Präsenz von Grapefruitschale.<br><b>Geschmack:</b> Sanfter Kampfer, feine Süsse und orientalische Gewürze sorgen für ein anhaltendes aber sich nicht verstärkendes warmes Gefühl im Mund.<br><b>Finish:</b> Anhaltende Länge mit weichem grobkörnigem schwarzem Pfeffer und Gewürzen.<br><b>Botanicals:</b> Wacholder, Kubebenpfeffer, Kreuzkümmelsamen, Orangen, Grapefruit, Koriander, schwarzer Tellicherry Pfeffer, Ingwer, Kardamom, Zitronenschalen"
+								},
+								{
+									"type": "text",
+									"content": "Bekri empfiehlt dazu <b>Feever Tree Indian</b> Tonic oder <b>Ginger Ale</b>."
 								}
 							]
 						}
@@ -974,6 +998,14 @@
 								{
 									"type": "text",
 									"content": "Der Jinzu Gin wurde im Jahr 2013 von Dee Davis, einer schottischen Bartenderin, für die Teilnahme an Diageos „Show Your spirit“-Wettbewerb kreiert. Inspiriert von ihren Reisen nach Japan, gewann diese Fusion von britischen Gin und japanischem Sake den höchsten Preis und wurde danach zusammen mit Nichols in der Cambridge Distillery weiterentwickelt. Nachdem traditionelle Gin-Botanicals mit neutralem Getreidealkohol vermählt wurden und weiterhin Yuzu-Zitrusfrüchte und japanische Kirschblüten in die Mischung kamen, lief diese über eine alte Kupferbrennblase. Das Brennprodukt wurde dann mit dem japanischen Reiswein und schottischem Quellwasser verschnitten. In die formschöne Flasche abgefüllt, erinnert diese an den Jinzu-Fluss in Japan, an dem in jedem Frühjahr tausende Kirschbäume die Landschaft in eine rosafarbene Pracht verwandeln."
+								},
+								{
+									"type": "text",
+									"content": "<b>Nase:</b> Der wohlbekannte Duft von Wacholder macht dem pikanten Aroma der Yuzu-Frucht Platz, bevor zarte florale Noten und der delikate Reisduft des Sake aufsteigen.<br><b>Gaumen:</b> Die erdige Wacholderfrische britischen Gins wird von der pikanten Yuzu-Frucht belebt, um dann in zarte Noten von Kirschblüten überzugehen, bevor sich am Ende der unverwechselbar weiche Sake-Geschmack entwickelt.<br><b>Finish:</b> Weich mit pikanten Noten<br><b>Botanicals:</b> Wacholder, Koriander, Krischblüte, Yuzu"
+								},
+								{
+									"type": "text",
+									"content": "Bekri empfiehlt dazu den <b>Fantimans</b> oder <b>Feever Tree Indian</b> Tonic"
 								}
 							]
 						}
@@ -993,7 +1025,11 @@
 								},
 								{
 									"type": "text",
-									"content": "Alkohol kommt aus dem Weizen von höchster Qualität und pflanzlichen Stoffen, aus denen sich der Botanische Gin sind vierzehn: Wacholderbeeren, Koriander, Orangenschale, Zitronenschale, Grapefruit schälen, Zimtstange chinesischen Zimt, Iriswurzel, Engelwurz, Süßholz, Muskat, Orangenblüte Zitrone, Orangenblüten und eine endgültige geheime Zutat."
+									"content": "<b>Botanicals:</b> Wacholderbeeren, Koriander, Orangenschale, Zitronenschale, Grapefruitschale, chinesischer Zimt, Iriswurzel, Engelwurz, Süßholz, Muskat, Orangenblüten"
+								},
+								{
+									"type": "text",
+									"content": "Bekri empfiehlt dazu den <b>Fantimans</b>, <b>Feever Tree Mediteranean</b> oder <b>Thomas Henry</b> Tonic."
 								}
 							]
 						}
@@ -1010,6 +1046,14 @@
 								{
 									"type": "text",
 									"content": "Der King of Soho wurde von Howard Raymond mit Hilfe eines der besten Master Distillers Englands (Brennmeister der elften Generation) als Tribut an seinen Vater, Paul Raymond, entwickelt. Dieser verwandelte das Jagdgebiet Soho in den 60iger und 70iger Jahren in das kulturelle Zentrum Londons, für das es heute bekannt ist. Der King of Soho Gin wird mit zwölf Botanicals, wie Grapefruitschale, Koriander, Cassia und Angelikawurzel mazeriert und vierfach destilliert und basiert auf neutralem Getreidedestillat. Nach dem Brennvorgang wird neben Wasser und Destillat nichts mehr dazugegeben - damit erfüllt dieser Gin die Kriterien für einen echten London Dry Gin."
+								},
+								{
+									"type": "text",
+									"content": "<b>Botanicals:</b> Angelikawurzel, Grapefruit, Koriander, Wacholder, Zimtkassie, Zitrone"
+								},
+								{
+									"type": "text",
+									"content": "Bekri empfiehlt dazu den <b>1724</b> oder <b>Thomas Henry</b> Tonic."
 								}
 							]
 						}
@@ -1026,6 +1070,14 @@
 								{
 									"type": "text",
 									"content": "Der Professor Cornelius Ableforth’s Bathtub Gin ist einfach anders. Der London Dry Gin wird in extrem kleinen Batches im sogenannten „Cold Compounding“ Verfahren hergestellt. Die Zusammenstellung der Botanicals hat der Schöpfer dieses äußerst würzigen Gins, Professor Ableforth, in fleißiger Heimarbeit ausgetüftelt. Aussen wie innen sehr speziell!"
+								},
+								{
+									"type": "text",
+									"content": "<b>Botanicals:</b> Wacholderbeeren, Koriander, Kiefernharz, Kardamon, Orangenschalen, Gewürznelken, Zimt "
+								},
+								{
+									"type": "text",
+									"content": "Bekri empfiehlt dazu den <b>Feever Tree Indian</b>, <b>Indian Tonic Water</b> oder <b>Thomas Henry</b> Tonic."
 								}
 							]
 						}
@@ -1045,7 +1097,11 @@
 								},
 								{
 									"type": "text",
-									"content": "<b>Nase:</b> intensive Wacholder-Noten, sowie interessante Noten von exotischen Gewürzen<br><b>Gaumen:</b> elegante Mischung aus Wacholdernoten, mit süßen Tönen und Zitrusnoten, dazu Anklänge von Anis<br><b>Finish:</b> langanhaltend"
+									"content": "<b>Nase:</b> intensive Wacholder-Noten, sowie interessante Noten von exotischen Gewürzen<br><b>Gaumen:</b> elegante Mischung aus Wacholdernoten, mit süßen Tönen und Zitrusnoten, dazu Anklänge von Anis<br><b>Finish:</b> langanhaltend<br><b>Botanicals:</b> Anis, Koriander, Nelke, Wacholder, Zitrusfrucht, Angelikawurzel, Cassia-Rinde, Kreuzkümmel"
+								},
+								{
+									"type": "text",
+									"content": "Bekri empfiehlt dazu den <b>1724</b> oder <b>Fantimans</b> Tonic."
 								}
 							]
 						}
