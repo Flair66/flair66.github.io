@@ -726,6 +726,10 @@
 								{
 									"type": "text",
 									"content": "<b>Farbe:</b> strohgelb<br><b>Nase:</b> leicht und fruchtig, mit schönen Wacholder-Noten<br><b>Gaumen:</b> harmonische Komposition aus intensiv süßlich-säuerlichen Fruchtnoten, gepaart mit Wacholder und Zitrusnoten, dazu Eindrücke von Wein, Kräutern, Blumen und Gewürzen<br><b>Finish:</b> langanhaltend, Wacholder steht im Vordergrund<br><b>Botanicals:</b> Quitten, Schlehe, Angelika, Hopfen, Weinrose, Mandel, Bitterorange, Fenchel, Passionsblume, Lavendel"
+								},
+								{
+									"type": "text",
+									"content": "Bekri empfiehlt dazu den <b>Thomas Henry</b> Tonic."
 								}
 							]
 						}
@@ -746,6 +750,10 @@
 								{
 									"type": "text",
 									"content": "<b>Nase:</b> Vielschichtige Aromen von Wacholder, Früchten und etwas Säure.<br><b>Gaumen:</b> Schöne Fruchtnoten, mit floralen Akzenten von Holunder, Kamille und Lavendel, umrahmt von Wacholdernoten.<br><b>Finish:</b> Lange anhaltend.<br><b>Botanicals:</b> Lavendel, Wacholder, Rosa Canina, Quitten, Zitronenthymian, Schlehe, Hagebutte, Angelika, Hopfenblüte, Rose, Mandelschale, Koriander, Ingwer"
+								},
+								{
+									"type": "text",
+									"content": "Bekri empfiehlt dazu den <b>Fever Tree Mediterranean</b> Tonic."
 								}
 							]
 						}
@@ -816,6 +824,10 @@
 								{
 									"type": "text",
 									"content": "Mit der Sonderedition Tanqueray Malacca Gin ergänzt der traditionsreiche Ginhersteller sein Angebot um einen weiteren Premium-Gin. Inspiriert von einem originalen Rezept von Charles Tanqueray, handelt es sich hierbei um eine Neuauflage des bereits 1997 vorgestellten Tanqueray Malacca Gin. Würzig im Geschmack, stechen hier vielfältige Aromen hervor: Die für Gin typischen Botanicals wie Wacholder und Limetten sind hier ebenso präsent wie die leichte Schärfe von Pfeffer, sanfte, frische Noten von Lavendel und Jasmin sowie aromatische Nelken. Im Abgang ist der Tanqueray Malacca Gin von Vanille- und Nelkennoten geprägt."
+								},
+								{
+									"type": "text",
+									"content": "Bekri empfiehlt dazu den <b>1724</b> oder <b>Fever Tree Indian</b> Tonic."
 								}
 							]
 						}
@@ -1152,6 +1164,10 @@
 								{
 									"type": "text",
 									"content": "<b>Farbe:</b> Klar & transparent<br><b>Geruch:</b> Zarter Duft nach weißen Blüten, Eukalyptus, Lakritze, Ingwer und Zitrone<br><b>Geschmack:</b> Mittlere Dichte, köstliche Wacholder- und frische Zitrusaromen auf einem floralen Hintergrund<br><b>Botanicals:</b> Traubenmostbrand aus der Albariño-Traube, Wacholder, Schwarztee, Salbei, Hibiskus, Zitronenkraut, Ingwer, Kardamom, Eukalyptus, Pfefferminze, Lorbeerblatt, Süßholz, Salicorn"
+								},
+								{
+									"type": "text",
+									"content": "Bekri empfiehlt dazu den <b>Fever Tree Mediteranean</b> oder <b>1724</b> Tonic."
 								}
 							]
 						}
@@ -1172,6 +1188,10 @@
 								{
 									"type": "text",
 									"content": "<b>Botanicals:</b> Limette, Orange, Kumquat, Mandarine, Grapefruit, Zitrusgras, Kardamom"
+								},
+								{
+									"type": "text",
+									"content": "Bekri empfiehlt dazu den <b>Le Tribute</b> Tonic."
 								}
 							]
 						}
@@ -1284,6 +1304,10 @@
 								{
 									"type": "text",
 									"content": "<b>Aroma:</b> Sehr zitruslastig, mit deutlichen Wacholdernoten in der Nase.<br><b>Geschmack:</b> Es setzen sich die Zitrusnoten fort und vermählen sich mit etwas Wacholder und Koriander.<br><b>Botanicals:</b> Zitronen, Koriander, Cassiarinde, Angelikawurzel, Iriswurzel"
+								},
+								{
+									"type": "text",
+									"content": "Bekri empfiehlt dazu den <b>Fever Tree Mediteranean</b> Tonic."
 								}
 							]
 						}
@@ -1689,6 +1713,10 @@
 					{
 						"name": "Aqua Monaco",
 						"price": "3,50€"
+					},
+					{
+						"name": "Le Tribute",
+						"price": "4,60€"
 					}
 				]
 			}
