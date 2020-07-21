@@ -3332,7 +3332,16 @@
 			{
 				"name": "Schokoladen Souffle",
 				"size": "mit flüssigem Kern und frischen Früchten",
-				"price": "7,30€"
+				"price": "7,30€",
+				"detail": {
+					"title": "Schokoladen Souffle",
+					"blocks": [
+						{
+							"type": "image",
+							"content": "schoko_souffle.jpg"
+						}
+					]
+				}
 			}
 		]
 	}
