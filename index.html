@@ -359,14 +359,29 @@
 				}
 				document.getElementById('search_result').classList.add('d-block');
 
-				Object.keys(search_index).filter(key => {
-					return key.indexOf(search_text) !== -1;
-				}).forEach(term => {
-					search_index[term].forEach(id => {
-						if (result.indexOf(id) === -1) {
-							result.push(id);
-						}
+				document.getElementById('search_input').value.split(" ").map(element => {
+					return normalize_token(element);
+				}).filter(element => {
+					return element !== "";
+				}).forEach((search_term, index) => {
+					let intermediate = [];
+					Object.keys(search_index).filter(key => {
+						return key.indexOf(search_term) !== -1;
+					}).forEach(term => {
+						search_index[term].forEach(id => {
+							if (intermediate.indexOf(id) === -1) {
+								intermediate.push(id);
+							}
+						});
 					});
+
+					if (index === 0) {
+						result = intermediate;
+					} else {
+						result = result.filter(element => {
+							return intermediate.indexOf(element) !== -1;
+						});
+					}
 				});
 
 				if (result.length === 0) {
