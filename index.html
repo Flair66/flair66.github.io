@@ -181,6 +181,8 @@
 						.replaceAll("ü", "u")
 						.replaceAll("ß", "ss")
 						.replaceAll("minze", "minz")
+						.replaceAll("whiske", "whisk")
+						.replaceAll("whiskey", "whisky")
 						.replaceAll(/[^a-z0-9]/g, "");
 			}
 
@@ -355,7 +357,6 @@
 					document.getElementById('search_result').classList.remove('d-block');
 					return;
 				}
-
 				document.getElementById('search_result').classList.add('d-block');
 
 				Object.keys(search_index).filter(key => {

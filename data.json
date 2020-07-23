@@ -1873,20 +1873,20 @@
 		]
 	},
 	{
-		"id": "whiskeydrinks",
-		"name": "Whiskey Drinks",
+		"id": "whiskydrinks",
+		"name": "Whisky Drinks",
 		"entries": [
 			{
-				"name": "Whiskey Cola",
+				"name": "Whisky Cola",
 				"glass": 5,
-				"ingredients": "Jack Daniel's Whiskey, Cola",
+				"ingredients": "Jack Daniel's Whisky, Cola",
 				"hh": "4,50€",
 				"price": "6,10€"
 			},
 			{
-				"name": "Whiskey Sour",
+				"name": "Whisky Sour",
 				"glass": 1,
-				"ingredients": "Jack Daniel's Whiskey, Sour Mix",
+				"ingredients": "Jack Daniel's Whisky, Sour Mix",
 				"hh": "4,60€",
 				"price": "6,30€"
 			},
@@ -1899,19 +1899,19 @@
 			{
 				"name": "John Collins",
 				"glass": 5,
-				"ingredients": "Jack Daniel's Whiskey, Sour Mix, Soda",
+				"ingredients": "Jack Daniel's Whisky, Sour Mix, Soda",
 				"price": "7,60€"
 			},
 			{
 				"name": "Black Jack",
 				"glass": 5,
-				"ingredients": "Jack Daniel's Whiskey, Sour Mix, Southern Comfort, Sour Mix, Cola",
+				"ingredients": "Jack Daniel's Whisky, Sour Mix, Southern Comfort, Sour Mix, Cola",
 				"price": "7,70€"
 			},
 			{
 				"name": "Lynchburg Lemonade",
 				"glass": 5,
-				"ingredients": "Jack Daniel's Whiskey, Triple Sec, Sour Mix, Bitter Lemon",
+				"ingredients": "Jack Daniel's Whisky, Triple Sec, Sour Mix, Bitter Lemon",
 				"hh": "5,50€",
 				"price": "7,80€"
 			},
@@ -1928,9 +1928,9 @@
 				"price": "7,80€"
 			},
 			{
-				"name": "Old Fashioned Whiskey",
+				"name": "Old Fashioned Whisky",
 				"glass": 4,
-				"ingredients": "Whiskey, Zuckersirup, Angostura Bitter",
+				"ingredients": "Whisky, Zuckersirup, Angostura Bitter",
 				"sizes": [
 					{
 						"size": "Jack Daniel's Tennessee Old No. 7",
@@ -2991,126 +2991,210 @@
 				"name": "Oban",
 				"size": "4cl",
 				"ingredients": "14 Jahre - 43% - Schottland",
+				"searchterms": [
+					"scotch",
+					"whisky"
+				],
 				"price": "9,50€"
 			},
 			{
 				"name": "Glenfiddich",
 				"size": "4cl",
 				"ingredients": "12 Jahre - 40% - Schottland",
+				"searchterms": [
+					"scotch",
+					"whisky"
+				],
 				"price": "6,10€"
 			},
 			{
 				"name": "Glen Grant Pure Malt",
 				"size": "4cl",
 				"ingredients": "5 Jahre - 40% - Schottland",
+				"searchterms": [
+					"scotch",
+					"whisky"
+				],
 				"price": "4,20€"
 			},
 			{
 				"name": "The Glenlivet",
 				"size": "4cl",
 				"ingredients": "12 Jahre - 40% - Schottland",
+				"searchterms": [
+					"scotch",
+					"whisky"
+				],
 				"price": "6,60€"
 			},
 			{
 				"name": "Bowmore",
 				"size": "4cl",
 				"ingredients": "12 Jahre - 40% - Schottland",
+				"searchterms": [
+					"scotch",
+					"whisky"
+				],
 				"price": "6,80€"
 			},
 			{
 				"name": "Glendronach",
 				"size": "4cl",
 				"ingredients": "12 Jahre - 43% - Schottland",
+				"searchterms": [
+					"scotch",
+					"whisky"
+				],
 				"price": "7,30€"
 			},
 			{
 				"name": "Dimple",
 				"size": "4cl",
 				"ingredients": "15 Jahre - 40% - Schottland",
+				"searchterms": [
+					"scotch",
+					"whisky"
+				],
 				"price": "5,40€"
 			},
 			{
 				"name": "Ballantines",
 				"size": "4cl",
 				"ingredients": "12 Jahre - 40% - Schottland",
+				"searchterms": [
+					"scotch",
+					"whisky"
+				],
 				"price": "6,30€"
 			},
 			{
 				"name": "Chivas Regal",
 				"size": "4cl",
 				"ingredients": "12 Jahre - 40% - Schottland",
+				"searchterms": [
+					"scotch",
+					"whisky"
+				],
 				"price": "4,90€"
 			},
 			{
 				"name": "Ardbeg",
 				"size": "4cl",
 				"ingredients": "10 Jahre - 46% - Schottland",
+				"searchterms": [
+					"scotch",
+					"whisky"
+				],
 				"price": "8,40€"
 			},
 			{
 				"name": "Talisker",
 				"size": "4cl",
 				"ingredients": "10 Jahre - 45,8% - Schottland",
+				"searchterms": [
+					"scotch",
+					"whisky"
+				],
 				"price": "7,40€"
 			},
 			{
 				"name": "The Ardmore",
 				"size": "4cl",
 				"ingredients": "40% - Schottland",
+				"searchterms": [
+					"scotch",
+					"whisky"
+				],
 				"price": "6,10€"
 			},
 			{
 				"name": "Laphroaig - Triple Wood",
 				"size": "4cl",
 				"ingredients": "48% - Schottland",
+				"searchterms": [
+					"scotch",
+					"whisky"
+				],
 				"price": "8,30€"
 			},
 			{
 				"name": "Caol Ila",
 				"size": "4cl",
 				"ingredients": "12 Jahre - 43% - Schottland",
+				"searchterms": [
+					"scotch",
+					"whisky"
+				],
 				"price": "8,30€"
 			},
 			{
 				"name": "Old Ballantruan",
 				"size": "4cl",
 				"ingredients": "10 Jahre - 50% - Schottland",
+				"searchterms": [
+					"scotch",
+					"whisky"
+				],
 				"price": "9,40€"
 			},
 			{
 				"name": "Highland Park Dark Origins",
 				"size": "4cl",
 				"ingredients": "46,8% - Schottland",
+				"searchterms": [
+					"scotch",
+					"whisky"
+				],
 				"price": "12,60€"
 			},
 			{
 				"name": "Johnnie Walker Red Label",
 				"size": "4cl",
 				"ingredients": "40% - Schottland",
+				"searchterms": [
+					"scotch",
+					"whisky"
+				],
 				"price": "6,10€"
 			},
 			{
 				"name": "Johnnie Walker Black Label",
 				"size": "4cl",
 				"ingredients": "40% - Schottland",
+				"searchterms": [
+					"scotch",
+					"whisky"
+				],
 				"price": "7,90€"
 			},
 			{
 				"name": "Johnnie Walker Gold Label",
 				"size": "4cl",
 				"ingredients": "40% - Schottland",
+				"searchterms": [
+					"scotch",
+					"whisky"
+				],
 				"price": "8,90€"
 			},
 			{
 				"name": "Johnnie Walker Green Label",
 				"size": "4cl",
 				"ingredients": "43% - Schottland",
+				"searchterms": [
+					"scotch",
+					"whisky"
+				],
 				"price": "9,90€"
 			},
 			{
 				"name": "Johnnie Walker Blue Label",
 				"size": "4cl",
 				"ingredients": "40% - Schottland",
+				"searchterms": [
+					"scotch",
+					"whisky"
+				],
 				"price": "25,00€"
 			}
 		]
