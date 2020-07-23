@@ -2401,7 +2401,7 @@
 						},
 						{
 							"type": "text",
-							"content": "Strohgelb mit angedeuteten Gewürzaroma, es weist nach der Reifung goldene Schattierungen auf.Der Duft ist Zuckermelone, Mandarin und Grapefruit mit Hauch von Minze und einige florale Noten im Jugendstadium. Im Mund es ist fruchtig, frisch und mineralisch, mit deutlicher Typizität."
+							"content": "Fruchtiger und zugleich gehaltvoller italienischer Weißwein aus der Anbauzone südlich des Gardasees, in dem sich Aromen von Akazienblüten, reifen Birnen und Pfirsichen, bisweilen auch von Ananas und Kamille widerspiegeln."
 						}
 					]
 				}
@@ -3336,7 +3336,16 @@
 			{
 				"name": "Schokoladen Souffle",
 				"size": "mit flüssigem Kern und frischen Früchten",
-				"price": "7,30€"
+				"price": "7,30€",
+				"detail": {
+					"title": "Schokoladen Souffle",
+					"blocks": [
+						{
+							"type": "image",
+							"content": "schoko_souffle.jpg"
+						}
+					]
+				}
 			}
 		]
 	}
