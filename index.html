@@ -191,6 +191,17 @@
 					search_index[key].push(id);
 				}
 
+				if (entry["searchterms"]) {
+					entry["searchterms"].forEach(element => {
+						let term = normalize_token(element);
+						if (!search_index[term]) {
+							search_index[term] = [ id ];
+						} else {
+							search_index[term].push(id);
+						}
+					});
+				}
+
 				if (entry["ingredients"]) {
 					let keys = entry["ingredients"].split(/,|-/);
 
