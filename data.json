@@ -1143,10 +1143,14 @@
 						"glass": 9,
 						"size": "5cl",
 						"ingredients": "London - Großbritannien - 40% VOL",
-						"price": "?,??€",
+						"price": "8,30€",
 						"detail": {
 							"title": "Brockmans",
 							"blocks": [
+								{
+									"type": "image",
+									"content": "brocksmans.jpg"
+								},
 								{
 									"type": "text",
 									"content": "Ein Gin aus England, der sich irgendwie deutsch anhört und doch typisch britische Züge in sich vereint: Brockmans Gin mit dem klangvollen Namen. Auch die Optik zieht viel Aufmerksamkeit auf den Gin, steckt er doch in einer dunklen, markanten, nachtschwarzen Flasche. Das Aroma des Brockmans Gin ist von den ausgesuchten Botanicals geprägt, die dem Destillat neben den obligatorischen Wacholderbeeren beigegeben wurden. Zur Aromatisierung hat man u.a. Koriander aus Bulgarien und fruchtige Zutaten wie Blaubeeren und Brombeeren zurate gezogen. Was am deutlichsten hängenbleibt, ist die unglaubliche Weichheit dieses Premium-Gins, die man sonst nur von lange gelagerten Spirituosen kennt."
@@ -1154,6 +1158,10 @@
 								{
 									"type": "text",
 									"content": "<b>Botanicals:</b> Blaubeeren, Brombeeren, Iriswurzel, Süßholz, bulgarischen Koriander, Wacholder, Orangenschalen von Valenciaorangen, Kassiarinde, Angelikawurzel"
+								},
+								{
+									"type": "text",
+									"content": "Bekri empfiehlt dazu den <b>Fever-Tree Elderflower</b> oder <b>Fever-Tree Mediterranean</b> Tonic, für ein besonderes Geschmackserlebnis mit Kirschblüten empiehlt Bekri den <b>Thomas Henry Cherry Blossom</b>"
 								}
 							]
 						}
@@ -1727,7 +1735,7 @@
 						"price": "3,50€"
 					},
 					{
-						"name": "Thomas Henry Cherry Blossom Tonic",
+						"name": "Thomas Henry Cherry Blossom",
 						"price": "3,80€"
 					},
 					{
