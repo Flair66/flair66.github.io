@@ -2332,6 +2332,30 @@
 		]
 	},
 	{
+		"id": "wermut",
+		"name": "Wermut",
+		"entries": [
+			{
+				"name": "Lustau",
+				"size": "4cl",
+				"ingredients": "Jerez de la Frontera - Spanien",
+				"price": "5,20€"
+			},
+			{
+				"name": "Belsazar",
+				"size": "4cl",
+				"ingredients": "Rosé - Berlin - Deutschland",
+				"price": "5,20€"
+			},
+			{
+				"name": "Antica Formula",
+				"size": "4cl",
+				"ingredients": "Milano - Italien",
+				"price": "6,10€"
+			}
+		]
+	},
+	{
 		"id": "weine",
 		"name": "Weine",
 		"entries": [
