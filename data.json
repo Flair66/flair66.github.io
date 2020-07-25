@@ -927,6 +927,13 @@
 						}
 					},
 					{
+						"name": "Bombay Bramble",
+						"glass": 9,
+						"size": "5cl",
+						"ingredients": "London Dry Gin - Hampshire - Großbritannien - 37,5% VOL",
+						"price": "?,??€"
+					},
+					{
 						"name": "Martin Miller's",
 						"glass": 9,
 						"size": "5cl",
@@ -1114,6 +1121,26 @@
 								{
 									"type": "text",
 									"content": "Bekri empfiehlt dazu den <b>1724</b> oder <b>Fantimans</b> Tonic."
+								}
+							]
+						}
+					},
+					{
+						"name": "Brockmans",
+						"glass": 9,
+						"size": "5cl",
+						"ingredients": "London - Großbritannien - 40% VOL",
+						"price": "?,??€",
+						"detail": {
+							"title": "Brockmans",
+							"blocks": [
+								{
+									"type": "text",
+									"content": "Ein Gin aus England, der sich irgendwie deutsch anhört und doch typisch britische Züge in sich vereint: Brockmans Gin mit dem klangvollen Namen. Auch die Optik zieht viel Aufmerksamkeit auf den Gin, steckt er doch in einer dunklen, markanten, nachtschwarzen Flasche. Das Aroma des Brockmans Gin ist von den ausgesuchten Botanicals geprägt, die dem Destillat neben den obligatorischen Wacholderbeeren beigegeben wurden. Zur Aromatisierung hat man u.a. Koriander aus Bulgarien und fruchtige Zutaten wie Blaubeeren und Brombeeren zurate gezogen. Was am deutlichsten hängenbleibt, ist die unglaubliche Weichheit dieses Premium-Gins, die man sonst nur von lange gelagerten Spirituosen kennt."
+								},
+								{
+									"type": "text",
+									"content": "<b>Botanicals:</b> Blaubeeren, Brombeeren, Iriswurzel, Süßholz, bulgarischen Koriander, Wacholder, Orangenschalen von Valenciaorangen, Kassiarinde, Angelikawurzel"
 								}
 							]
 						}
@@ -1440,6 +1467,26 @@
 								{
 									"type": "text",
 									"content": "Insgesamt elf Botanicals tummlen sich im französischen Magellan Blue Gin. Diese reichen von würzigen Ingredienzen wie Kardamom und Muskatnuss, Koriandersamen, Paradieskörnern, Lakritz, Cassia Rinde und Nelken bis zu den sanfteren Aromen von Zimt. Einen Hauch Frucht bringen Orangenschalen und Wacholderbeeren, Iriswurzel und Irisblüten sorgen für den besonderen Touch, der sämtliche Aromen harmonisch verbindet. Und wer sich fragt, woher Magellan Gin seine appetitlich blaue Färbung erhält, der findet auch diese Antwort in der Irisblüte, deren blaue Blütenblätter das gewisse Etwas verleihen, optisch wie geschmacklich."
+								}
+							]
+						}
+					},
+					{
+						"name": "Citadelle",
+						"glass": 9,
+						"size": "5cl",
+						"ingredients": "Dry Gin - Ars - Frankreich - 44% VOL",
+						"price": "?,??€",
+						"detail": {
+							"title": "Citadelle",
+							"blocks": [
+								{
+									"type": "text",
+									"content": "Das Gin aus Frankreich kommt ist immer noch etwas ungewöhnlich. Dass er dazu noch aus Cognac kommt, ist zumindest sehr ungewöhnlich. Der Citadelle Gin kann sogar beides und die Webseite des Herstellers Cognac Ferrand beschreibt die Herkunft des Gins im Ursprung als französischen Wacholderschnaps und holländischen Genever. Der London Dry Gin soll auf ein Rezept aus dem 18. Jahrhundert zurück gehen und ist nach einer kleinen Destillerie in Dünkirchen, im Norden Frankreichs benannt. Besonderen Wert legen die beiden Hersteller Alexandre Gabriel und Jean-Dominique Andreu von Cognac Ferrand auf den Herstellungsprozess. Es werden die selben Brennblasen wie bei der Cognac-Produktion genutzt. Die genutzten Charentaiser Kupfer-Brennblasen fassen nur 200 Liter, insgesamt werden 19 Botanicals genutzt. Wirklich besonders ist die Destillation über offenem Feuer, was bei der Produktion ein gewisses Feingefühlt voraussetzt."
+								},
+								{
+									"type": "text",
+									"content": "<b>Botanicals:</b> Wacholder, Veilchen, Koriander, Mandeln, Zitronenschalen, Orangenschalen, Engelwurz, Kardamon, Kassia, Zimt, Lakritz, Paradieskörner, Kubebenpfeffer, Kreuzkümmel, Bohnenkraut, Sternanis, Muskatnuss, Fenchel, Iris-Wurzel"
 								}
 							]
 						}
