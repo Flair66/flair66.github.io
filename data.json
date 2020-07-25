@@ -931,7 +931,20 @@
 						"glass": 9,
 						"size": "5cl",
 						"ingredients": "London Dry Gin - Hampshire - Großbritannien - 37,5% VOL",
-						"price": "?,??€"
+						"price": "?,??€",
+						"detail": {
+							"title": "Bombay Bramble",
+							"blocks": [
+								{
+									"type": "text",
+									"content": "Der Bombay Bramble Gin stammt aus der traditionsreichen Laverstoke Mill in England. Basis für den Bombay Bramble ist der weltbekannte Bombay Gin, welchem durch eine Infusion mit Brombeeren und Himbeeren ein fruchtiger Charakter verliehen wird. Der Bombay Bramble wird auf Basis eines destillierten Gins hergestellt, welcher anschließend einer Infusion mit Früchten der Himbeere und Brombeere verfeinert wird. Dadurch erhält der Gin seine satte blutrote Farbnote und seinen geschmacklich einzigartigen Charakter. Der Bombay Bramble Gin ist ideal für die Zubereitung sommerlich fruchtiger Cocktails, kann aber auch direkt mit etwas Eis und einem nicht zu intensivem Tonic getrunken werden."
+								},
+								{
+									"type": "text",
+									"content": "<b>Farbe:</b> rötlich<br><b>Geschmack:</b> Wacholder, Himbeere, Brombeere"
+								}
+							]
+						}
 					},
 					{
 						"name": "Martin Miller's",
