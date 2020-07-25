@@ -2593,8 +2593,23 @@
 		"entries": [
 			{
 				"name": "San Pellegrino",
+				"glass": 14,
 				"size": "0,25l / 0,75l",
-				"price": "2,10€ / 4,90€"
+				"price": "2,10€ / 4,90€",
+				"sizes": [
+					{
+						"size": "0,25l",
+						"price": "2,10€"
+					},
+					{
+						"size": "0,75l",
+						"price": "4,90€"
+					},
+					{
+						"size": "1,00l",
+						"price": "6,50€"
+					}
+				]
 			},
 			{
 				"name": "Red Bull",
