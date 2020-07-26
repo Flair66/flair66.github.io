@@ -1295,7 +1295,20 @@
 						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Dry Gin - Padova - Italien - 40% VOL",
-						"price": "8,10€"
+						"price": "8,10€",
+						"detail": {
+							"title": "Dolce Vita",
+							"blocks": [
+								{
+									"type": "text",
+									"content": "Beim Dolce Vita Dry Gin handelt es sich um einen mediterranen Gin aus Italien.Bei seiner Herstellung wird penibel darauf geachtet, dass ausschließlich einheimische Kräuter, Wurzeln und Blüten verwendet werden. Dadurch das bei der Herstellung des Dolce Vita Dry Gin sechs verschiedenen Zitrusfrüchten mazeriert werden, sind es natürlich Zitrus und Orange die den Charakter des Dolce Vita Dry Gin ausmachen."
+								},
+								{
+									"type": "text",
+									"content": "<b>Botanicals:</b> Orangeschale, Zitroneschale, Mandarineschale, Limetteschale, Grapefruitschale, Wacholder, Koriander, Bergamotte, Zeder, Orangenblüten, Zitronenblüten"
+								}
+							]
+						}
 					},
 					{
 						"name": "Z44",
@@ -1318,7 +1331,16 @@
 						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Italien - 43,7% VOL",
-						"price": "8,10€"
+						"price": "8,10€",
+						"detail": {
+							"title": "Del Professore Monsieur Gin",
+							"blocks": [
+								{
+									"type": "text",
+								"content": "Der Del Professore Monsieur Gin ist ein Teil des Jerry Thomas Projekts. Er zeichnet sich durch sein klassisches Gin Profil aus Wacholder- und Zitrusnoten aus. Der Gin steht für die Rückbesinnung auf alte Gin Produktionsmethoden, wie der 'Bathtub Gin'. Dies geschieht nun aber im Gegensatz zur Vergangenheit mit aller höchster Qualität und den besten Zutanten. Dies wiederholt die selben Standards und Qualitätsansprüche die das Jerry Thomas Projekt bei seinem Vermut angelegt hat."
+								}
+							]
+						}
 					},
 					{
 						"name": "Malfy",
@@ -1562,7 +1584,12 @@
 						"price": "12,50€",
 						"detail": {
 							"title": "Ki No Bi",
-							"content": "Ki no Bi (Die Schönheiten der Jahreszeiten – und kein Jedimeister!) wurde destilliert, geblendet und in Kyoto abgefüllt, mit trockener Stilistik und einem japanischen Akzent. Als Basis dient ein Destillat aus gebranntem Reis, die Zutaten wie gelber Yuzu, Hinoki-Holz Späne, grüner Sansho Pfeffer, Bambusblätter und Gyokuro Tee stammen alle aus der umliegenden Region. Die Botanicals werden in jeweils 6 Aromagruppen eingeteilt und getrennt von den anderen Aromagruppen destilliert. Basen, Citrus, Tee, Kraut, Würze, Blüten. Erst dann, unter Zugabe des berühmten Fushimi Wassers, folgt die Vereinigung zum Ki No Bi mit prachtvollen 45,7% vol. Unter dem Meisterdistiller Alex Davies, wurde die Schönheit aus Kyoto zu einem filigranen Meisterstück mit betörenden Blütennoten und delikater Würze gebrannt und geblendet."
+							"blocks": [
+								{
+									"type": "text",
+									"content": "Ki no Bi (Die Schönheiten der Jahreszeiten – und kein Jedimeister!) wurde destilliert, geblendet und in Kyoto abgefüllt, mit trockener Stilistik und einem japanischen Akzent. Als Basis dient ein Destillat aus gebranntem Reis, die Zutaten wie gelber Yuzu, Hinoki-Holz Späne, grüner Sansho Pfeffer, Bambusblätter und Gyokuro Tee stammen alle aus der umliegenden Region. Die Botanicals werden in jeweils 6 Aromagruppen eingeteilt und getrennt von den anderen Aromagruppen destilliert. Basen, Citrus, Tee, Kraut, Würze, Blüten. Erst dann, unter Zugabe des berühmten Fushimi Wassers, folgt die Vereinigung zum Ki No Bi mit prachtvollen 45,7% vol. Unter dem Meisterdistiller Alex Davies, wurde die Schönheit aus Kyoto zu einem filigranen Meisterstück mit betörenden Blütennoten und delikater Würze gebrannt und geblendet."
+								}
+							]
 						}
 					},
 					{
@@ -1570,7 +1597,16 @@
 						"glass": 9,
 						"size": "5cl",
 						"ingredients": "Kyoto Dry Gin - Japan - 45,7% VOL",
-						"price": "17,50€"
+						"price": "17,50€",
+						"detail": {
+							"title": "Kin No Bi",
+							"blocks": [
+								{
+									"type": "text",
+									"content": "Der Kin No Bi Kyoto Dry Gin Gold Leaf ist eine Sonderauflage der Kyoto Destillerie. Das Ziel hinter der Kreation dieses Gins ist es, Sie mit einer Mischung aus Tradition und Innovation bekannt zu machen. In Japan gibt es eine Tradition, Sake zu besonderen Anlässen mit Blattgold zu versehen. Dieser Tradition wurde nun eine innovative Wendung gegeben, indem man diesem Gin das essbare Blattgold hinzufügt. Ideal für alle, die in besonderen Momenten gerne mit einem guten Gin & Tonic anstoßen."
+								}
+							]
+						}
 					}
 				]
 			},
@@ -2877,6 +2913,12 @@
 				"size": "4cl",
 				"ingredients": "Edelholzvodka - 40% - Berlin - Deutschland",
 				"price": "12,60€"
+			},
+			{
+				"name": "Cîroc",
+				"size": "4cl",
+				"ingredients": "40% - Frankreich",
+				"price": "?,??€"
 			}
 		]
 	},
