@@ -1,0 +1,1727 @@
+{
+	"title": "Gin-Karte",
+	"elements": [
+		{
+			"name": "Monkey 47",
+			"type": "Gin",
+			"origin": "Schwarzwald - Deutschland",
+			"vol": "47%",
+			"taste": {
+				"juniper": 5,
+				"citrus": 9,
+				"fruit": -1,
+				"floral": 9,
+				"herbal": -1,
+				"spice": 5
+			},
+			"price": "7,10\u20ac",
+			"detail": {
+				"title": "Monkey 47",
+				"blocks": [
+					{
+						"type": "text",
+						"content": "Monkey 47 ist eine aus dem Schwarzwald stammende Dry-Gin-Marke, bezeichnet als \u201eSchwarzwald Dry Gin\u201c. Der Gin wird von der in Lo\u00dfburg (Baden-W\u00fcrttemberg) ans\u00e4ssigen Brennerei \u201aBlack Forest Distillers\u2018 hergestellt. Monkey 47 schmeckt nach Wacholder mit Zitrusnoten, besitzt feinblumige, liebliche sowie leicht pfeffrige Noten und hat subtil herbe Fruchtkomponenten."
+					},
+					{
+						"type": "text",
+						"content": "<b>Botanicals:</b> Wacholder, Fichtensprosse, Robinienbl\u00fcten, Hagebuttenschalen, Kubeben-Pfeffer, Cassia-Rinde, Koriander, Paradiesk\u00f6rner, Bisamk\u00f6rner, Piment, Kardamom, Gew\u00fcrznelken, Muskat, Mandel, Ingwer, Ceylon-Zimt, S\u00fc\u00dfholz, Kalmuswurzel, Lavendel, Bl\u00fcten von Wildem Gei\u00dfblatt, die Bl\u00fcten der Goldmelisse, Veilchenwurzel, Jasmin (Bl\u00fcte), Bitterorange, Zitronenmelisse, Samen der Arznei-Engelwurz (\u201eAngelika\u201c), Zitronenschale, Zitronengras, Kaffernlimette, Zitronenverbene, Pomelo, Echter Eibisch, Schlehen, Holunderbl\u00fcten, Hunds-Rose, Hecken-Rose, Brombeerbl\u00e4tter, Kamille, Salbei, Eisenkraut, Wei\u00dfdornbeeren, Preiselbeere"
+					},
+					{
+						"type": "text",
+						"content": "Bekri empfiehlt dazu den <b>Thomas Henry</b> oder <b>1724</b> Tonic."
+					}
+				]
+			}
+		},
+		{
+			"name": "Windspiel",
+			"type": "Premium Dry Gin",
+			"origin": "Eifel - Deutschland",
+			"vol": "47%",
+			"taste": {
+				"juniper": 10,
+				"citrus": 8,
+				"fruit": 2,
+				"floral": 2,
+				"herbal": 8,
+				"spice": 6
+			},
+			"price": "7,40\u20ac",
+			"detail": {
+				"title": "Windspiel",
+				"blocks": [
+					{
+						"type": "text",
+						"content": "Zu Ehren Friedrichs des Grossen wurde dieser deutsche Dry Gin aus Kartoffelalkohol 'Windspiel' genannt. Dem K\u00f6nig von Preussen lagen n\u00e4mlich nicht nur der Kartoffelanbau, sondern auch seine Windhunde am Herzen. Auf das eher ungew\u00f6hnliche Aroma des Basisdestillats treffen traditionelle Botanicals wie Wacholder, Koriander und Zitrone sowie Zimtrinde und Lavendel."
+					},
+					{
+						"type": "text",
+						"content": "<b>Farbe:</b> klar<br><b>Botanicals:</b> Wacholder, Nelken, Zitronen, Koriander, Lavendel, Zimt"
+					},
+					{
+						"type": "text",
+						"content": "Bekri empfiehlt dazu den <b>Fever Tree Indian</b> Tonic."
+					}
+				]
+			}
+		},
+		{
+			"name": "Rubus",
+			"type": "Gin",
+			"origin": "B\u00f6tzingen - Deutschland",
+			"vol": "42%",
+			"taste": {
+				"juniper": 2,
+				"citrus": 8,
+				"fruit": -1,
+				"floral": 8,
+				"herbal": -1,
+				"spice": 1
+			},
+			"price": "7,90\u20ac",
+			"detail": {
+				"title": "Rubus",
+				"blocks": [
+					{
+						"type": "text",
+						"content": "Dieser einzigartige Gin wird sie \u00fcberraschen. Fruchtig und mit einem frischen Himbeerduft. Bei diesem Gin steht der Wacholder ausnahmsweise nicht im Vordergrund. Mit 10 botanischen Zutaten von der Wacholder , Koriandersamen, Lavendel, Kardamom, aber auch Stachelbeere, Himbeere wie Orangen- und Grapefruitschalen bescheren Sie Ihrem Gaumen ein einzigartiges Geschmackserlebnis. Florian Faude \u00fcberrascht immer wieder mit seinen Brennk\u00fcnsten. Sein Repertoire bietet eine Vielzahl an au\u00dfergew\u00f6hnlichen Br\u00e4nden, darunter finden Sie auch Rote Beete oder Gurken Schn\u00e4pse."
+					},
+					{
+						"type": "text",
+						"content": "<b>Botanicals:</b> Himbeeren, Stachelbeere, Koriander, Orangenschalen, Grapefruitschalen, Lavendel, Kardamom"
+					},
+					{
+						"type": "text",
+						"content": "Bekri empfiehlt dazu den <b>Monaco Biotonic</b>, <b>Doctor Polidori's</b> oder <b>Thomas Henry</b> Tonic"
+					}
+				]
+			}
+		},
+		{
+			"name": "GINSTR",
+			"type": "Dry Gin",
+			"origin": "Stuttgart - Deutschland",
+			"vol": "44%",
+			"taste": {
+				"juniper": -1,
+				"citrus": -1,
+				"fruit": -1,
+				"floral": -1,
+				"herbal": -1,
+				"spice": -1
+			},
+			"price": "7,90\u20ac",
+			"detail": {
+				"title": "GINSTR",
+				"blocks": [
+					{
+						"type": "text",
+						"content": "Der hippe GINSTR Gin begeistert nicht nur die Stuttgarter. Gin-Liebhaber von nah und fern verg\u00f6ttern ihn einfach. Kein Wunder also, dass er nun den Oscar der Ginwelt, die begehrte Goldmedaille bei den World Spirits Awards, erhielt. Seine erfrischenden Zitrusaromen gepaart mit Bl\u00fcten und Granatapfelkernen treffen genau den Geist der Zeit. Wer w\u00fcnscht sich nicht, unbek\u00fcmmert an einem G&T zu nippen und dabei einfach Spa\u00df zu haben. So wird GINSTR ganz schnell zum GINSTaR."
+					},
+					{
+						"type": "text",
+						"content": "<b>Botanicals:</b> Wacholderbeeren, Kardamom, Koriander, Rosmarin, Zitrusfr\u00fcchte, Granatapfelkerne, Kaffirlimettenbl\u00e4tter, Orangenbl\u00fcten, Holunderbl\u00fcten, Hibiskusbl\u00fcten, S\u00fc\u00dfholz"
+					},
+					{
+						"type": "text",
+						"content": "Bekri empfiehlt dazu den <b>Thomas Henry</b> oder <b>Thomas Henry Elderflower</b> Tonic."
+					}
+				]
+			}
+		},
+		{
+			"name": "Satoshi",
+			"type": "Dry Gin",
+			"origin": "Ludwigsburg - Deutschland",
+			"vol": "44%",
+			"taste": {
+				"juniper": -1,
+				"citrus": -1,
+				"fruit": -1,
+				"floral": -1,
+				"herbal": -1,
+				"spice": -1
+			},
+			"price": "8,10\u20ac",
+			"detail": {
+				"title": "Satoshi",
+				"blocks": [
+					{
+						"type": "text",
+						"content": "Satoshi London Dry Gin ist ein im klassischen London Dry Gin Verfahren produzierter Gin. Er \u00fcberrascht jedoch mit den frischen Aromen der sizilianischen Blutorange Moro. Die charakteristische Frische dieser Zitrusfrucht wird dezent von Zitronengras umspielt. Die w\u00fcrzige Note ausgew\u00e4hlter Chargen frischer Macis (Samenmantel um Muskatnuss) und der exklusive und nur wild in den tropischen W\u00e4ldern Madagaskars wachsende Urwaldpfeffer, auch Bourbonpfeffer genannt, bilden mit feinw\u00fcrzig und s\u00fc\u00df schmeckenden Wacholderriesen den K\u00f6rper. Angelika- und Veilchenwurz, sowie weitere Zutaten, runden das Destillat ab."
+					},
+					{
+						"type": "text",
+						"content": "<b>Geschmack:</b> fruchtig<br><b>Botanicals:</b> Angelikawurzel, Koriandersaat, Muskatbl\u00fcte, Sizilianische Blutorange, Urwaldpfeffer, Veilchenwurzel, Wacholder, Zitronengras"
+					},
+					{
+						"type": "text",
+						"content": "Bekri empfiehlt dazu den <b>Fever Tree Indian</b> oder <b>Schweppes Dry</b> Tonic."
+					}
+				]
+			}
+		},
+		{
+			"name": "The Duke",
+			"type": "Dry Gin",
+			"origin": "M\u00fcnchen - Deutschland",
+			"vol": "45%",
+			"taste": {
+				"juniper": -1,
+				"citrus": -1,
+				"fruit": -1,
+				"floral": -1,
+				"herbal": -1,
+				"spice": -1
+			},
+			"price": "7,90\u20ac",
+			"detail": {
+				"title": "The Duke",
+				"blocks": [
+					{
+						"type": "text",
+						"content": "Ein edles Produkt f\u00e4ngt mit der Auswahl seiner Zutaten an. So wird der THE DUKE Gin aus rein biologischen Rohstoffen hergestellt. Die vollmundigen Aromen unbehandelter Wacholderbeeren haben dazu den Ausschlag gegeben. Hinzu kommen Koriander, Zitronenschalen, Angelikawurzel, Ingwer, Lavendelbl\u00fcten, Kubebenpfeffer und weitere \u201eDrogen\u201c, sodass insgesamt 13 ausgesuchte Kr\u00e4uter & Gew\u00fcrze diesen Gin ausmachen. Als typisch bayerisches Herkunftsmerkmal, betonen dabei vor allem zwei bestimmte Botanicals seinen Ursprungsort: Hopfenbl\u00fcten und Malz."
+					},
+					{
+						"type": "text",
+						"content": "<b>Botanicals:</b> Koriander, Zitronenschalen, Angelikawurzel, Lavendelbl\u00fcten, Ingwerwurzel, Orangenbl\u00fcten, Kubebenpfeffer, Hopfenbl\u00fcte, Malz"
+					},
+					{
+						"type": "text",
+						"content": "Bekri empfiehlt dazu den <b>Fever Tree Indian</b>, <b>Aqua Monaco</b> oder <b>Thomas Henry</b> Tonic."
+					}
+				]
+			}
+		},
+		{
+			"name": "Senft 21",
+			"type": "Dry Gin",
+			"origin": "Bodensee - Deutschland",
+			"vol": "44%",
+			"taste": {
+				"juniper": -1,
+				"citrus": -1,
+				"fruit": -1,
+				"floral": -1,
+				"herbal": -1,
+				"spice": -1
+			},
+			"price": "7,90\u20ac",
+			"detail": {
+				"title": "Senft 21",
+				"blocks": [
+					{
+						"type": "text",
+						"content": "Manege frei f\u00fcr ein erfrischendes Geschmackserlebnis aus der Wacholderbeere, kombiniert mit 21 hochwertigen Botanicals. Der Bodensee Gin verzaubert mit w\u00fcrzigem Koriander, gefolgt von einem leicht harzigen Duft der Wachholderbeere. Ein besonderes Gaumenspiel entfaltet sich aus fruchtigen Zitronen und s\u00fc\u00dflichen Orangenschalen und einem Hauch, an Traube erinnernden Salbei-Muskatteller."
+					},
+					{
+						"type": "text",
+						"content": "<b>Farbe:</b> Platinium-Schimmern<br><b>Duft:</b> Ein Auftakt von Grapefruits und Calville \u00c4pfeln, es folgt ein Hauch Lemon-Gras, Bergamotte, getrocknete Zitrusschalen und indischer wilder Ingwer.<br><b>Aroma:</b> Frisch-w\u00fcrzige Noten mit blumigen-grasigen Akzenten. Am Gaumen frische Aromen der italienischen Luxuszitrone von der Amalfik\u00fcste. F\u00fcllige Opulenz und fein gezeichnete Harmonie und Eleganz.<br><b>Geschmack:</b> Man erwartet pure Kraft. Doch durch die Ausgewogenheit der verschiedenen charakteristischen Komponenten wird neben den typischen, w\u00fcrzigen Eigenschaften Platz f\u00fcr floralen und zitruslastigen Geschmack geschaffen, der die 44\u2009% vol. mild erscheinen l\u00e4sst.<br><b>Nachklang:</b> Hausstil: Ein milder Gin \u2013 der im ersten Moment leicht und frisch schmeckt und dennoch seine Komplexit\u00e4t offenbart. Der Gin 21 hat ein Aroma von Zitrusfr\u00fcchten, abgerundet mit Gew\u00fcrzen und einem Hauch Wacholder.<br><b>Botanicals:</b> Wacholderbeeren, Koriandersamen, Zitronen, Orangen, Angelikabl\u00e4tter, Veilchenwurz, Muskateller-Salbei"
+					},
+					{
+						"type": "text",
+						"content": "Bekri empfiehlt dazu den <b>1724</b> Tonic."
+					}
+				]
+			}
+		},
+		{
+			"name": "Tonka",
+			"type": "Gin",
+			"origin": "Hamburg - Deutschland",
+			"vol": "47%",
+			"taste": {
+				"juniper": -1,
+				"citrus": -1,
+				"fruit": -1,
+				"floral": -1,
+				"herbal": -1,
+				"spice": -1
+			},
+			"price": "8,10\u20ac",
+			"detail": {
+				"title": "Tonka",
+				"blocks": [
+					{
+						"type": "text",
+						"content": "STORY: Dieser Gin wurde von einem Hamburger mit der Tonkabohne verfeinert, diese brasilianische Bohne gilt als aphrodisierend und anregend. Nicht nur in Brasilien, sondern auch bei uns gilt die Tonkabohne als Gl\u00fccksbringer. Zur Wacholdernote verleiht die Tonkabohne einen eleganten Geruch von Vanille. Auf der Zunge sehr weich und am Gaumen eher trocken. Die angenehme Sch\u00e4rfe der Tonkabohne gibt hier den Ton an."
+					},
+					{
+						"type": "text",
+						"content": "<b>Botanicals:</b> Wacholder, Tonkabohne, Heublumen"
+					},
+					{
+						"type": "text",
+						"content": "Bekri empfiehlt dazu den <b>Fever Tree Indian</b> oder <b>Schweppes Dry</b> Tonic."
+					}
+				]
+			}
+		},
+		{
+			"name": "Granit",
+			"type": "Gin",
+			"origin": "Bayern - Deutschland",
+			"vol": "42%",
+			"taste": {
+				"juniper": -1,
+				"citrus": -1,
+				"fruit": -1,
+				"floral": -1,
+				"herbal": -1,
+				"spice": -1
+			},
+			"price": "7,90\u20ac",
+			"detail": {
+				"title": "Granit",
+				"blocks": [
+					{
+						"type": "text",
+						"content": "Im Charakter dieses Gins zeigt sich die Erfahrung von \u00fcber 100 Jahren Brenntradition der Hausbrennerei Penninger. Traditionelle Gin-Gew\u00fcrze kombiniert mit ausgew\u00e4hlten bayerischen Kr\u00e4utern und Pflanzen ergeben seinen erstklassigen Geschmack. Das kristallklare Wasser aus den Bergen des Bayerischen Waldes schafft eine besondere Milde. Die Filtration \u00fcber eine S\u00e4ule von Granitsteinen verschiedener Gr\u00f6\u00dfe und K\u00f6rnung verleiht unserem handwerklich hergestellten GRANIT den letzten Schliff \u2013 und gibt ihm seinen Namen."
+					},
+					{
+						"type": "text",
+						"content": "<b>Botanicals:</b> Wacholder, B\u00e4rwurz, Enzian, Koriander, Melisse, Rosmarin, Pfeffer, Zitronenschale"
+					},
+					{
+						"type": "text",
+						"content": "Bekri empfiehlt dazu den <b>1724</b>, <b>Aqua Monaco</b> oder <b>Thomas Henry</b> Tonic."
+					}
+				]
+			}
+		},
+		{
+			"name": "Berliner Brandstifter",
+			"type": "Gin",
+			"origin": "Berlin - Deutschland",
+			"vol": "43,3%",
+			"taste": {
+				"juniper": -1,
+				"citrus": -1,
+				"fruit": -1,
+				"floral": -1,
+				"herbal": -1,
+				"spice": -1
+			},
+			"price": "8,90\u20ac",
+			"detail": {
+				"title": "Berliner Brandstifter",
+				"blocks": [
+					{
+						"type": "text",
+						"content": "Der Berlin Aged Gin ist mehrere Monate in Sp\u00e4tburgunder F\u00e4ssern gereift. Die dezente Rotweinnote harmoniert hervorragend mit den Aromen des Berliner Brandstifter Gins sowie der besonderen Zugabe von Brombeeren, welche die Edition 2019 veredelt. Die Lagerung und das Zusammenspiel der Botanicals verleihen dem Berlin Aged Gin seine einzigartige, fruchtige und vollmundige Note. Trotz seiner 50,3% schmeckt der Berlin Aged Gin sehr mild."
+					},
+					{
+						"type": "text",
+						"content": "<b>Botanicals:</b> Wacholder, Holunderbl\u00fcte, Waldmeister, Gurke, Malvenbl\u00fcte"
+					},
+					{
+						"type": "text",
+						"content": "Bekri empfiehlt dazu den <b>Fever Tree Mediterran</b> Tonic."
+					}
+				]
+			}
+		},
+		{
+			"name": "Boar",
+			"type": "Premium Dry Gin",
+			"origin": "Schwarzwald - Deutschland",
+			"vol": "43%",
+			"taste": {
+				"juniper": -1,
+				"citrus": -1,
+				"fruit": -1,
+				"floral": -1,
+				"herbal": -1,
+				"spice": -1
+			},
+			"price": "8,10\u20ac",
+			"detail": {
+				"title": "Boar",
+				"blocks": [
+					{
+						"type": "text",
+						"content": "Im Schwarzwald wild gewachsene und handverlesene Zutaten machen diese meisterliche Komposition zu etwas ganz Besonderem. In einem fast mystischen Genussmoment entfalten sich die traditionellen Naturaromen mit besonders feiner Milde \u2013 Klassisch mit Wacholderbeeren, Lavendel und Thymian, veredelt und harmonisiert durch ein innovatives Verfahren unter Zugabe des seltenen Schwarzwaldgolds \u2013 dem Schwarzw\u00e4lder Tr\u00fcffel."
+					},
+					{
+						"type": "text",
+						"content": "<b>Botanicals:</b> Wacholder, Lavendel, Thymian, Zitrone, S\u00fc\u00dfholz, Piment, Goldmelisse, Rosmarin, Gew\u00fcrznelken, Rosenbl\u00fcten, Schwarzwaldtr\u00fcffel"
+					},
+					{
+						"type": "text",
+						"content": "Bekri empfiehlt dazu den <b>Fentimans</b> Tonic."
+					}
+				]
+			}
+		},
+		{
+			"name": "Ferdinand's Saar Quince",
+			"type": "Gin",
+			"origin": "Saarbr\u00fccken - Deutschland",
+			"vol": "30%",
+			"taste": {
+				"juniper": -1,
+				"citrus": -1,
+				"fruit": -1,
+				"floral": -1,
+				"herbal": -1,
+				"spice": -1
+			},
+			"price": "8,10\u20ac",
+			"detail": {
+				"title": "Ferdinand's Saar Quince",
+				"blocks": [
+					{
+						"type": "text",
+						"content": "Die neueste Gin-Kreation von Ferdinand Saar, ganz im Westen Deutschlands: eine sehr feine neue Gin-Innovation aus Quitten! \u00c4hnlich wie auch Sloe Gin hergestellt wird, so werden f\u00fcr auch den Quince Gin zun\u00e4chst die prim\u00e4r geschmacksgebenden Fr\u00fcchte in einem Basisalkohol mazeriert (eingelegt). F\u00fcr den Sloe Gin werden hier die Fr\u00fcchte der Schlehe verwendet, f\u00fcr den Quince Gin pr\u00e4sentiert Ferdinand Saar ein Novum und mazeriert Quitten. Auch der Basisalkohol ist nicht wie \u00fcblich ein Getreidedestillat, sondern ein Wein aus Rieslingtrauben. Das Ergebnis ist v\u00f6llig neues Gin-Erlebnis, sehr angenehm."
+					},
+					{
+						"type": "text",
+						"content": "<b>Farbe:</b> strohgelb<br><b>Nase:</b> leicht und fruchtig, mit sch\u00f6nen Wacholder-Noten<br><b>Gaumen:</b> harmonische Komposition aus intensiv s\u00fc\u00dflich-s\u00e4uerlichen Fruchtnoten, gepaart mit Wacholder und Zitrusnoten, dazu Eindr\u00fccke von Wein, Kr\u00e4utern, Blumen und Gew\u00fcrzen<br><b>Finish:</b> langanhaltend, Wacholder steht im Vordergrund<br><b>Botanicals:</b> Quitten, Schlehe, Angelika, Hopfen, Weinrose, Mandel, Bitterorange, Fenchel, Passionsblume, Lavendel"
+					},
+					{
+						"type": "text",
+						"content": "Bekri empfiehlt dazu den <b>Thomas Henry</b> Tonic."
+					}
+				]
+			}
+		},
+		{
+			"name": "Ferdinand's Saar Dry Gin",
+			"type": "Gin",
+			"origin": "Saarbr\u00fccken - Deutschland",
+			"vol": "44%",
+			"taste": {
+				"juniper": -1,
+				"citrus": -1,
+				"fruit": -1,
+				"floral": -1,
+				"herbal": -1,
+				"spice": -1
+			},
+			"price": "7,90\u20ac",
+			"detail": {
+				"title": "Ferdinand's Saar Dry Gin",
+				"blocks": [
+					{
+						"type": "text",
+						"content": "Gestatten? Ein Saarl\u00e4nder namens Ferdinand. Der Gin enth\u00e4lt rund drei\u00dfig verschiedene Botanicals und wird zus\u00e4tzlich mit einem Schuss Riesling verfeinert. Alle Zutaten stammen haupts\u00e4chlich aus der Region und werden selbst angebaut."
+					},
+					{
+						"type": "text",
+						"content": "<b>Nase:</b> Vielschichtige Aromen von Wacholder, Fr\u00fcchten und etwas S\u00e4ure.<br><b>Gaumen:</b> Sch\u00f6ne Fruchtnoten, mit floralen Akzenten von Holunder, Kamille und Lavendel, umrahmt von Wacholdernoten.<br><b>Finish:</b> Lange anhaltend.<br><b>Botanicals:</b> Lavendel, Wacholder, Rosa Canina, Quitten, Zitronenthymian, Schlehe, Hagebutte, Angelika, Hopfenbl\u00fcte, Rose, Mandelschale, Koriander, Ingwer"
+					},
+					{
+						"type": "text",
+						"content": "Bekri empfiehlt dazu den <b>Fever Tree Mediterranean</b> Tonic."
+					}
+				]
+			}
+		},
+		{
+			"name": "Niemand",
+			"type": "Dry Gin",
+			"origin": "Hannover - Deutschland",
+			"vol": "46%",
+			"taste": {
+				"juniper": -1,
+				"citrus": -1,
+				"fruit": -1,
+				"floral": -1,
+				"herbal": -1,
+				"spice": -1
+			},
+			"price": "8,90\u20ac",
+			"detail": {
+				"title": "Niemand",
+				"blocks": [
+					{
+						"type": "text",
+						"content": "Holz trifft Blume. Au\u00dfergew\u00f6hnlich, einzigartig, besonders. Der Premium-Handcraft-Gin begeistert mit seiner floralen Note. Rosmarin, Lavendel & Sandelholz pr\u00e4gen diesen Gin & laden zu einem vertr\u00e4umten Spaziergang durch den Nadelwald ein."
+					},
+					{
+						"type": "text",
+						"content": "<b>Botanicals:</b> Lavendel, Sandelholz, Rosmarin, Apfel, Ingwer, Zimt, Koriander, Vanille, Pinienkerne, Wacholder"
+					},
+					{
+						"type": "text",
+						"content": "Bekri empfiehlt dazu den <b>Fever Tree Indian</b> oder <b>Thomas Henry</b> Tonic"
+					}
+				]
+			}
+		},
+		{
+			"name": "Tanqueray No.10",
+			"type": "Gin",
+			"origin": "London - Gro\u00dfbritannien",
+			"vol": "47,3%",
+			"taste": {
+				"juniper": -1,
+				"citrus": -1,
+				"fruit": -1,
+				"floral": -1,
+				"herbal": -1,
+				"spice": -1
+			},
+			"price": "6,10\u20ac",
+			"detail": {
+				"title": "Tanqueray No.10",
+				"blocks": [
+					{
+						"type": "text",
+						"content": "Tanqueray No.10 ist der j\u00fcngere Bruder des Tanqueray London Dry Gins. Durch die Zuf\u00fcgung weiterer frischer Botanicals und eine besonders schonende, vierfache Destillation im Small Batch-Verfahren erreicht dieser Gin ein H\u00f6chstmass an Aromengehalt, wobei eine besondere Betonung auf den Zitrusnoten liegt. Der Name des Tanqueray No.10 leitet sich von der Nummer der Destille ab, die als einzige bei den deutschen Luftangriffen 1941 nicht zerst\u00f6rt wurde. Der Brennkessel ist deshalb bis heute in Gebrauch."
+					},
+					{
+						"type": "text",
+						"content": "<b>Botanicals:</b> Wacholder, Koriander, Graefruit, Organge, Limetten, Kamille"
+					},
+					{
+						"type": "text",
+						"content": "Bekri empfiehlt dazu den <b>Thomas Henry</b> oder <b>Fever Tree Mediteranean</b> Tonic."
+					}
+				]
+			}
+		},
+		{
+			"name": "Tanqueray Malacca",
+			"type": "Gin",
+			"origin": "London - Gro\u00dfbritannien",
+			"vol": "41,3%",
+			"taste": {
+				"juniper": -1,
+				"citrus": -1,
+				"fruit": -1,
+				"floral": -1,
+				"herbal": -1,
+				"spice": -1
+			},
+			"price": "7,90\u20ac",
+			"detail": {
+				"title": "Tranqueray Malacca",
+				"blocks": [
+					{
+						"type": "text",
+						"content": "Mit der Sonderedition Tanqueray Malacca Gin erg\u00e4nzt der traditionsreiche Ginhersteller sein Angebot um einen weiteren Premium-Gin. Inspiriert von einem originalen Rezept von Charles Tanqueray, handelt es sich hierbei um eine Neuauflage des bereits 1997 vorgestellten Tanqueray Malacca Gin. W\u00fcrzig im Geschmack, stechen hier vielf\u00e4ltige Aromen hervor: Die f\u00fcr Gin typischen Botanicals wie Wacholder und Limetten sind hier ebenso pr\u00e4sent wie die leichte Sch\u00e4rfe von Pfeffer, sanfte, frische Noten von Lavendel und Jasmin sowie aromatische Nelken. Im Abgang ist der Tanqueray Malacca Gin von Vanille- und Nelkennoten gepr\u00e4gt."
+					},
+					{
+						"type": "text",
+						"content": "Bekri empfiehlt dazu den <b>1724</b> oder <b>Fever Tree Indian</b> Tonic."
+					}
+				]
+			}
+		},
+		{
+			"name": "Tanqueray Rangpur",
+			"type": "Gin",
+			"origin": "London - Gro\u00dfbritannien",
+			"vol": "41,3%",
+			"taste": {
+				"juniper": -1,
+				"citrus": -1,
+				"fruit": -1,
+				"floral": -1,
+				"herbal": -1,
+				"spice": -1
+			},
+			"price": "7,90\u20ac",
+			"detail": [
+				{
+					"title": "Tanqueray Rangpur",
+					"blocks": [
+						{
+							"type": "text",
+							"content": "Diese Edition von Tanqueray ist vor allem den S\u00fcdfr\u00fcchten gewidmet. Und zwar einer S\u00fcdfrucht, die es so im Supermarkt nicht so ohne weiteres gibt, der Rangpur Limette. Diese besondere Limetten-Sorte soll eine Kreuzung aus Mandarinen und Zitronen sein (genaues wei\u00df man allerdings nicht). Neben den \u201e\u00fcblichen Verd\u00e4chtigen\u201c wie Wacholder und co. sticht vor allem der Teint dieser saftig-frischen Frucht hervor."
+						},
+						{
+							"type": "text",
+							"content": "<b>Nase:</b> dichte Zitruswolke, die bet\u00f6rt aber nicht \u00fcberw\u00e4ltigt, dezent im Hintergrund verbergen sich Wacholder und W\u00fcrzige D\u00fcfte.<br><b>Gaumen:</b> zarter, weicher K\u00f6rper der vor allem eines an die Zunge tr\u00e4gt: Zitrus.<br><b>Finish:</b> auch im Abgang bleibt sich Rangpur mit frischem Zitrus-Spiel treu."
+						},
+						{
+							"type": "text",
+							"content": "Bekri empfiehlt dazu den <b>Fever Tree Indian</b> Tonic."
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Tanqueray Sevilla",
+			"type": "Gin",
+			"origin": "London - Gro\u00dfbritannien",
+			"vol": "41,3%",
+			"taste": {
+				"juniper": -1,
+				"citrus": -1,
+				"fruit": -1,
+				"floral": -1,
+				"herbal": -1,
+				"spice": -1
+			},
+			"price": "7,90\u20ac",
+			"detail": {
+				"title": "Tanqueray Sevilla",
+				"blocks": [
+					{
+						"type": "text",
+						"content": "So wie die Edition Rangpur die frische Limetten-Partitur spielt, so bringt dieser Flor de Sevilla vor allem eines in die Nase und in den Mund: Orangen. Nein, nicht als S\u00fcdfrucht-Zunami auf der Zunge sondern fein balanciert und wohldosiert. Im Flor de Sevilla sind neben Wacholder und anderen Ingredienzien auch die Bl\u00fcten und die Fr\u00fcchte von Orangen aus Sevilla enthalten."
+					},
+					{
+						"type": "text",
+						"content": "<b>Nase:</b> sehr exotisches Bukett, irgendwie nach Urlaub, voller Orangen, leichten Bl\u00fctennoten, S\u00fcdfr\u00fcchten, Gew\u00fcrzen und hintergr\u00fcndigen Wacholdernuancen.<br><b>Gaumen:</b> samtweiche Textur, mit bitter-s\u00fc\u00dfem Orangenteint, wieder sehr diskreten Wacholdernoten und einer Spur hauchfeiner Bourbon Vanille.<br><b>Finish:</b> langer, sehr fruchtiger Nachhall.<br><b>Botanicals:</b> Wacholder, Koriander, Angelikawurzel, S\u00fc\u00dfholz, Bitterorange, Orangenbl\u00fcten"
+					},
+					{
+						"type": "text",
+						"content": "Bekri empfiehlt dazu den <b>Aqua Monaco</b> Tonic."
+					}
+				]
+			}
+		},
+		{
+			"name": "Bombay Sapphire",
+			"type": "London Dry Gin",
+			"origin": "Hampshire - Gro\u00dfbritannien",
+			"vol": "40%",
+			"taste": {
+				"juniper": -1,
+				"citrus": -1,
+				"fruit": -1,
+				"floral": -1,
+				"herbal": -1,
+				"spice": -1
+			},
+			"price": "5,40\u20ac",
+			"detail": {
+				"title": "Bombay Sapphire",
+				"blocks": [
+					{
+						"type": "text",
+						"content": "Der Bombay Sapphire ist ein weltber\u00fchmter Gin, der nicht zuletzt aufgrund seiner Flasche bekannt wurde. Die zehn Botanicals werden aus allen Ecken der Welt von einem Master of Botanicals ausgew\u00e4hlt. Durch die besondere Herstellungsmethode (Dampfinfusion) ist er milder und weicher im Geschmack als andere Gins und bringt damit Abwechslung in die London Dry Gins dieser Welt."
+					},
+					{
+						"type": "text",
+						"content": "<b>Geschmack:</b> mild, blumig, aromatisch<br><b>Botanicals:</b> Wacholderbeeren, Engelwurz, Iriswurzel, Mandeln, Zitronenschale, Paradiesk\u00f6rner, Zimtkassie, Kubeben-Pfeffer, S\u00fc\u00dfholz, Koriander"
+					},
+					{
+						"type": "text",
+						"content": "Bekri empfiehlt dazu den <b>Fever Tree Indian</b> Tonic."
+					}
+				]
+			}
+		},
+		{
+			"name": "Bombay Sapphire English Estate",
+			"type": "London Dry Gin",
+			"origin": "Hampshire - Gro\u00dfbritannien",
+			"vol": "41%",
+			"taste": {
+				"juniper": -1,
+				"citrus": -1,
+				"fruit": -1,
+				"floral": -1,
+				"herbal": -1,
+				"spice": -1
+			},
+			"price": "6,40\u20ac",
+			"detail": {
+				"title": "Bombay Sapphire English Estate",
+				"blocks": [
+					{
+						"type": "text",
+						"content": "English Estate ist ein erfrischender Limited Edition Gin, der von unserem Zuhause auf dem englischen Land inspiriert wurde. Wir haben den vertrauten Zitrusnoten von Bombay Sapphire die Botanicals Polei-Minze, Hagebutte und ger\u00f6stete Haselnuss hinzugef\u00fcgt, die in den H\u00fcgeln und Hecken von England gefunden werden."
+					},
+					{
+						"type": "text",
+						"content": "<b>Botanicals:</b> Zitronenschale, Koriandersamen, Engelwurz, Iriswurzel, Paradiesk\u00f6rner, Kubebenpfeffer, Zimtrinde, Mandeln, S\u00fc\u00dfholz, Minze, Hagebutte, Haselnuss, Wacholder, Schwertlilie"
+					}
+				]
+			}
+		},
+		{
+			"name": "Bombay Bramble",
+			"type": "London Dry Gin",
+			"origin": "Hampshire - Gro\u00dfbritannien",
+			"vol": "37,5%",
+			"taste": {
+				"juniper": -1,
+				"citrus": -1,
+				"fruit": -1,
+				"floral": -1,
+				"herbal": -1,
+				"spice": -1
+			},
+			"price": "?,??\u20ac",
+			"detail": {
+				"title": "Bombay Bramble",
+				"blocks": [
+					{
+						"type": "text",
+						"content": "Der Bombay Bramble Gin stammt aus der traditionsreichen Laverstoke Mill in England. Basis f\u00fcr den Bombay Bramble ist der weltbekannte Bombay Gin, welchem durch eine Infusion mit Brombeeren und Himbeeren ein fruchtiger Charakter verliehen wird. Der Bombay Bramble wird auf Basis eines destillierten Gins hergestellt, welcher anschlie\u00dfend einer Infusion mit Fr\u00fcchten der Himbeere und Brombeere verfeinert wird. Dadurch erh\u00e4lt der Gin seine satte blutrote Farbnote und seinen geschmacklich einzigartigen Charakter. Der Bombay Bramble Gin ist ideal f\u00fcr die Zubereitung sommerlich fruchtiger Cocktails, kann aber auch direkt mit etwas Eis und einem nicht zu intensivem Tonic getrunken werden."
+					},
+					{
+						"type": "text",
+						"content": "<b>Farbe:</b> r\u00f6tlich<br><b>Geschmack:</b> Wacholder, Himbeere, Brombeere"
+					}
+				]
+			}
+		},
+		{
+			"name": "Martin Miller's",
+			"type": "Dry Gin",
+			"origin": "London - Gro\u00dfbritannien",
+			"vol": "40%",
+			"taste": {
+				"juniper": -1,
+				"citrus": -1,
+				"fruit": -1,
+				"floral": -1,
+				"herbal": -1,
+				"spice": -1
+			},
+			"price": "5,10\u20ac",
+			"detail": {
+				"title": "Martin Miller's",
+				"blocks": [
+					{
+						"type": "text",
+						"content": "Zusammen mit zwei Freunden entwickelte der Brite Martin Miller 1998 den gleichnamigen Gin, der nach einem \u00fcberlieferten Verfahren in einer \u00fcber 100-j\u00e4hrigen Pot Still-Anlage gebrannt wird. Bei den Zutaten konzentriert man sich auf einen eher klassischen Botanical-Mix: So wird der Gin mit Wacholder, Koriander, Angelika, S\u00fcssholzwurzel, Zimtrinde (Cassia), Florentiner Schwertlilie (Iris germanica) sowie getrockneten Zitronen-, Bitterorangen- und Limettenschalen verfeinert. Muskatnuss sorgt f\u00fcr einen leicht exotischen Touch. Vor der Abf\u00fcllung kommt dann noch pures Gletscherwasser aus Island hinzu. Der Bezug zu Island wird auch auf der Flasche dargestellt: Zu sehen ist eine Art Seekarte, die den Weg von England nach Island zeigt."
+					},
+					{
+						"type": "text",
+						"content": "<b>Botanicals:</b> Wacholder, Cassia-Rinde, Lakritz, Orangenschalen, Engelwurz, Schwertlilie"
+					},
+					{
+						"type": "text",
+						"content": "Bekri empfiehlt dazu den <b>Fever Tree Mediteranean</b> oder <b>Fever Tree Indian</b> Tonic."
+					}
+				]
+			}
+		},
+		{
+			"name": "Beefeater24",
+			"type": "Gin",
+			"origin": "London - Gro\u00dfbritannien",
+			"vol": "45%",
+			"taste": {
+				"juniper": -1,
+				"citrus": -1,
+				"fruit": -1,
+				"floral": -1,
+				"herbal": -1,
+				"spice": -1
+			},
+			"price": "5,10\u20ac",
+			"detail": {
+				"title": "Beefeater24",
+				"blocks": [
+					{
+						"type": "text",
+						"content": "Beefeater 24 ist der neuste Gin aus dem Hause Beefeater. Seine Besonderheit erh\u00e4lt dieser Gin durch Zugabe eines Blends aus japanischem Senga und chinesischem gr\u00fcnem Tee. Zus\u00e4tzlich durch seine extrem langsame Destillation ist Beefeater 24 sehr weich und frisch im Aroma. Dar\u00fcber hinaus besteht Beefeater 24 aus zw\u00f6lf verschiedenen pflanzlichen Komponenten wie z.B. handgepfl\u00fcckter Grapefruit, sevillianischer Orangenschale und s\u00fcdeurop\u00e4ischem Wacholder, das dem Beefeater 24 gepaart mit der kunstvoll designten Flasche einen tollen Auftritt beschert."
+					},
+					{
+						"type": "text",
+						"content": "<b>Botanicals:</b> Orangenschalen, Angelikawurzel, Angelika Samen, Iriswurzel, chinesischer gr\u00fcner Tee, Mandeln, Grapefruit Schale, Zironenschale, japanischer Sencha Tee, Koriander Samen, S\u00fc\u00dfholzwurzel, Wacholder"
+					},
+					{
+						"type": "text",
+						"content": "Bekri empfiehlt dazu den <b>Thomas Henry</b> oder <b>Fever Tree Indian</b> Tonic."
+					}
+				]
+			}
+		},
+		{
+			"name": "Opihr",
+			"type": "Dry Gin",
+			"origin": "London - Gro\u00dfbritannien",
+			"vol": "42,5%",
+			"taste": {
+				"juniper": -1,
+				"citrus": -1,
+				"fruit": -1,
+				"floral": -1,
+				"herbal": -1,
+				"spice": -1
+			},
+			"price": "7,90\u20ac",
+			"detail": {
+				"title": "Opihr",
+				"blocks": [
+					{
+						"type": "text",
+						"content": "Der OPIHR Oriental Spiced London Dry Gin wird von der \u00e4ltesten Destillerie Londons produziert. Diese wurde 1761 gegr\u00fcndet und setzt noch immer auf die originale Herstellungsmethode. Beim OPIHR Oriental Spiced London Dry Gin handelt es sich um einen w\u00fcrzigen Gin, der mit exotischen Pflanzen und Beeren verfeinert wird, darunter: Cubeb-Beeren aus Indonesien, schwarzer Pfeffer aus Indien sowie Koriander aus Marokko."
+					},
+					{
+						"type": "text",
+						"content": "<b>Farbe:</b> Klar und hell.<br><b>Aroma:</b> Ein reicher orientalisch gew\u00fcrzter Gin mit einem weichen Parf\u00fcm und scharfen Ausbr\u00fcchen von Zitrus. Herausragende Noten von K\u00fcmmel und Kardamom bieten einen warmen erdigen Hintergrund mit dem Ausgleich durch die Pr\u00e4senz von Grapefruitschale.<br><b>Geschmack:</b> Sanfter Kampfer, feine S\u00fcsse und orientalische Gew\u00fcrze sorgen f\u00fcr ein anhaltendes aber sich nicht verst\u00e4rkendes warmes Gef\u00fchl im Mund.<br><b>Finish:</b> Anhaltende L\u00e4nge mit weichem grobk\u00f6rnigem schwarzem Pfeffer und Gew\u00fcrzen.<br><b>Botanicals:</b> Wacholder, Kubebenpfeffer, Kreuzk\u00fcmmelsamen, Orangen, Grapefruit, Koriander, schwarzer Tellicherry Pfeffer, Ingwer, Kardamom, Zitronenschalen"
+					},
+					{
+						"type": "text",
+						"content": "Bekri empfiehlt dazu <b>Fever Tree Indian</b> Tonic oder <b>Ginger Ale</b>."
+					}
+				]
+			}
+		},
+		{
+			"name": "Jinzu",
+			"type": "Gin",
+			"origin": "London - Gro\u00dfbritannien",
+			"vol": "41,3%",
+			"taste": {
+				"juniper": -1,
+				"citrus": -1,
+				"fruit": -1,
+				"floral": -1,
+				"herbal": -1,
+				"spice": -1
+			},
+			"price": "7,90\u20ac",
+			"detail": {
+				"title": "Jinzu",
+				"blocks": [
+					{
+						"type": "text",
+						"content": "Der Jinzu Gin wurde im Jahr 2013 von Dee Davis, einer schottischen Bartenderin, f\u00fcr die Teilnahme an Diageos \u201eShow Your spirit\u201c-Wettbewerb kreiert. Inspiriert von ihren Reisen nach Japan, gewann diese Fusion von britischen Gin und japanischem Sake den h\u00f6chsten Preis und wurde danach zusammen mit Nichols in der Cambridge Distillery weiterentwickelt. Nachdem traditionelle Gin-Botanicals mit neutralem Getreidealkohol verm\u00e4hlt wurden und weiterhin Yuzu-Zitrusfr\u00fcchte und japanische Kirschbl\u00fcten in die Mischung kamen, lief diese \u00fcber eine alte Kupferbrennblase. Das Brennprodukt wurde dann mit dem japanischen Reiswein und schottischem Quellwasser verschnitten. In die formsch\u00f6ne Flasche abgef\u00fcllt, erinnert diese an den Jinzu-Fluss in Japan, an dem in jedem Fr\u00fchjahr tausende Kirschb\u00e4ume die Landschaft in eine rosafarbene Pracht verwandeln."
+					},
+					{
+						"type": "text",
+						"content": "<b>Nase:</b> Der wohlbekannte Duft von Wacholder macht dem pikanten Aroma der Yuzu-Frucht Platz, bevor zarte florale Noten und der delikate Reisduft des Sake aufsteigen.<br><b>Gaumen:</b> Die erdige Wacholderfrische britischen Gins wird von der pikanten Yuzu-Frucht belebt, um dann in zarte Noten von Kirschbl\u00fcten \u00fcberzugehen, bevor sich am Ende der unverwechselbar weiche Sake-Geschmack entwickelt.<br><b>Finish:</b> Weich mit pikanten Noten<br><b>Botanicals:</b> Wacholder, Koriander, Krischbl\u00fcte, Yuzu"
+					},
+					{
+						"type": "text",
+						"content": "Bekri empfiehlt dazu den <b>Fantimans</b> oder <b>Fever Tree Indian</b> Tonic"
+					}
+				]
+			}
+		},
+		{
+			"name": "The Botanical's",
+			"type": "London Dry Gin",
+			"origin": "London - Gro\u00dfbritannien",
+			"vol": "42,5%",
+			"taste": {
+				"juniper": -1,
+				"citrus": -1,
+				"fruit": -1,
+				"floral": -1,
+				"herbal": -1,
+				"spice": -1
+			},
+			"price": "8,20\u20ac",
+			"detail": {
+				"title": "The Botanical's",
+				"blocks": [
+					{
+						"type": "text",
+						"content": "Der Botanische das ist eine Premium-Klasse Gin, London Dry-Typ, mit einem Alkoholgehalt von 42,5%. Ist nach einem kleinen Handwerksbetrieb verf\u00fcnffachen Destillation Inhalt \u00dcberweisungen Stills John Dore, als der Rolls Royce unter den Stills erhalten."
+					},
+					{
+						"type": "text",
+						"content": "<b>Botanicals:</b> Wacholderbeeren, Koriander, Orangenschale, Zitronenschale, Grapefruitschale, chinesischer Zimt, Iriswurzel, Engelwurz, S\u00fc\u00dfholz, Muskat, Orangenbl\u00fcten"
+					},
+					{
+						"type": "text",
+						"content": "Bekri empfiehlt dazu den <b>Fantimans</b>, <b>Fever Tree Mediteranean</b> oder <b>Thomas Henry</b> Tonic."
+					}
+				]
+			}
+		},
+		{
+			"name": "The King of Soho",
+			"type": "London Dry Gin",
+			"origin": "London - Gro\u00dfbritannien",
+			"vol": "42%",
+			"taste": {
+				"juniper": -1,
+				"citrus": -1,
+				"fruit": -1,
+				"floral": -1,
+				"herbal": -1,
+				"spice": -1
+			},
+			"price": "7,90\u20ac",
+			"detail": {
+				"title": "The King of Soho",
+				"blocks": [
+					{
+						"type": "text",
+						"content": "Der King of Soho wurde von Howard Raymond mit Hilfe eines der besten Master Distillers Englands (Brennmeister der elften Generation) als Tribut an seinen Vater, Paul Raymond, entwickelt. Dieser verwandelte das Jagdgebiet Soho in den 60iger und 70iger Jahren in das kulturelle Zentrum Londons, f\u00fcr das es heute bekannt ist. Der King of Soho Gin wird mit zw\u00f6lf Botanicals, wie Grapefruitschale, Koriander, Cassia und Angelikawurzel mazeriert und vierfach destilliert und basiert auf neutralem Getreidedestillat. Nach dem Brennvorgang wird neben Wasser und Destillat nichts mehr dazugegeben - damit erf\u00fcllt dieser Gin die Kriterien f\u00fcr einen echten London Dry Gin."
+					},
+					{
+						"type": "text",
+						"content": "<b>Botanicals:</b> Angelikawurzel, Grapefruit, Koriander, Wacholder, Zimtkassie, Zitrone"
+					},
+					{
+						"type": "text",
+						"content": "Bekri empfiehlt dazu den <b>1724</b> oder <b>Thomas Henry</b> Tonic."
+					}
+				]
+			}
+		},
+		{
+			"name": "Professor Cornelius Bathtub Gin",
+			"type": "Gin",
+			"origin": "Gro\u00dfbritannien",
+			"vol": "43,3%",
+			"taste": {
+				"juniper": -1,
+				"citrus": -1,
+				"fruit": -1,
+				"floral": -1,
+				"herbal": -1,
+				"spice": -1
+			},
+			"price": "7,90\u20ac",
+			"detail": {
+				"title": "Professor Cornelius Bathtub Gin",
+				"blocks": [
+					{
+						"type": "text",
+						"content": "Der Professor Cornelius Ableforth\u2019s Bathtub Gin ist einfach anders. Der London Dry Gin wird in extrem kleinen Batches im sogenannten \u201eCold Compounding\u201c Verfahren hergestellt. Die Zusammenstellung der Botanicals hat der Sch\u00f6pfer dieses \u00e4u\u00dferst w\u00fcrzigen Gins, Professor Ableforth, in flei\u00dfiger Heimarbeit ausget\u00fcftelt. Aussen wie innen sehr speziell!"
+					},
+					{
+						"type": "text",
+						"content": "<b>Botanicals:</b> Wacholderbeeren, Koriander, Kiefernharz, Kardamon, Orangenschalen, Gew\u00fcrznelken, Zimt "
+					},
+					{
+						"type": "text",
+						"content": "Bekri empfiehlt dazu den <b>Fever Tree Indian</b> oder <b>Thomas Henry</b> Tonic."
+					}
+				]
+			}
+		},
+		{
+			"name": "Mombasa Club",
+			"type": "London Dry Gin",
+			"origin": "London - Gro\u00dfbritannien",
+			"vol": "41,5%",
+			"taste": {
+				"juniper": -1,
+				"citrus": -1,
+				"fruit": -1,
+				"floral": -1,
+				"herbal": -1,
+				"spice": -1
+			},
+			"price": "8,10\u20ac",
+			"detail": {
+				"title": "Mombasa Club",
+				"blocks": [
+					{
+						"type": "text",
+						"content": "Komplexer, vielschichtiger Premium Gin, basierend auf vierfach destilliertem Getreidealkohol, in dem neben Wacholderbeeren unter anderem auch Koriandersamen, Nelken und Cassia-Rinde mazeriert wurden."
+					},
+					{
+						"type": "text",
+						"content": "<b>Nase:</b> intensive Wacholder-Noten, sowie interessante Noten von exotischen Gew\u00fcrzen<br><b>Gaumen:</b> elegante Mischung aus Wacholdernoten, mit s\u00fc\u00dfen T\u00f6nen und Zitrusnoten, dazu Ankl\u00e4nge von Anis<br><b>Finish:</b> langanhaltend<br><b>Botanicals:</b> Anis, Koriander, Nelke, Wacholder, Zitrusfrucht, Angelikawurzel, Cassia-Rinde, Kreuzk\u00fcmmel"
+					},
+					{
+						"type": "text",
+						"content": "Bekri empfiehlt dazu den <b>1724</b> oder <b>Fantimans</b> Tonic."
+					}
+				]
+			}
+		},
+		{
+			"name": "Brockmans",
+			"type": "Gin",
+			"origin": "London - Gro\u00dfbritannien",
+			"vol": "40%",
+			"taste": {
+				"juniper": 4,
+				"citrus": 4,
+				"fruit": 10,
+				"floral": 2,
+				"herbal": 4,
+				"spice": 4
+			},
+			"price": "8,30\u20ac",
+			"detail": {
+				"title": "Brockmans",
+				"blocks": [
+					{
+						"type": "image",
+						"content": "brocksmans.jpg"
+					},
+					{
+						"type": "text",
+						"content": "Ein Gin aus England, der sich irgendwie deutsch anh\u00f6rt und doch typisch britische Z\u00fcge in sich vereint: Brockmans Gin mit dem klangvollen Namen. Auch die Optik zieht viel Aufmerksamkeit auf den Gin, steckt er doch in einer dunklen, markanten, nachtschwarzen Flasche. Das Aroma des Brockmans Gin ist von den ausgesuchten Botanicals gepr\u00e4gt, die dem Destillat neben den obligatorischen Wacholderbeeren beigegeben wurden. Zur Aromatisierung hat man u.a. Koriander aus Bulgarien und fruchtige Zutaten wie Blaubeeren und Brombeeren zurate gezogen. Was am deutlichsten h\u00e4ngenbleibt, ist die unglaubliche Weichheit dieses Premium-Gins, die man sonst nur von lange gelagerten Spirituosen kennt."
+					},
+					{
+						"type": "text",
+						"content": "<b>Botanicals:</b> Blaubeeren, Brombeeren, Iriswurzel, S\u00fc\u00dfholz, bulgarischen Koriander, Wacholder, Orangenschalen von Valenciaorangen, Kassiarinde, Angelikawurzel"
+					},
+					{
+						"type": "text",
+						"content": "Bekri empfiehlt dazu den <b>Fever-Tree Elderflower</b> oder <b>Fever-Tree Mediterranean</b> Tonic, f\u00fcr ein besonderes Geschmackserlebnis mit Kirschbl\u00fcten empiehlt Bekri den <b>Thomas Henry Cherry Blossom</b>"
+					}
+				]
+			}
+		},
+		{
+			"name": "Gin Mare",
+			"type": "Gin",
+			"origin": "Guadalajara - Spanien",
+			"vol": "42,7%",
+			"taste": {
+				"juniper": -1,
+				"citrus": -1,
+				"fruit": -1,
+				"floral": -1,
+				"herbal": -1,
+				"spice": -1
+			},
+			"price": "6,90\u20ac",
+			"detail": {
+				"title": "Gin Mare",
+				"blocks": [
+					{
+						"type": "text",
+						"content": "Der Gin Mare zeichnet sich durch folgende 4 Botanicals aus: Thymian aus der T\u00fcrkei, Rosmarin aus Griechenland, Basilikum aus Italien und gr\u00fcne Arbequina-Oliven aus Spanien. Eine 36-st\u00fcndige Mazeration dieser Zutaten in Alkohol und dessen anschliessende Redestillation im traditionellen Pot-Still-Verfahren sind ausschlaggebend f\u00fcr das Aroma des Gin Mare. Allerdings enth\u00e4lt die Spirituose auch die gin-typischen Botanicals Wacholder, Kardamom und Zitrus."
+					},
+					{
+						"type": "text",
+						"content": "<b>Botanicals:</b> Wacholder, Koriander, Kardamon, Orange, Zitrone, Rosmarin, Thymian, Baslikum, Oliven"
+					},
+					{
+						"type": "text",
+						"content": "Bekri empfiehlt dazu den <b>Fever Tree Mediteranean</b> oder <b>1724</b> Tonic."
+					}
+				]
+			}
+		},
+		{
+			"name": "Nord\u00e9s Atlantic Galician",
+			"type": "Gin",
+			"origin": "Galicien - Spanien",
+			"vol": "40%",
+			"taste": {
+				"juniper": -1,
+				"citrus": -1,
+				"fruit": -1,
+				"floral": -1,
+				"herbal": -1,
+				"spice": -1
+			},
+			"price": "6,20\u20ac",
+			"detail": {
+				"title": "Nord\u00e9s Atlantic Galician",
+				"blocks": [
+					{
+						"type": "text",
+						"content": "Dank Gin Nord\u00e9s weiss bald die ganze Welt, wo genau Galicien liegt. Die Region im \u00e4ussersten Nordwesten von Spanien ist seit 1981 autonom und besitzt neben dem Spanischen ihre ganz eigene Sprache, das Gallego. Wer bereits den Jakobsweg bis nach Santiago de Compostela - Sitz von Atlantic Galician Spirits - gewandert ist, wird bereits gute Eindr\u00fccke von der Landschaft und Kultur Galiciens gesammelt haben. Das Unternehmen geh\u00f6rt der Osborne Group an, die den ber\u00fchmten spanischen Stier als Markenzeichen hat und sich dem Weinhandel widmet. Da ist es wenig \u00fcberraschend, dass der Grundalkohol f\u00fcr diesen Gin aus dem Traubenmost der Weissweinsorte Albari\u00f1o gebrannt wird, und das ganze vier Mal. Bevor der f\u00fcnfte Brennvorgang startet, werden die zw\u00f6lf Botanicals hinzugegeben. Sechs von ihnen stammen aus der Region; die anderen kommen aus der weiten Welt. F\u00fcr den spritzigen, floralen und w\u00fcrzigen Geschmack des Nord\u00e9s Gins zust\u00e4ndig sind Wacholder, Eukalyptus, Hibiskus, Schwarztee, Zitronenverbene, S\u00fcssholz, Ingwer, Kardamom, Pfefferminze, Lorbeerbl\u00e4tter, Chinin und Salicorn/Queller."
+					},
+					{
+						"type": "text",
+						"content": "<b>Farbe:</b> Klar & transparent<br><b>Geruch:</b> Zarter Duft nach wei\u00dfen Bl\u00fcten, Eukalyptus, Lakritze, Ingwer und Zitrone<br><b>Geschmack:</b> Mittlere Dichte, k\u00f6stliche Wacholder- und frische Zitrusaromen auf einem floralen Hintergrund<br><b>Botanicals:</b> Traubenmostbrand aus der Albari\u00f1o-Traube, Wacholder, Schwarztee, Salbei, Hibiskus, Zitronenkraut, Ingwer, Kardamom, Eukalyptus, Pfefferminze, Lorbeerblatt, S\u00fc\u00dfholz, Salicorn"
+					},
+					{
+						"type": "text",
+						"content": "Bekri empfiehlt dazu den <b>Fever Tree Mediteranean</b> oder <b>1724</b> Tonic."
+					}
+				]
+			}
+		},
+		{
+			"name": "Le Tribute",
+			"type": "Gin",
+			"origin": "Barcelona - Spanien",
+			"vol": "43%",
+			"taste": {
+				"juniper": -1,
+				"citrus": -1,
+				"fruit": -1,
+				"floral": -1,
+				"herbal": -1,
+				"spice": -1
+			},
+			"price": "8,90\u20ac",
+			"detail": {
+				"title": "Le Tribute",
+				"blocks": [
+					{
+						"type": "text",
+						"content": "Bereits 1835 wurde die MG Destillerie in Vilanova, einem kleinen Fischerdorf in der N\u00e4he von Barcelona, gegr\u00fcndet und wird heute bereits in der f\u00fcnften Generation von der Familie Giro gef\u00fchrt. 1940 lancierte die Destillerie den MG Gin, der bis heute einer der meist verkauften Gins in Spanien ist. 2007 folgte dann der Gin Mare. Nun, zehn Jahre sp\u00e4ter, pr\u00e4sentiert die MG Destillerie den Le Tribute Gin, der als 'yet dry enough' bezeichnet wird. Er basiert auf Weizenalkohol und wird mit sieben verschiedenen Botanicals aromatisiert: Wacholder, Limette, Orangenschale, Zitronenschale, Kumquat, Tangerine, Grapefruit und Lemongrass. Alle Zutaten werden separat destilliert, beim Zitronengras verwendet man statt des Alkohols Wasser, wodurch das Zitronenaroma besser zur Geltung kommen soll. Anschliessend werden alle Destillate miteinander vermischt und mit 43%vol. in die edle Glasflasche abgef\u00fcllt, welche optisch an den Jugendstil / Art Nouveau angelehnt ist."
+					},
+					{
+						"type": "text",
+						"content": "<b>Botanicals:</b> Limette, Orange, Kumquat, Mandarine, Grapefruit, Zitrusgras, Kardamom"
+					},
+					{
+						"type": "text",
+						"content": "Bekri empfiehlt dazu den <b>Le Tribute</b> Tonic."
+					}
+				]
+			}
+		},
+		{
+			"name": "Xoriguer Mahon",
+			"type": "Gin",
+			"origin": "Menorca - Spanien",
+			"vol": "38%",
+			"taste": {
+				"juniper": -1,
+				"citrus": -1,
+				"fruit": -1,
+				"floral": -1,
+				"herbal": -1,
+				"spice": -1
+			},
+			"price": "7,90\u20ac",
+			"detail": {
+				"title": "Xoriguer Mahon",
+				"blocks": [
+					{
+						"type": "text",
+						"content": "Der Name Xoriguer f\u00fcr den auf Menorca hergestellten Gin geht auf Miguel Pons Justo zur\u00fcck, der damit das Windm\u00fchlengesch\u00e4ft seiner Familie ehren wollte. Die Flasche mit dem mediterranen, traditionell-famili\u00e4ren Touch zeigt bis heute die alte Windm\u00fchle von 1784. Der Beinahme 'Mahon' spielt auf die Herkunft des Xoriguer Gins, Menorcas Hauptstadt mit etwas unter 30.000 Einwohnern, an. F\u00fcr die Herstellung wird Weinalkohol (und kein Getreidealkohol!) herangezogen, der die Aromen einer streng geheim gehaltenen Botanical-Mischung aufnimmt. Kurioserweise kann das Team das frisch erzeugte Destillat alle zehn Minuten kosten, da es bereits in einer Trinkst\u00e4rke von 38% aus der Brennanlage herauskommt."
+					},
+					{
+						"type": "text",
+						"content": "Bekri empfiehlt dazu den <b>Fever Tree Indian</b> oder <b>Thomas Henry</b> Tonic."
+					}
+				]
+			}
+		},
+		{
+			"name": "Cubical",
+			"type": "London Dry Gin",
+			"origin": "Spanien",
+			"vol": "45%",
+			"taste": {
+				"juniper": -1,
+				"citrus": -1,
+				"fruit": -1,
+				"floral": -1,
+				"herbal": -1,
+				"spice": -1
+			},
+			"price": "8,90\u20ac",
+			"detail": {
+				"title": "Cubical",
+				"blocks": [
+					{
+						"type": "text",
+						"content": "Die Basis f\u00fcr den Cubical Ultra Premium London Dry Gin wird von der ehrw\u00fcrdigen Langley Distillery in Birmingham hergestellt. Dies geschieht auf althergebrachte Weise in \u00fcber 100 Jahre alten Destillierkolben durch einen vierfachen Brennprozess. In Spanien kommen schliesslich die Botanicals hinzu. Diese geben sich teilweise klassisch, teilweise eher aussergew\u00f6hnlich. Die Liste der Zutaten, die dem Cubical Ultra Premium Gin sein unverwechselbares Aroma verleihen, umfasst zum Einen Wacholder, Koriander, Kardamom, Zitronen- bzw. Orangenschalen sowie Anis. Andererseits finden sich Zimt, Mandeln, Mandarinen, Thymian, Mangos und Pfefferminze in der Rezeptur. Mit seiner quadratischen, blau schimmernden Flasche sticht er sofort ins Auge."
+					},
+					{
+						"type": "text",
+						"content": "Bekri empfiehlt dazu den <b>Fever Tree Mediteranean</b> Tonic."
+					}
+				]
+			}
+		},
+		{
+			"name": "Dolce Vita",
+			"type": "Dry Gin",
+			"origin": "Padova - Italien",
+			"vol": "40%",
+			"taste": {
+				"juniper": -1,
+				"citrus": -1,
+				"fruit": -1,
+				"floral": -1,
+				"herbal": -1,
+				"spice": -1
+			},
+			"price": "8,10\u20ac",
+			"detail": {
+				"title": "Dolce Vita",
+				"blocks": [
+					{
+						"type": "text",
+						"content": "Beim Dolce Vita Dry Gin handelt es sich um einen mediterranen Gin aus Italien.Bei seiner Herstellung wird penibel darauf geachtet, dass ausschlie\u00dflich einheimische Kr\u00e4uter, Wurzeln und Bl\u00fcten verwendet werden. Dadurch das bei der Herstellung des Dolce Vita Dry Gin sechs verschiedenen Zitrusfr\u00fcchten mazeriert werden, sind es nat\u00fcrlich Zitrus und Orange die den Charakter des Dolce Vita Dry Gin ausmachen."
+					},
+					{
+						"type": "text",
+						"content": "<b>Botanicals:</b> Orangeschale, Zitroneschale, Mandarineschale, Limetteschale, Grapefruitschale, Wacholder, Koriander, Bergamotte, Zeder, Orangenbl\u00fcten, Zitronenbl\u00fcten"
+					}
+				]
+			}
+		},
+		{
+			"name": "Z44",
+			"type": "Gin",
+			"origin": "S\u00fcd Tirol - Italien",
+			"vol": "44%",
+			"taste": {
+				"juniper": -1,
+				"citrus": -1,
+				"fruit": -1,
+				"floral": -1,
+				"herbal": -1,
+				"spice": -1
+			},
+			"price": "7,90\u20ac",
+			"detail": {
+				"title": "Z44",
+				"blocks": [
+					{
+						"type": "text",
+						"content": "Aus dem S\u00fcdtiroler Brennhaus Roner, einem alten Familienbetrieb, in dem die Brennregeln von Generation zu Generation weitergegeben wurden, kommt dieser Gin. Neben den typischen Gin-Botanicals wie Wacholder und Zitrusschalen sind weiterhin Veilchenwurzeln, Scharfgarbe, Enzianwurzel und andere Berg- und Wiesenkr\u00e4uter auf seiner Inhaltsliste enthalten. Diese Botanicals werden entweder mazeriert oder destilliert, um die Aromastoffe im Alkohol aufzul\u00f6sen. Die gr\u00f6sste Besonderheit aber ist die Verwendung von Zirbelkieferzapfen, die nach drei Jahren Reifezeit am Baum per Hand gepfl\u00fcckt werden. Diese geben dem Z44 Gin eine ganz spezielle Geschmacksnote. Die Flasche kann sich \u00fcbrigens auch sehen lassen - einige der Botanicals sind als feine Zeichnungen auf ihr verewigt worden."
+					}
+				]
+			}
+		},
+		{
+			"name": "Del Professore Monsieur Gin",
+			"type": "Gin",
+			"origin": "Italien",
+			"vol": "43,7%",
+			"taste": {
+				"juniper": -1,
+				"citrus": -1,
+				"fruit": -1,
+				"floral": -1,
+				"herbal": -1,
+				"spice": -1
+			},
+			"price": "8,10\u20ac",
+			"detail": {
+				"title": "Del Professore Monsieur Gin",
+				"blocks": [
+					{
+						"type": "text",
+						"content": "Der Del Professore Monsieur Gin ist ein Teil des Jerry Thomas Projekts. Er zeichnet sich durch sein klassisches Gin Profil aus Wacholder- und Zitrusnoten aus. Der Gin steht f\u00fcr die R\u00fcckbesinnung auf alte Gin Produktionsmethoden, wie der 'Bathtub Gin'. Dies geschieht nun aber im Gegensatz zur Vergangenheit mit aller h\u00f6chster Qualit\u00e4t und den besten Zutanten. Dies wiederholt die selben Standards und Qualit\u00e4tsanspr\u00fcche die das Jerry Thomas Projekt bei seinem Vermut angelegt hat."
+					}
+				]
+			}
+		},
+		{
+			"name": "Malfy",
+			"type": "Gin Rosa",
+			"origin": "Italien",
+			"vol": "41%",
+			"taste": {
+				"juniper": -1,
+				"citrus": -1,
+				"fruit": -1,
+				"floral": -1,
+				"herbal": -1,
+				"spice": -1
+			},
+			"price": "7,90\u20ac",
+			"detail": {
+				"title": "Malfy",
+				"blocks": [
+					{
+						"type": "text",
+						"content": "In Moncalieri - traditionell eine Gegend, in der Wermut-Spirituosen wie Carpano, Cinzano und Martini produziert werden - ist die Brennerei Torino Distillati mit ihrem Malfy Gin eher ein Exot. Nachdem die Destillerie im Jahr 1906 von dem Familienunternehmen 'Fratelli Ferrero di Riccardo' gegr\u00fcndet wurde und sich der Wermut- und Weinherstellung verschrieb, ging sie in den 60iger Jahren an Seagram \u00fcber. Dann, im Jahr 1992, fiel sie in die H\u00e4nde von Carlo Vergnano, der mit Hilfe seiner Frau und Tochter den Malfy Gin als 'Nebenprodukt' entwickelte und diesen zuerst in kleinen Mengen herstellte. Bald schon erfreute sich der Gin einer gewissen Beliebtheit und wurde in gr\u00f6sseren Chargen sowie in verschiedenen Ausf\u00fchrungen produziert."
+					},
+					{
+						"type": "text",
+						"content": "Der Gin Rosa legt den Schwerpunkt auf sizilianische Pink Grapefruits und einen Hauch Rhabarber. Daf\u00fcr mazerieren die Zesten besagter Zitrusfr\u00fcchte in neutralem Getreidealkohol. Der Extrakt wird dann mit toskanischem Wacholder, Koriander, Zimtkassie, Engelwurz, Iriswurzel, S\u00fcssholz, Rhabarber sowie den Schalen von Amalfi-Zitronen und Orangen versetzt und in einer Edelstahlbrennblase unter Vakuum bei 60\u00b0C destilliert. Durch die geringe Destillationstemperatur bleiben die Aromastoffe fast unver\u00e4ndert. Das Tasting der Rosa-Version offenbart Noten von tropisch-fruchtiger Grapefruit, Wacholder, Kr\u00e4utern, Zitronen und Rhabarber."
+					}
+				]
+			}
+		},
+		{
+			"name": "Malfy con Limone",
+			"type": "Gin",
+			"origin": "Italien",
+			"vol": "41%",
+			"taste": {
+				"juniper": -1,
+				"citrus": -1,
+				"fruit": -1,
+				"floral": -1,
+				"herbal": -1,
+				"spice": -1
+			},
+			"price": "7,90\u20ac",
+			"detail": {
+				"title": "Malfy con Limone",
+				"blocks": [
+					{
+						"type": "text",
+						"content": "Der Malfy con Limone Gin ist sicherlich kein traditioneller, wacholderlastiger Gin, sondern ein Destillat, das mit ausgesprochener Zitrusfrische und Geschmeidigkeit punktet. Sehr cremig und gaumenschmeichelnd mit einer Menge Zitrusfrische und einer sanften Pfeffersch\u00e4rfe am Gaumen; der Wacholder h\u00e4lt sich dezent im Hintergrund."
+					},
+					{
+						"type": "text",
+						"content": "<b>Aroma:</b> Sehr zitruslastig, mit deutlichen Wacholdernoten in der Nase.<br><b>Geschmack:</b> Es setzen sich die Zitrusnoten fort und verm\u00e4hlen sich mit etwas Wacholder und Koriander.<br><b>Botanicals:</b> Zitronen, Koriander, Cassiarinde, Angelikawurzel, Iriswurzel"
+					},
+					{
+						"type": "text",
+						"content": "Bekri empfiehlt dazu den <b>Fever Tree Mediteranean</b> Tonic."
+					}
+				]
+			}
+		},
+		{
+			"name": "Pigskin",
+			"type": "Gin",
+			"origin": "Italien",
+			"vol": "40%",
+			"taste": {
+				"juniper": -1,
+				"citrus": -1,
+				"fruit": -1,
+				"floral": -1,
+				"herbal": -1,
+				"spice": -1
+			},
+			"price": "7,90\u20ac",
+			"detail": {
+				"title": "Pigskin",
+				"blocks": [
+					{
+						"type": "text",
+						"content": "Mit einer Infusion von Kr\u00e4utern der Macchia wie Wacholder, Salbei, Myrtenbl\u00e4ttern und Beifu\u00df wird dieser delikate Gin destilliert. Die Farbe verdankt er einer weiteren Infusion wilder Knospen. Danach reift er in alten Holzf\u00e4ssern aus Kastanienholz, in denen zuvor der Wein aus der Vernaccia Traube war. Er duftet klar nach Myrte und schmeckt feinw\u00fcrzig nach Kr\u00e4utern."
+					}
+				]
+			}
+		},
+		{
+			"name": "Buss N\u00b0509 Pink Grapefruit",
+			"type": "Gin",
+			"origin": "Antwerp - Belgien",
+			"vol": "40%",
+			"taste": {
+				"juniper": -1,
+				"citrus": -1,
+				"fruit": -1,
+				"floral": -1,
+				"herbal": -1,
+				"spice": -1
+			},
+			"price": "8,10\u20ac",
+			"detail": {
+				"title": "Buss N\u00b0509 Pink Grapefruit",
+				"blocks": [
+					{
+						"type": "text",
+						"content": "Zitrusfr\u00fcchte sind unerl\u00e4sslich, wenn es um die Aromatisierung von Gin geht. Allen voran Zitronen und Orangen (sowohl Bitterorangen als auch Saftorangen) liefern ihre Schalen mit den kostbaren \u00e4therischen \u00d6len. Davon abgesehen eignen sich weitere Fr\u00fcchte, um frisch oder getrocknet verwendet zu werden. Der Buss N\u00b0509 Pink Grapefruit Belgium Flavor Gin Author Collection 2015 beispielsweise macht sich Grapefruits zunutze, die mit ihrem unverwechselbaren Geschmack etwas Saures und Bitteres beisteuern. Der Wacholderschnaps ist Teil der Author Collection mit frischen Fr\u00fcchten und beweist, dass die Firma Buss Spirits aus Antwerpen einen guten Riecher f\u00fcr moderne Spirituosen besitzt."
+					}
+				]
+			}
+		},
+		{
+			"name": "Filliers Dry Gin 28 Tangerine",
+			"type": "Gin",
+			"origin": "Belgien",
+			"vol": "43,7%",
+			"taste": {
+				"juniper": -1,
+				"citrus": -1,
+				"fruit": -1,
+				"floral": -1,
+				"herbal": -1,
+				"spice": -1
+			},
+			"price": "8,10\u20ac",
+			"detail": {
+				"title": "Filliers Dry Gin 28 Tangerine",
+				"blocks": [
+					{
+						"type": "text",
+						"content": "W\u00e4hrend sich die meisten Gin Brennereien auf eine Auswahl von 10-12 Botanicals beschr\u00e4nken, verwendet man unglaubliche 28 Botanicals f\u00fcr diesen vielseitigen Dry Gin aus Belgien. Dieser Filliers Gin wie man ihn heute kennt wurde 1928 das erste mal gebrannt und zwar erst von der Dritten Distiller Generation im Hause Filliers. Diesen traditionellen Dry Gin stellt heute bereits die f\u00fcnfte Generation her, mit unver\u00e4ndertem Rezept. Neben den enthaltenen Botanicals werden au\u00dferdem eine gro\u00dfe Menge Mandarinen aus Valencia in Spanien beigegeben, dadurch erh\u00e4lt der Gin eine sommerliche Citrusfrische mit intensiven Fruchtnoten. Perfekt f\u00fcr Sommercocktails."
+					},
+					{
+						"type": "text",
+						"content": "<b>Aroma:</b> Orange und Tangerine, zusammen mit weiteren Zitrusfr\u00fcchten und einer subtilen Wacholdernote.<br><b>Geschmack:</b> Starke Orangenfront, mit w\u00e4rmendem Koriander und Pfeffer, sowie Kardamom und Wacholder.<br><b>Nachklang:</b> Lang und trocknend, mit verweilenden Fruchtnoten."
+					}
+				]
+			}
+		},
+		{
+			"name": "Amuerte - Black Edition",
+			"type": "Coca Leaf Gin",
+			"origin": "Belgien",
+			"vol": "43%",
+			"taste": {
+				"juniper": -1,
+				"citrus": -1,
+				"fruit": -1,
+				"floral": -1,
+				"herbal": -1,
+				"spice": -1
+			},
+			"price": "12,80\u20ac",
+			"detail": {
+				"title": "Amuerte - Black Edition",
+				"blocks": [
+					{
+						"type": "text",
+						"content": "Es gibt nicht nur Gin mit Hanfbl\u00e4ttern, sondern auch Gin mit Coca-Bl\u00e4ttern! Denn lange bevor der aus den Pflanzen extrahierte Wirkstoff Kokain zu einer weit gef\u00fcrchteten Droge wurde, war der Strauch eine sehr gesch\u00e4tzte Nutzpflanze in Peru, Kolumbien und anderen Andenl\u00e4ndern. Dort stellt das Kauen der Coca-Bl\u00e4tter eine Alltagszeremonie unter den indigenen St\u00e4mmen dar. Als Jeroen und seine Frau Eveline als Rucksackreisende im kolumbianischen Regenwald ihre erste Begegnung mit den Bl\u00e4ttern hatten, wussten sie sofort, dass dies die ideale Zutat f\u00fcr ihren angedachten Gin sei. Erfahrung mit dem Destillieren hatten sie bereits, denn Jeroen enstammt einer belgischen Brennerfamilie, die sich seit jeher mit Gin und Genever auseinandersetzt. Um die naturgegebene Bitterkeit der Coca-Pflanze auszugleichen, zog man f\u00fcr die Herstellung noch typisch peruanische Fr\u00fcchte wie Tamarillo, Papaya und Drachenfrucht heran. Ob es weitere Zutaten gibt, l\u00e4sst sich nicht ganz erschliessen \u2013 jedenfalls tr\u00e4gt der Amuerte Gin herb-bittere, fruchtig-exotische Z\u00fcge und ist mit einem klassischen London Dry Gin kaum zu vergleichen. Die Designer-Flasche ist mit einem kunstvoll gezeichneten Totensch\u00e4del und 24-kar\u00e4tigem Gold versehen. Die Symbolik und der Name sollen jedoch keine negativen Schwingungen r\u00fcberbringen, sondern die K\u00e4ufer des Gins lediglich daran erinnern, jeden Tag in vollen Z\u00fcgen auszuleben, bevor es zu sp\u00e4t daf\u00fcr ist."
+					}
+				]
+			}
+		},
+		{
+			"name": "Amuerte - White Edition",
+			"type": "Coca Leaf Gin",
+			"origin": "Belgien",
+			"vol": "43%",
+			"taste": {
+				"juniper": -1,
+				"citrus": -1,
+				"fruit": -1,
+				"floral": -1,
+				"herbal": -1,
+				"spice": -1
+			},
+			"price": "12,80\u20ac",
+			"detail": {
+				"title": "Amuerte - White Edition",
+				"blocks": [
+					{
+						"type": "text",
+						"content": "Es gibt nicht nur Gin mit Hanfbl\u00e4ttern, sondern auch Gin mit Coca-Bl\u00e4ttern! Denn lange bevor der aus den Pflanzen extrahierte Wirkstoff Kokain zu einer weit gef\u00fcrchteten Droge wurde, war der Strauch eine sehr gesch\u00e4tzte Nutzpflanze in Peru, Kolumbien und anderen Andenl\u00e4ndern. Dort stellt das Kauen der Coca-Bl\u00e4tter eine Alltagszeremonie unter den indigenen St\u00e4mmen dar. Als Jeroen und seine Frau Eveline als Rucksackreisende im kolumbianischen Regenwald ihre erste Begegnung mit den Bl\u00e4ttern hatten, wussten sie sofort, dass dies die ideale Zutat f\u00fcr ihren angedachten Gin sei. Erfahrung mit dem Destillieren hatten sie bereits, denn Jeroen enstammt einer belgischen Brennerfamilie, die sich seit jeher mit Gin und Genever auseinandersetzt. Um die naturgegebene Bitterkeit der Coca-Pflanze auszugleichen, zog man f\u00fcr die Herstellung der White Edition noch 'Finger Lime' aus einem italienischen Naturpark, Kardamom, Koriander und Szechuan-Pfeffer heran. Damit entwickelte man einen ganz neuartigen Geschmack zur Black Edition, die 2018 f\u00fcr Furore sorgte. F\u00fcr alle, die es noch nicht wissen: Finger Lime ist eine l\u00e4ngliche, fingerf\u00f6rmige Zitrusfrucht, deren Fruchtfleisch wie Kaviar aussieht. Ob es weitere Zutaten gibt, l\u00e4sst sich nicht ganz erschliessen - jedenfalls tr\u00e4gt die Amuerte White Edition herb-bittere, frische und w\u00fcrzige Z\u00fcge. Die Designer-Flasche ist mit einem kunstvoll gezeichneten Totensch\u00e4del und 24-kar\u00e4tiger Goldfolie versehen. Die Symbolik und der Name sollen \u00fcbrigens keine negativen Schwingungen r\u00fcberbringen, sondern die K\u00e4ufer des Gins lediglich daran erinnern, jeden Tag in vollen Z\u00fcgen auszuleben, bevor es zu sp\u00e4t daf\u00fcr ist."
+					}
+				]
+			}
+		},
+		{
+			"name": "G-Vine Floraison",
+			"type": "Gin",
+			"origin": "Cognac - Frankreich",
+			"vol": "40%",
+			"taste": {
+				"juniper": -1,
+				"citrus": -1,
+				"fruit": -1,
+				"floral": -1,
+				"herbal": -1,
+				"spice": -1
+			},
+			"price": "6,10\u20ac",
+			"detail": {
+				"title": "G-Vine Floraison",
+				"blocks": [
+					{
+						"type": "text",
+						"content": "Bei diesem Gin bilden Weintrauben die Grundlage. Das nach vierfacher Destillation entstehende, neutrale Traubendestillat durchl\u00e4uft schliesslich eine Mazeration mit handverlesenen Bl\u00fcten der Ugni Blanc-Trauben, die nur w\u00e4hrend weniger Tage im Juni aufzufinden sind. Parallel hierzu entlockt man acht weiteren Botanicals in einem f\u00fcnf Tage andauernden Prozess ihre Aromen. Hierbei werden Ingwerwurzel, Lakritz, Cassia-Rinde, Koriander, Wacholderbeeren, Kubeben-Pfeffer, Muskatnuss und Limone mit dem Destillat aufgegossen und destilliert - dies geschieht allerdings separat in botanischen Gruppen. Der vorletzte Schritt umfasst das Blending aller vier Destillate, wobei Jean-S\u00e9bastien Robicquet die Komponenten im optimalen Verh\u00e4ltnis zusammenbringt. In einem finalen Destillationsdurchgang vereinigen sich letztendlich alle Aromen."
+					}
+				]
+			}
+		},
+		{
+			"name": "Magellan",
+			"type": "Gin",
+			"origin": "Frankreich",
+			"vol": "41,3%",
+			"taste": {
+				"juniper": -1,
+				"citrus": -1,
+				"fruit": -1,
+				"floral": -1,
+				"herbal": -1,
+				"spice": -1
+			},
+			"price": "9,10\u20ac",
+			"detail": {
+				"title": "Magellan",
+				"blocks": [
+					{
+						"type": "text",
+						"content": "Insgesamt elf Botanicals tummlen sich im franz\u00f6sischen Magellan Blue Gin. Diese reichen von w\u00fcrzigen Ingredienzen wie Kardamom und Muskatnuss, Koriandersamen, Paradiesk\u00f6rnern, Lakritz, Cassia Rinde und Nelken bis zu den sanfteren Aromen von Zimt. Einen Hauch Frucht bringen Orangenschalen und Wacholderbeeren, Iriswurzel und Irisbl\u00fcten sorgen f\u00fcr den besonderen Touch, der s\u00e4mtliche Aromen harmonisch verbindet. Und wer sich fragt, woher Magellan Gin seine appetitlich blaue F\u00e4rbung erh\u00e4lt, der findet auch diese Antwort in der Irisbl\u00fcte, deren blaue Bl\u00fctenbl\u00e4tter das gewisse Etwas verleihen, optisch wie geschmacklich."
+					}
+				]
+			}
+		},
+		{
+			"name": "Citadelle",
+			"type": "Dry Gin",
+			"origin": "Ars - Frankreich",
+			"vol": "44%",
+			"taste": {
+				"juniper": -1,
+				"citrus": -1,
+				"fruit": -1,
+				"floral": -1,
+				"herbal": -1,
+				"spice": -1
+			},
+			"price": "?,??\u20ac",
+			"detail": {
+				"title": "Citadelle",
+				"blocks": [
+					{
+						"type": "text",
+						"content": "Das Gin aus Frankreich kommt ist immer noch etwas ungew\u00f6hnlich. Dass er dazu noch aus Cognac kommt, ist zumindest sehr ungew\u00f6hnlich. Der Citadelle Gin kann sogar beides und die Webseite des Herstellers Cognac Ferrand beschreibt die Herkunft des Gins im Ursprung als franz\u00f6sischen Wacholderschnaps und holl\u00e4ndischen Genever. Der London Dry Gin soll auf ein Rezept aus dem 18. Jahrhundert zur\u00fcck gehen und ist nach einer kleinen Destillerie in D\u00fcnkirchen, im Norden Frankreichs benannt. Besonderen Wert legen die beiden Hersteller Alexandre Gabriel und Jean-Dominique Andreu von Cognac Ferrand auf den Herstellungsprozess. Es werden die selben Brennblasen wie bei der Cognac-Produktion genutzt. Die genutzten Charentaiser Kupfer-Brennblasen fassen nur 200 Liter, insgesamt werden 19 Botanicals genutzt. Wirklich besonders ist die Destillation \u00fcber offenem Feuer, was bei der Produktion ein gewisses Feingef\u00fchlt voraussetzt."
+					},
+					{
+						"type": "text",
+						"content": "<b>Botanicals:</b> Wacholder, Veilchen, Koriander, Mandeln, Zitronenschalen, Orangenschalen, Engelwurz, Kardamon, Kassia, Zimt, Lakritz, Paradiesk\u00f6rner, Kubebenpfeffer, Kreuzk\u00fcmmel, Bohnenkraut, Sternanis, Muskatnuss, Fenchel, Iris-Wurzel"
+					}
+				]
+			}
+		},
+		{
+			"name": "Roku Gin",
+			"type": "Gin",
+			"origin": "Japan",
+			"vol": "43%",
+			"taste": {
+				"juniper": -1,
+				"citrus": -1,
+				"fruit": -1,
+				"floral": -1,
+				"herbal": -1,
+				"spice": -1
+			},
+			"price": "7,20\u20ac",
+			"detail": {
+				"title": "Roku Gin",
+				"blocks": [
+					{
+						"type": "text",
+						"content": "Roku, im Japanischen gleichbedeutend mit der Zahl Sechs, ist der japanische Premium Craft Gin aus dem Spirituosen-Atelier von Suntory in Osaka. Seine einzigartige Zubereitung aus sechs in Japan beheimateten Botanicals gibt diesem besonderen Gin seine unverwechselbare japanische Identit\u00e4t."
+					},
+					{
+						"type": "text",
+						"content": "In einer vielschichtigen Balance treffen japanische Krischbl\u00fcte, edler Gyokuro-Tee, Sencha-Gr\u00fcntee, japanischer Sansho-Pfeffer und eine Zitrusnote aus der Schale der Yuzufrucht auf Ginaromen von Wacholder, Koriandersaat, Angelikawurzel und -samen sowie Zimt, Kardamomsaat und Bitterorangenschale."
+					}
+				]
+			}
+		},
+		{
+			"name": "Nikka Coffey Gin",
+			"type": "Gin",
+			"origin": "Japan",
+			"vol": "47%",
+			"taste": {
+				"juniper": -1,
+				"citrus": -1,
+				"fruit": -1,
+				"floral": -1,
+				"herbal": -1,
+				"spice": -1
+			},
+			"price": "9,90\u20ac",
+			"detail": {
+				"title": "Nikka Coffey Gin",
+				"blocks": [
+					{
+						"type": "text",
+						"content": "Der Nikka Coffey Gin enth\u00e4lt 11 Key Botanicals: Wacholder, Koriander, Angelikawurzel, Zitronen- und Orangenschale sowie typisch japanische Zutaten wie die Zitruspflanzen Yuzu, Amanatsu, Sh\u012bkuw\u0101s\u0101 und Kabosu, Sansho Pfeffer und in Ankn\u00fcpfung an Nikkas Unternehmenstradition: Apfelsaft. Denn w\u00e4hrend heute junge Whiskybrennereien die Durststrecke bis zur Erstabf\u00fcllung ihres Whiskys mit Gin, Wodka und anderen klaren Destillaten \u00fcberbr\u00fccken, startete Nikka einst mit Apfelsaft."
+					}
+				]
+			}
+		},
+		{
+			"name": "Ki No Bi",
+			"type": "Kyoto Dry Gin",
+			"origin": "Japan",
+			"vol": "45,7%",
+			"taste": {
+				"juniper": -1,
+				"citrus": -1,
+				"fruit": -1,
+				"floral": -1,
+				"herbal": -1,
+				"spice": -1
+			},
+			"price": "12,50\u20ac",
+			"detail": {
+				"title": "Ki No Bi",
+				"blocks": [
+					{
+						"type": "text",
+						"content": "Ki no Bi (Die Sch\u00f6nheiten der Jahreszeiten \u2013 und kein Jedimeister!) wurde destilliert, geblendet und in Kyoto abgef\u00fcllt, mit trockener Stilistik und einem japanischen Akzent. Als Basis dient ein Destillat aus gebranntem Reis, die Zutaten wie gelber Yuzu, Hinoki-Holz Sp\u00e4ne, gr\u00fcner Sansho Pfeffer, Bambusbl\u00e4tter und Gyokuro Tee stammen alle aus der umliegenden Region. Die Botanicals werden in jeweils 6 Aromagruppen eingeteilt und getrennt von den anderen Aromagruppen destilliert. Basen, Citrus, Tee, Kraut, W\u00fcrze, Bl\u00fcten. Erst dann, unter Zugabe des ber\u00fchmten Fushimi Wassers, folgt die Vereinigung zum Ki No Bi mit prachtvollen 45,7% vol. Unter dem Meisterdistiller Alex Davies, wurde die Sch\u00f6nheit aus Kyoto zu einem filigranen Meisterst\u00fcck mit bet\u00f6renden Bl\u00fctennoten und delikater W\u00fcrze gebrannt und geblendet."
+					}
+				]
+			}
+		},
+		{
+			"name": "Kin No Bi",
+			"type": "Kyoto Dry Gin",
+			"origin": "Japan",
+			"vol": "45,7%",
+			"taste": {
+				"juniper": -1,
+				"citrus": -1,
+				"fruit": -1,
+				"floral": -1,
+				"herbal": -1,
+				"spice": -1
+			},
+			"price": "17,50\u20ac",
+			"detail": {
+				"title": "Kin No Bi",
+				"blocks": [
+					{
+						"type": "text",
+						"content": "Der Kin No Bi Kyoto Dry Gin Gold Leaf ist eine Sonderauflage der Kyoto Destillerie. Das Ziel hinter der Kreation dieses Gins ist es, Sie mit einer Mischung aus Tradition und Innovation bekannt zu machen. In Japan gibt es eine Tradition, Sake zu besonderen Anl\u00e4ssen mit Blattgold zu versehen. Dieser Tradition wurde nun eine innovative Wendung gegeben, indem man diesem Gin das essbare Blattgold hinzuf\u00fcgt. Ideal f\u00fcr alle, die in besonderen Momenten gerne mit einem guten Gin & Tonic ansto\u00dfen."
+					}
+				]
+			}
+		},
+		{
+			"name": "Dictador Treasure Colombian",
+			"type": "Gin",
+			"origin": "Kolumbien",
+			"vol": "43%",
+			"taste": {
+				"juniper": -1,
+				"citrus": -1,
+				"fruit": -1,
+				"floral": -1,
+				"herbal": -1,
+				"spice": -1
+			},
+			"price": "8,90\u20ac",
+			"detail": {
+				"title": "Dictador Treasure Colombian",
+				"blocks": [
+					{
+						"type": "text",
+						"content": "Dictador Treasure ist ein einzigartiger Gin aus Kolumbien. Hergestellt wird er aus Beeren, Pflanzen, Gew\u00fcrze, Zitrusschalen und der Limon Mandarino, einer kolumbianischen Frucht. Die Limon Madarino pr\u00e4gt den Dictador Treasure durch einen exotischen Charackter. Hinzu kommt, dass der Treasure nach der Destillation \u00fcber 6 Monate in ehemaligen Dictador Rumf\u00e4ssern lagert. Durch seinen weichen und einzigartigen Geschmack kommt Dictador Treasure am besten pur oder on the rocks zur Geltung."
+					},
+					{
+						"type": "text",
+						"content": "<b>Herkunft:</b> Kolumbien<br><b>Farbe:</b> Helles Bernstein<br><b>Duft:</b> Aromen von Mandarine mit Zitrone, Minze, Pfeffer und ein wenig S\u00fc\u00dfe aus dem Holz und dazu Beeren und etwas Mandarine<br><b>Geschmack:</b> Rund und sehr weich, Mandarine, danach Zitrone, Minze und Pfeffer, aber auch traditionelle Gin-Noten<br><b>Abgang:</b> Geschmeidig und frisch"
+					}
+				]
+			}
+		},
+		{
+			"name": "Dictador Ortodoxy Colombian",
+			"type": "Gin",
+			"origin": "Kolumbien",
+			"vol": "43%",
+			"taste": {
+				"juniper": -1,
+				"citrus": -1,
+				"fruit": -1,
+				"floral": -1,
+				"herbal": -1,
+				"spice": -1
+			},
+			"price": "7,90\u20ac",
+			"detail": {
+				"title": "Dictador Ortodoxy Colombian",
+				"blocks": [
+					{
+						"type": "text",
+						"content": "Dictador Ortodoxy ist ein sehr aromatischer Dry Gin aus Kolumbien. Hergestellt wird er aus unz\u00e4hligen Gew\u00fcrzen, Botanicals, Wurzeln und Beeren. Dictador ist urspr\u00fcnglich ein Hersteller von ausschlie\u00dflich Premium Rum. Die Liebe des ehemaligen Dictador Pr\u00e4sidenten Dario Parra zu Gin ist nun der Grund, dass der kolumbiansche Rum-Produzent auch edlen Gin destilliert. Die Besonderheit des Ortodoxy, dass der Gin nach seiner Destillation in Refill-Rumf\u00e4ssern reift, um ein besonderes Geschmacksbild zu bekommen. Der Ortodoxy eignet sich besonders f\u00fcr einen leckere Gin Tonic."
+					},
+					{
+						"type": "text",
+						"content": "<b>Herkunft:</b> Kolumbien<br><b>Farbe:</b> Klar<br><b>Duft:</b> Sch\u00f6ne Wacholdernoten mit Engelwurz, Ingwer, Minze und Zitrone<br><b>Geschmack:</b> Vorrangig Wacholderbeeren mit Pfefferminze und Zimt, leicht pfeffrig und angenehm s\u00fc\u00dflich<br><b>Abgang:</b> Rund und weich, leicht herb-s\u00fc\u00dflich"
+					}
+				]
+			}
+		},
+		{
+			"name": "Hendrick's",
+			"type": "Gin",
+			"origin": "Schottland",
+			"vol": "44%",
+			"taste": {
+				"juniper": 4,
+				"citrus": 6,
+				"fruit": 4,
+				"floral": 8,
+				"herbal": 4,
+				"spice": 6
+			},
+			"price": "6,40\u20ac",
+			"detail": {
+				"title": "Hendrick's",
+				"blocks": [
+					{
+						"type": "text",
+						"content": "Hendrick\u2019s selbst bezeichnen ihren Gin als 'made oddly', was nicht nur auf einen au\u00dfergew\u00f6hnlichen Geschmack sondern auch auf eine exzentrische Herstellungsweise hindeutet. Small Batch ist bei letzterem die Devise, sodass lediglich geringe Mengen produziert werden, um sowohl satte Aromen als auch abgerundeten Geschmack gew\u00e4hrleisten zu k\u00f6nnen. Dies kommt durch eine Verbindung aus Bennet- wie Carter-Head-Still Verfahren zustande. Von der liebevollen und sorgsamen Destillation abgesehen, ist es vor allem die bemerkenswerte Zugabe von Bulgarischen Damaszener Rosen sowie herb-erfrischenden Gurken, die gemeinsam blumige Frische und einen unvergleichlichen Geschmack mitbringen. Vielleicht bemerkt er Spuren von Koriander, Zitrone und den anderen sorgf\u00e4ltig ausgew\u00e4hlten Botanicals, die aus aller Welt stammen und in einzigartiger Mischung zueinander gebracht wurden."
+					}
+				]
+			}
+		},
+		{
+			"name": "One Key",
+			"type": "Gin",
+			"origin": "Slowenien",
+			"vol": "40%",
+			"taste": {
+				"juniper": -1,
+				"citrus": -1,
+				"fruit": -1,
+				"floral": -1,
+				"herbal": -1,
+				"spice": -1
+			},
+			"price": "7,90\u20ac",
+			"detail": {
+				"title": "One Key",
+				"blocks": [
+					{
+						"type": "text",
+						"content": "Der Gin von One Key wird in Slowenien unter der Lizenz der Abnormal Group aus Singapur hergestellt. Abgef\u00fcllt wird die Spirituose in einer einzigartigen Flasche, die nur mit dem dazu passenden Schl\u00fcssel (im Flaschenboden integriert) ge\u00f6ffnet werden kann. Der Inhalt ist gepr\u00e4gt von altbekannten Zutaten wie Getreide und Wacholder, dazu wird er durch exotische Gew\u00fcrze wie Ingwer und Koriander abgerundet. Insgesamt ein edler und exquisiter Gin."
+					},
+					{
+						"type": "text",
+						"content": "<b>Nase:</b> Duftet nach Wacholderbeeren und Koriander.<br><b>Gaumen:</b> W\u00fcrzig-fruchtig, Aromen von Ingwer, Kardamom und Zitrusfr\u00fcchten.<br><b>Finish:</b> Langer intensiver Abgang."
+					}
+				]
+			}
+		},
+		{
+			"name": "Rutte Celery Gin",
+			"type": "Gin",
+			"origin": "Niederlande",
+			"vol": "43%",
+			"taste": {
+				"juniper": -1,
+				"citrus": -1,
+				"fruit": -1,
+				"floral": -1,
+				"herbal": -1,
+				"spice": -1
+			},
+			"price": "8,10\u20ac",
+			"detail": {
+				"title": "Rutte Celery Gin",
+				"blocks": [
+					{
+						"type": "text",
+						"content": "Obwohl die Destillerie Rutte seit 1872 im Gesch\u00e4ft ist, verzeichnete sie wenig Wachstum. Tats\u00e4chlich ist sie heute die kleinste Brennerei in ganz Holland, doch das ist den Betreibern auch ganz recht so: Sie m\u00f6chten weiterhin hohe Qualit\u00e4t und einen Hauch 'Intimit\u00e4t' offerieren. Das Team rund um Brennmeisterin Myriam Hendrickx macht sich sogar die M\u00fche, jede Flasche einzeln mit dem Abf\u00fclljahr und der Batchnummer zu beschriften. Das ehemalige Wohnzimmer des familieneigenen Betriebs wurde zwar mittlerweile zu einer Verkostungsbar umgewandelt und die Brennblase ist ein wahres Hightech-Ger\u00e4t, doch ansonsten hat sich nur wenig ge\u00e4ndert. Die Destillerie Rutte hat drei Gins im Angebot, darunter den Celery Gin mit den \u00fcblichen Verd\u00e4chtigen Wacholder, Angelikawurzel, Orangenschalen, Kardamom und Koriander. Die etwas aussergew\u00f6hnliche Zutat ist der pikante Sellerie, den man auch klar herausschmeckt."
+					}
+				]
+			}
+		},
+		{
+			"name": "Brooklyn",
+			"type": "Gin",
+			"origin": "Brooklyn - USA",
+			"vol": "40%",
+			"taste": {
+				"juniper": -1,
+				"citrus": -1,
+				"fruit": -1,
+				"floral": -1,
+				"herbal": -1,
+				"spice": -1
+			},
+			"price": "9,20\u20ac",
+			"detail": {
+				"title": "Brooklyn",
+				"blocks": [
+					{
+						"type": "text",
+						"content": "Der mit sechs Gold-Awards pr\u00e4mierte Brooklyn Gin kommt nicht \u2013 wie der Name vermuten l\u00e4sst \u2013 aus Brooklyn, sondern aus Warwick, einer Kleinstadt am Rande des Bundestaats New York. Das Gr\u00fcnderteam des kleinen, 2010 ins Leben gerufenen Unternehmens konnte sich aus finanziellen Gr\u00fcnden keine eigene Destillerie leisten und wich deshalb auf die 'Warwick Valley Winery & Distillery' aus. Dort durften sie fortan ihren zu 100% handcrafted Gin herstellen, w\u00e4hrend sie bis heute an ihrem Traum einer eigenen Brennerei in Brooklyn festhalten. Der 40%-ige Gin besteht aus frischen, von Hand gesch\u00e4lten Zitrusschalen und von Hand gewonnenem Wacholder\u00f6l. Die Hingabe von Emil J\u00e4ttne und Joa Santos soll man im Geschmack sp\u00fcren. Immerhin konzentrieren sich die beiden voll und ganz auf ihren Gin und haben keine weiteren Getr\u00e4nke im Angebot."
+					}
+				]
+			}
+		},
+		{
+			"name": "Deux Fr\u00e8res",
+			"type": "Dry Gin",
+			"origin": "\u00d6sterreich",
+			"vol": "43%",
+			"taste": {
+				"juniper": -1,
+				"citrus": -1,
+				"fruit": -1,
+				"floral": -1,
+				"herbal": -1,
+				"spice": -1
+			},
+			"price": "8,90\u20ac",
+			"detail": {
+				"title": "Deux Fr\u00e8res",
+				"blocks": [
+					{
+						"type": "text",
+						"content": "Der Deux Fr\u00e8res Gin ist ein qualitativ hochwertiger Dry Gin mit einer klaren Wacholdernote. Blumig, frisch in der Nase, entfaltet er sein weiches und harmonisches Aroma im Gaumen. Hierbei zeichnen ihn eine feine W\u00fcrze und ausgewogene Aromakomplexit\u00e4t aus. Der Abgang ist lange und anhaltend."
+					}
+				]
+			}
+		}
+	]
+}
