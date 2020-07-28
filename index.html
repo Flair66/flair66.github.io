@@ -192,12 +192,19 @@
 						.replaceAll(/[^a-z0-9]/g, "");
 			}
 
-			function add_to_search_index(id, entry) {
+			function add_to_search_index(id, entry, parent) {
 				let key = normalize_token(id);
 				if (!search_index[key]) {
 					search_index[key] = [ id ];
 				} else {
 					search_index[key].push(id);
+				}
+
+				let pkey = normalize_token(parent);
+				if (!search_index[pkey]) {
+					search_index[pkey] = [ id ];
+				} else {
+					search_index[pkey].push(id);
 				}
 
 				if (entry["searchterms"]) {
@@ -231,10 +238,10 @@
 				}
 			}
 
-			function create_entrys(entries, container) {
+			function create_entrys(entries, container, search_parent) {
 				entries.forEach(element => {
 					let id = normalize_token(element.name);
-					add_to_search_index(element.name, element);
+					add_to_search_index(element.name, element, search_parent);
 
 					let detail_id = 0;
 					if (element.detail) {
@@ -338,7 +345,7 @@
 
 				let container = document.getElementById('ul-' + block.id);
 				if (block.entries) {
-					create_entrys(block.entries, container);
+					create_entrys(block.entries, container, block.name);
 				}
 				if (block.blocks) {
 					block.blocks.forEach(subblock => {
@@ -350,7 +357,7 @@
 							</li>
 							<div id="collapse-${subblock.id}" class="list-group-flush d-none" aria-labelledby="label-${subblock.id}"></div>
 						`);
-						create_entrys(subblock.entries, document.getElementById('collapse-' + subblock.id));
+						create_entrys(subblock.entries, document.getElementById('collapse-' + subblock.id), subblock.name);
 					})
 				}
 			}
