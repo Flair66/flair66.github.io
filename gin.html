@@ -56,6 +56,8 @@
 		<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
 		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
 		<script>
+			var open_detail = null;
+
 			const STAR = [
 				`<svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-star" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
 					<path fill-rule="evenodd" d="M2.866 14.85c-.078.444.36.791.746.593l4.39-2.256 4.389 2.256c.386.198.824-.149.746-.592l-.83-4.73 3.523-3.356c.329-.314.158-.888-.283-.95l-4.898-.696L8.465.792a.513.513 0 0 0-.927 0L5.354 5.12l-4.898.696c-.441.062-.612.636-.283.95l3.523 3.356-.83 4.73zm4.905-2.767l-3.686 1.894.694-3.957a.565.565 0 0 0-.163-.505L1.71 6.745l4.052-.576a.525.525 0 0 0 .393-.288l1.847-3.658 1.846 3.658a.525.525 0 0 0 .393.288l4.052.575-2.906 2.77a.564.564 0 0 0-.163.506l.694 3.957-3.686-1.894a.503.503 0 0 0-.461 0z"/>
@@ -91,14 +93,15 @@
 				}
 			}
 
-			function addElement(element) {
+			function addElement(id, element) {
 				document.getElementById('data').insertAdjacentHTML('beforeend', `
-					<tr>
+					<tr onclick="toggleDetail(${id})">
 						<td>
-							<svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-info-circle text-dark" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
-								<path fill-rule="evenodd" d="M8 15A7 7 0 1 0 8 1a7 7 0 0 0 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"></path>
-								<path d="M8.93 6.588l-2.29.287-.082.38.45.083c.294.07.352.176.288.469l-.738 3.468c-.194.897.105 1.319.808 1.319.545 0 1.178-.252 1.465-.598l.088-.416c-.2.176-.492.246-.686.246-.275 0-.375-.193-.304-.533L8.93 6.588z"></path>
-								<circle cx="8" cy="4.5" r="1"></circle>
+							<svg id="svg-close-${id}" width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-chevron-right text-body" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+								<path fill-rule="evenodd" d="M4.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L10.293 8 4.646 2.354a.5.5 0 0 1 0-.708z"/>
+							</svg>
+							<svg id="svg-open-${id}" width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-chevron-down text-body d-none" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+								<path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/>
 							</svg>
 						</td>
 						<td>${element.name}</td>
@@ -113,7 +116,48 @@
 						<td style="text-align: center">${getStarsHTML(element.taste.spice)}</td>
 						<td style="text-align: right">${element.price}</td>
 					</tr>
+					<tr id="detail-${id}" class="collapse">
+						<td colspan="12">
+							<div class="row p-2" style="max-width: 100vw;">
+								<div class="col-md-7" style="white-space: normal;">
+									<h5>Detail:</h5>
+									${element.detail.blocks ? element.detail.blocks.map(element => {
+										if (element.type === 'text') {
+											return `<p class="mb-2">${element.content}</p>`;
+										} else if (element.type === 'image') {
+											return `<img class="mb-2" width="100%" src="./data/${element.content}">`;
+										}
+									}).join('') : ''}
+								</div>
+								<div class="col-md-5">
+									<h5>Botanicals:</h5>
+									<ul class="list-group list-group-flush">
+										${element.botanicals ? '<li class="list-group-item py-1">' + element.botanicals.sort().join('</li><li class="list-group-item py-1">') + '</li>' : '<li class="list-group-item list-group-item-light py-1">Leider nicht verfügbar.</li>'}
+									</ul>
+								</div>
+							</div>
+						</td>
+					</tr>
 				`);
+			}
+
+			function toggleDetail(id) {
+				if (open_detail == id) {
+					document.getElementById('detail-' + id).classList.remove('show');
+					document.getElementById('svg-close-' + id).classList.remove('d-none');
+					document.getElementById('svg-open-' + id).classList.add('d-none');
+					open_detail = null;
+				} else {
+					if (open_detail != null) {
+						document.getElementById('detail-' + open_detail).classList.remove('show');
+						document.getElementById('svg-close-' + open_detail).classList.remove('d-none');
+						document.getElementById('svg-open-' + open_detail).classList.add('d-none');
+					}
+					document.getElementById('detail-' + id).classList.add('show');
+					document.getElementById('svg-close-' + id).classList.add('d-none');
+					document.getElementById('svg-open-' + id).classList.remove('d-none');
+					open_detail = id;
+				}
 			}
 
 			async function run() {
@@ -130,8 +174,8 @@
 					} else {
 						return 0;
 					}
-				}).forEach(element => {
-					addElement(element);
+				}).forEach((element, index) => {
+					addElement(index, element);
 				});
 			}
 			run();

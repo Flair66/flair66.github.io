@@ -24,14 +24,54 @@
 					},
 					{
 						"type": "text",
-						"content": "<b>Botanicals:</b> Wacholder, Fichtensprosse, Robinienbl\u00fcten, Hagebuttenschalen, Kubeben-Pfeffer, Cassia-Rinde, Koriander, Paradiesk\u00f6rner, Bisamk\u00f6rner, Piment, Kardamom, Gew\u00fcrznelken, Muskat, Mandel, Ingwer, Ceylon-Zimt, S\u00fc\u00dfholz, Kalmuswurzel, Lavendel, Bl\u00fcten von Wildem Gei\u00dfblatt, die Bl\u00fcten der Goldmelisse, Veilchenwurzel, Jasmin (Bl\u00fcte), Bitterorange, Zitronenmelisse, Samen der Arznei-Engelwurz (\u201eAngelika\u201c), Zitronenschale, Zitronengras, Kaffernlimette, Zitronenverbene, Pomelo, Echter Eibisch, Schlehen, Holunderbl\u00fcten, Hunds-Rose, Hecken-Rose, Brombeerbl\u00e4tter, Kamille, Salbei, Eisenkraut, Wei\u00dfdornbeeren, Preiselbeere"
-					},
-					{
-						"type": "text",
 						"content": "Bekri empfiehlt dazu den <b>Thomas Henry</b> oder <b>1724</b> Tonic."
 					}
 				]
-			}
+			},
+			"botanicals": [
+				"Wacholder",
+				"Fichtensprosse",
+				"Robinienbl\u00fcten",
+				"Hagebuttenschalen",
+				"Kubeben-Pfeffer",
+				"Cassia-Rinde",
+				"Koriander",
+				"Paradiesk\u00f6rner",
+				"Bisamk\u00f6rner",
+				"Piment",
+				"Kardamom",
+				"Gew\u00fcrznelken",
+				"Muskat",
+				"Mandel",
+				"Ingwer",
+				"Ceylon-Zimt",
+				"S\u00fc\u00dfholz",
+				"Kalmuswurzel",
+				"Lavendel",
+				"Bl\u00fcten von Wildem Gei\u00dfblatt",
+				"Bl\u00fcten der Goldmelisse",
+				"Veilchenwurzel",
+				"Jasmin (Bl\u00fcte)",
+				"Bitterorange",
+				"Zitronenmelisse",
+				"Samen der Arznei-Engelwurz (\u201eAngelika\u201c)",
+				"Zitronenschale",
+				"Zitronengras",
+				"Kaffernlimette",
+				"Zitronenverbene",
+				"Pomelo",
+				"Echter Eibisch",
+				"Schlehen",
+				"Holunderbl\u00fcten",
+				"Hunds-Rose",
+				"Hecken-Rose",
+				"Brombeerbl\u00e4tter",
+				"Kamille",
+				"Salbei",
+				"Eisenkraut",
+				"Wei\u00dfdornbeeren",
+				"Preiselbeere"
+			]
 		},
 		{
 			"name": "Windspiel",
@@ -946,14 +986,21 @@
 					},
 					{
 						"type": "text",
-						"content": "<b>Botanicals:</b> Blaubeeren, Brombeeren, Iriswurzel, S\u00fc\u00dfholz, bulgarischen Koriander, Wacholder, Orangenschalen von Valenciaorangen, Kassiarinde, Angelikawurzel"
-					},
-					{
-						"type": "text",
 						"content": "Bekri empfiehlt dazu den <b>Fever-Tree Elderflower</b> oder <b>Fever-Tree Mediterranean</b> Tonic, f\u00fcr ein besonderes Geschmackserlebnis mit Kirschbl\u00fcten empiehlt Bekri den <b>Thomas Henry Cherry Blossom</b>"
 					}
 				]
-			}
+			},
+			"botanicals": [
+				"Blaubeeren",
+				"Brombeeren",
+				"Iriswurzel",
+				"S\u00fc\u00dfholz",
+				"bulgarischer Koriander",
+				"Wacholder",
+				"Orangenschalen von Valenciaorangen",
+				"Kassiarinde",
+				"Angelikawurzel"
+			]
 		},
 		{
 			"name": "Gin Mare",
