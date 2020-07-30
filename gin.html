@@ -14,10 +14,10 @@
 			}
 			table.table>tbody>tr>td {
 				white-space: nowrap;
-				padding-left: .5rem;
-				padding-right: .5rem;
+				padding-left: .25rem;
+				padding-right: .25rem;
 			}
-			td>svg {
+			td.star>svg {
 				color: rgb(231, 196, 0);
 			}
 		</style>
@@ -31,21 +31,11 @@
 			<table class="table table-sm table-hover bg-white border border-lg">
 				<thead>
 					<tr>
-						<th rowspan="2" scope="col"></th>
-						<th rowspan="2" scope="col" style="width: 50%;">Name</th>
-						<th rowspan="2" scope="col">Art</th>
-						<th rowspan="2" scope="col">Herkunft</th>
-						<th rowspan="2" scope="col">VOL</th>
-						<th colspan="6" scope="colgroup">Geschmack</th>
-						<th rowspan="2" scope="col">Preis</th>
-					</tr>
-					<tr>
-						<th scope="col">Wacholder</th>
-						<th scope="col">Citrus</th>
-						<th scope="col">Fruchtig</th>
-						<th scope="col">Blumig</th>
-						<th scope="col">Kräuter</th>
-						<th scope="col">Scharf</th>
+						<th scope="col"></th>
+						<th scope="col" style="width: 50%;">Name</th>
+						<th scope="col">Art</th>
+						<th scope="col">VOL</th>
+						<th scope="col">Preis</th>
 					</tr>
 				</thead>
 				<tbody id="data"></tbody>
@@ -106,19 +96,74 @@
 						</td>
 						<td>${element.name}</td>
 						<td>${element.type}</td>
-						<td>${element.origin}</td>
 						<td style="text-align: right">${element.vol}</td>
-						<td style="text-align: center">${getStarsHTML(element.taste.juniper)}</td>
-						<td style="text-align: center">${getStarsHTML(element.taste.citrus)}</td>
-						<td style="text-align: center">${getStarsHTML(element.taste.fruit)}</td>
-						<td style="text-align: center">${getStarsHTML(element.taste.floral)}</td>
-						<td style="text-align: center">${getStarsHTML(element.taste.herbal)}</td>
-						<td style="text-align: center">${getStarsHTML(element.taste.spice)}</td>
 						<td style="text-align: right">${element.price}</td>
 					</tr>
 					<tr id="detail-${id}" class="collapse">
 						<td colspan="12">
-							<div class="row p-2" style="max-width: 100vw;">
+							<div class="row p-2">
+								<div class="col-12 d-none d-md-block">
+									<table class="table table-sm">
+										<thead>
+											<tr>
+												<th colspan="6" scope="colgroup">Geschmack</th>
+											</tr>
+											<tr>
+												<th scope="col">Wacholder</th>
+												<th scope="col">Citrus</th>
+												<th scope="col">Fruchtig</th>
+												<th scope="col">Blumig</th>
+												<th scope="col">Kräuter</th>
+												<th scope="col">Scharf</th>
+											</tr>
+										</thead>
+										<tbody>
+											<tr>
+												<td class="star" style="text-align: center">${getStarsHTML(element.taste.juniper)}</td>
+												<td class="star" style="text-align: center">${getStarsHTML(element.taste.citrus)}</td>
+												<td class="star" style="text-align: center">${getStarsHTML(element.taste.fruit)}</td>
+												<td class="star" style="text-align: center">${getStarsHTML(element.taste.floral)}</td>
+												<td class="star" style="text-align: center">${getStarsHTML(element.taste.herbal)}</td>
+												<td class="star" style="text-align: center">${getStarsHTML(element.taste.spice)}</td>
+											</tr>
+										</tbody>
+									</table>
+								</div>
+								<div class="col-12 d-md-none">
+									<table class="table table-sm">
+										<thead>
+											<tr>
+												<th colspan="2" scope="colgroup">Geschmack</th>
+											</tr>
+										</thead>
+										<tbody>
+											<tr>
+												<th scope="row">Wacholder</th>
+												<td class="star" style="text-align: center">${getStarsHTML(element.taste.juniper)}</td>
+											</tr>
+											<tr>
+												<th scope="row">Citrus</th>
+												<td class="star" style="text-align: center">${getStarsHTML(element.taste.citrus)}</td>
+											</tr>
+											<tr>
+												<th scope="row">Fruchtig</th>
+												<td class="star" style="text-align: center">${getStarsHTML(element.taste.fruit)}</td>
+											</tr>
+											<tr>
+												<th scope="row">Blumig</th>
+												<td class="star" style="text-align: center">${getStarsHTML(element.taste.floral)}</td>
+											</tr>
+											<tr>
+												<th scope="row">Kräuter</th>
+												<td class="star" style="text-align: center">${getStarsHTML(element.taste.herbal)}</td>
+											</tr>
+											<tr>
+												<th scope="row">Scharf</th>
+												<td class="star" style="text-align: center">${getStarsHTML(element.taste.spice)}</td>
+											</tr>
+										</tbody>
+									</table>
+								</div>
 								<div class="col-md-7" style="white-space: normal;">
 									<h5>Detail:</h5>
 									${element.detail.blocks ? element.detail.blocks.map(element => {
@@ -130,6 +175,10 @@
 									}).join('') : ''}
 								</div>
 								<div class="col-md-5">
+									<h5>Herkunft:</h5>
+									<p>
+										${element.origin}
+									</p>
 									<h5>Botanicals:</h5>
 									<ul class="list-group list-group-flush">
 										${element.botanicals ? '<li class="list-group-item py-1">' + element.botanicals.sort().join('</li><li class="list-group-item py-1">') + '</li>' : '<li class="list-group-item list-group-item-light py-1">Leider nicht verfügbar.</li>'}
