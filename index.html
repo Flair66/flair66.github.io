@@ -193,28 +193,27 @@
 			}
 
 			function add_to_search_index(id, entry, parent) {
-				let key = normalize_token(id);
-				if (!search_index[key]) {
-					search_index[key] = [ id ];
-				} else {
-					search_index[key].push(id);
+				function normalize_and_add_to_index(key) {
+					let _key = normalize_token(key);
+					if (!search_index[_key]) {
+						search_index[_key] = [ id ];
+					} else {
+						search_index[_key].push(id);
+					}
 				}
 
-				let pkey = normalize_token(parent);
-				if (!search_index[pkey]) {
-					search_index[pkey] = [ id ];
-				} else {
-					search_index[pkey].push(id);
-				}
+				normalize_and_add_to_index(id);
+				normalize_and_add_to_index(parent);
 
 				if (entry["searchterms"]) {
 					entry["searchterms"].forEach(element => {
-						let term = normalize_token(element);
-						if (!search_index[term]) {
-							search_index[term] = [ id ];
-						} else {
-							search_index[term].push(id);
-						}
+						normalize_and_add_to_index(element);
+					});
+				}
+
+				if (entry["badges"]) {
+					entry["badges"].forEach(element => {
+						normalize_and_add_to_index(element.name);
 					});
 				}
 
@@ -247,6 +246,22 @@
 					if (element.detail) {
 						detail_id = detail_modal_data.length;
 						detail_modal_data.push(element.detail);
+					}
+
+
+					function get_badge_html() {
+						if (!element.badges) return '';
+
+						badge_html = '<br>';
+						element.badges.forEach(badge => {
+							badge_html += `
+								<span class="badge badge-pill badge-${badge.type}">
+									${badge.name}
+								</span>
+							`;
+						});
+
+						return badge_html;
 					}
 
 					if (element.sizes) {
@@ -291,13 +306,14 @@
 					} else {
 						container.insertAdjacentHTML('beforeend', `
 							<li id="${id}" class="list-group-item d-flex justify-content-between align-items-center px-1" ${element.detail ? 'onclick="run_detail_modal(' + detail_id + ')"' : ''}>
-								<div class="d-flex">
-									${element.glass ? '<img src="glassware/' + element.glass + '.svg" height="30px" class="mr-2"/>' : ''}
+								<div class="d-flex" style="align-items: center;">
+									${element.glass ? '<img src="glassware/' + element.glass + '.svg" height="30px" class="mr-2" style="margin-top: -10px"/>' : ''}
 									<h5 class="m-0 pr-3">
 										${element.name}
 										<small class="text-muted">${element.size ? element.size : ''}</small>
 										<br>
 										<small class="text-muted">${element.ingredients ? element.ingredients : ''}</small>
+										${get_badge_html()}
 									</h5>
 								</div>
 								<div class="d-flex align-items-center">
