@@ -7,7 +7,13 @@
 				"name": "Vodka Tonic",
 				"glass": 5,
 				"ingredients": "Smirnoff Vodka, Schweppes Tonic",
-				"price": "6,10€"
+				"price": "6,10€",
+				"badges": [
+					{
+						"type": "danger",
+						"name": "Neu!"
+					}
+				]
 			},
 			{
 				"name": "Screwdriver",
