@@ -1749,6 +1749,26 @@
 								}
 							]
 						}
+					},
+					{
+						"name": "Ungava",
+						"glass": 9,
+						"size": "5cl",
+						"ingredients": "Premium Gin - Kanada - 43,1% VOL",
+						"price": "8,90€",
+						"detail": {
+							"title": "Ungava",
+							"blocks": [
+								{
+									"type": "text",
+									"content": "Der Ungava Premium Canadian Gin bringt ein neues Land für die Gin-Herstellung ins Gespräch: Kanada. Genauer gesagt kommt dieser Gin aus dem Norden Kanadas: Ungava, das zum Staat Quebec gehört. Der Namen der Region und des Gins kommt aus dem alten Inuit und bedeutet „towards the open water“. Auch die verwendeten Botanicals im Ungava Canadian Premium Gin kommen aus der arktischen Region, wo die Tuntra auf die ersten Eislandschaften trifft. Bei 9 Monaten Schnee im Jahr machen die Botanicals natürlich neugierig."
+								},
+								{
+									"type": "text",
+									"content": "<b>Botanicals:</b> Wachholder, Rosenfrüchte, Molebeere, Krähenbeere, Porst"
+								}
+							]
+						}
 					}
 				]
 			},
