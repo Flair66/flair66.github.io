@@ -1171,6 +1171,13 @@
 								}
 							]
 						}
+					},
+					{
+						"name": "ish limao Brazilian Edition",
+						"glass": 9,
+						"size": "5cl",
+						"ingredients": "Großbritannien - 40% VOL",
+						"price": "8,90€"
 					}
 				]
 			},
@@ -1344,6 +1351,22 @@
 								{
 									"type": "text",
 								"content": "Der Del Professore Monsieur Gin ist ein Teil des Jerry Thomas Projekts. Er zeichnet sich durch sein klassisches Gin Profil aus Wacholder- und Zitrusnoten aus. Der Gin steht für die Rückbesinnung auf alte Gin Produktionsmethoden, wie der 'Bathtub Gin'. Dies geschieht nun aber im Gegensatz zur Vergangenheit mit aller höchster Qualität und den besten Zutanten. Dies wiederholt die selben Standards und Qualitätsansprüche die das Jerry Thomas Projekt bei seinem Vermut angelegt hat."
+								}
+							]
+						}
+					},
+					{
+						"name": "Malfy Originale",
+						"glass": 9,
+						"size": "5cl",
+						"ingredients": "Italien - 41% VOL",
+						"price": "7,90€",
+						"detail": {
+							"title": "Malfy Originale",
+							"blocks": [
+								{
+									"type": "text",
+									"content": ""
 								}
 							]
 						}
@@ -1769,6 +1792,13 @@
 								}
 							]
 						}
+					},
+					{
+						"name": "Bluecoat",
+						"glass": 9,
+						"size": "5cl",
+						"ingredients": "American Dry Gin - Philadelphia - Pennsylvania U.S.A. - 47% VOL",
+						"price": "8,90€"
 					}
 				]
 			},
@@ -2019,6 +2049,18 @@
 				"ingredients": "Jack Daniel's Whisky, Sour Mix",
 				"hh": "4,60€",
 				"price": "6,30€"
+			},
+			{
+				"name": "Whiskey Sour (Original)",
+				"glass": 1,
+				"ingredients": "Jack Daniel's Whisky, Zuckersirup, frisch gepresster Zitronensaft, frisches Eiweiß",
+				"price": "8,90€"
+			},
+			{
+				"name": "Whiskey Sour (Original)",
+				"glass": 1,
+				"ingredients": "Bulleit Rye Whisky, Zuckersirup, frisch gepresster Zitronensaft, frisches Eiweiß",
+				"price": "9,90€"
 			},
 			{
 				"name": "Scarlett O'Hara",
