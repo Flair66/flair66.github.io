@@ -13,7 +13,7 @@
 				"name": "Screwdriver",
 				"glass": 5,
 				"ingredients": "Smirnoff Vodka, Orangensaft",
-				"hh": "4,50€",
+				"hh": "5,50€",
 				"price": "7,10€"
 			},
 			{
@@ -26,7 +26,7 @@
 				"name": "Vodka Sour",
 				"glass": 1,
 				"ingredients": "Smirnoff Vodka, Sour Mix",
-				"hh": "4,60€",
+				"hh": "5,60€",
 				"price": "7,30€"
 			},
 			{
@@ -51,7 +51,7 @@
 				"name": "Caipiroka",
 				"glass": 1,
 				"ingredients": "Limetten, brauner Rohrzucker, Mangopüree, Smirnoff Vodka",
-				"hh": "5,20€",
+				"hh": "6,20€",
 				"price": "8,10€"
 			},
 			{
