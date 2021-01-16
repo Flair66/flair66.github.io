@@ -177,7 +177,8 @@
 								<div class="col-md-5">
 									<h5>Herkunft:</h5>
 									<p class="p-3">
-										${element.origin}
+										${(element.origin.city ? element.origin.city + ' - ' : '')
+												+ element.origin.country}
 									</p>
 									<h5>Botanicals:</h5>
 									<ul class="list-group list-group-flush">
