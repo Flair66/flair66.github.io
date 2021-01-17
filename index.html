@@ -495,6 +495,13 @@
 				data.blocks.forEach(block => {
 					create_block(block);
 				});
+
+				document.getElementsByTagName('main')[0].insertAdjacentHTML('beforeend', `
+					<div class="alert alert-warning text-center" role="alert">
+						<strong>Lieblings-Cocktail nicht dabei?</strong>
+						Zögern Sie bitte nicht uns darauf anzusprechen wenn Sie ihre Bestellung aufgeben.
+					</div>
+				`);
 			}
 			run();
 		</script>
