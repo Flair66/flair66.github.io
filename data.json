@@ -11,40 +11,19 @@
 			"name": "Bottle Cocktails (Ohne Alkohol)",
 			"entries": [
 				{
-					"name": "Crasy Beach",
+					"name": "Crazy Beach",
 					"ingredients": "Ananassaft, Orangensaft, Kokossirup, Erdbeerpüree",
-					"price": "13,60€"
+					"price": "6,80€"
 				},
 				{
 					"name": "Tropical Breeze",
 					"ingredients": "Maracujasaft, Ananassaft, Orangensaft, Erdbeerpüree",
-					"price": "13,60€"
+					"price": "6,80€"
 				},
 				{
 					"name": "Virgin Colada",
 					"ingredients": "Ananassaft, Kokossirup, Sahne",
-					"price": "14,00€"
-				}
-			]
-		},
-		{
-			"id": "bottleaperitif",
-			"name": "Bottle Aperitif",
-			"entries": [
-				{
-					"name": "Aperol Spritz",
-					"ingredients": "Prosecco, Aperol, Soda",
-					"price": "11,40€"
-				},
-				{
-					"name": "Ramazzotti Rosato Duo",
-					"ingredients": "Ramazzotti Aperitivo Rosato, Schweppes Tonic, Limetten",
-					"price": "11,80€"
-				},
-				{
-					"name": "Lillet Vive",
-					"ingredients": "Lillet Blanc, Schweppes Tonic, Gurkenscheibe",
-					"price": "11,80€"
+					"price": "7,10€"
 				}
 			]
 		},
@@ -55,37 +34,37 @@
 				{
 					"name": "Bone Crusher",
 					"ingredients": "Beefeater Gin, Havana Rum 3J, Triple Sec, Sour Mix, Cranberrysaft, Prosecco",
-					"price": "16,40€"
+					"price": "8,20€"
 				},
 				{
 					"name": "Lady Killer",
 					"ingredients": "Beefeater Gin, Grand Marnier, Apricot Brandy, Maracujasaft, Ananassaft",
-					"price": "16,40€"
+					"price": "8,20€"
 				},
 				{
 					"name": "Sex in Gerlingen",
 					"ingredients": "Smirnoff Vodka, Midori, Chambord, Orangensaft, Ananassaft",
-					"price": "16,60€"
+					"price": "8,30€"
 				},
 				{
 					"name": "Touch Down",
 					"ingredients": "Smirnoff Vodka, Apricot Brandy, Sour Mix, Lime Juice, Grenadine, Maracujasaft",
-					"price": "16.60€"
+					"price": "8,30€"
 				},
 				{
 					"name": "Pina Colada",
 					"ingredients": "Havana Club 3J, Kokossirup, Sahne, Ananassaft",
-					"price": "16,20€"
+					"price": "8,10€"
 				},
 				{
 					"name": "Mai Tai",
 					"ingredients": "Havana Club 3J, Havana Club Añejo Especial, Triple Sec, Mandelsirup, frisch gepresster Limettensaft, Orangensaft, Ananassaft",
-					"price": "16,60€"
+					"price": "8,30€"
 				},
 				{
 					"name": "Thailand",
 					"ingredients": "Havana Club 3J, Havana Club Añejo Especial, Apricot Brandy, frisch gepresster Limettensaft, Ananassaft, Orangensaft, Grenadine",
-					"price": "16,60€"
+					"price": "8,30€"
 				}
 			]
 		}
