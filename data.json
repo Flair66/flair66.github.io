@@ -24,6 +24,53 @@
 					"name": "Virgin Colada",
 					"ingredients": "Ananassaft, Kokossirup, Sahne",
 					"price": "7,10€"
+				},
+				{
+					"name": "Ipanema",
+					"ingredients": "Limetten, brauner Rohrzucker, Maracujasaft",
+					"price": "6,90"
+				}
+			]
+		},
+		{
+			"id": "bottlecaipirina",
+			"name": "Bottle Caipiriña",
+			"entries": [
+				{
+					"name": "Caipiriña",
+					"ingredients": "Limetten, brauner Rohrzucker, Sour Mix, Cachaça",
+					"price": "7,40€"
+				},
+				{
+					"name": "Tropical Caipiriña",
+					"ingredients": "Limetten, brauner Rohrzucker, Ananas, Kiwi, Cachaça",
+					"price": "7,80€"
+				},
+				{
+					"name": "Berrys Caipiriña",
+					"ingredients": "Limetten, brauner Rohrzucker, Erdbeerpüree, Himbeeren, Heidelbeeren, Brombeeren, Cachaça",
+					"price": "8,00€"
+				}
+			]
+		},
+		{
+			"id": "bottlemojito",
+			"name": "Bottle Mojito",
+			"entries": [
+				{
+					"name": "Mojito",
+					"ingredients": "Limetten, Zuckersirup, Pfefferminzblätter, Havana Club 3J, Soda",
+					"price": "7,70€"
+				},
+				{
+					"name": "Himbeeren Mojito",
+					"ingredients": "Limetten, Zuckersirup, Himbeerpüree, Pfefferminzblätter, Havana Club 3J, Soda",
+					"price": "7,80€"
+				},
+				{
+					"name": "Mango Mojito",
+					"ingredients": "Limetten, Zuckersirup, Mangopüree, Pfefferminzblätter, Havana Club 3J, Soda",
+					"price": "7,80€"
 				}
 			]
 		},
