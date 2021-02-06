@@ -7,8 +7,8 @@
 	},
 	"blocks": [
 		{
-			"id": "bottlecocktailsna",
-			"name": "Bottle Cocktails (Ohne Alkohol)",
+			"id": "bottledcocktailsna",
+			"name": "Bottled Cocktails (Ohne Alkohol)",
 			"entries": [
 				{
 					"name": "Crazy Beach",
@@ -33,8 +33,8 @@
 			]
 		},
 		{
-			"id": "bottlecaipirina",
-			"name": "Bottle Caipiriña",
+			"id": "bottledcaipirina",
+			"name": "Bottled Caipiriña",
 			"entries": [
 				{
 					"name": "Caipiriña",
@@ -54,8 +54,8 @@
 			]
 		},
 		{
-			"id": "bottlemojito",
-			"name": "Bottle Mojito",
+			"id": "bottledmojito",
+			"name": "Bottled Mojito",
 			"entries": [
 				{
 					"name": "Mojito",
@@ -75,8 +75,8 @@
 			]
 		},
 		{
-			"id": "bottlecocktails",
-			"name": "Bottle Cocktails",
+			"id": "bottledcocktails",
+			"name": "Bottled Cocktails",
 			"entries": [
 				{
 					"name": "Bone Crusher",
@@ -116,8 +116,8 @@
 			]
 		},
 		{
-			"id": "bottlelongdrinks",
-			"name": "Bottle Long Drinks",
+			"id": "bottledlongdrinks",
+			"name": "Bottled Long Drinks",
 			"entries": [
 				{
 					"name": "Cubra Libre",
