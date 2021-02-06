@@ -35,6 +35,7 @@
 		{
 			"id": "bottledlongdrinks",
 			"name": "Bottled Long Drinks",
+			"new": true,
 			"entries": [
 				{
 					"name": "Cubra Libre",
