@@ -7,28 +7,52 @@
 	},
 	"blocks": [
 		{
+			"id": "valentinstag",
+			"name": "Valentinstag Aktion",
+			"entries": [
+				{
+					"name": "Gemischter Aufschnitt-Käseteller",
+					"size": "incl. Brot",
+					"ingredients": "Prosciutto crudo, Soppressa, Spianata, Montasio DOP, Asiago DOP, Grana Padano DOP, Pecorino Romano",
+					"price": "17,90€"
+				},
+				{
+					"name": "Oliven",
+					"price": "5,90€"
+				},
+				{
+					"name": "Mix Beilage",
+					"price": "6,50€"
+				}
+			]
+		},
+		{
 			"id": "bottledcocktailsna",
 			"name": "Bottled Cocktails (Ohne Alkohol)",
 			"entries": [
 				{
 					"name": "Crazy Beach",
 					"ingredients": "Ananassaft, Orangensaft, Kokossirup, Erdbeerpüree",
-					"price": "6,80€"
+					"price": "6,80€",
+					"deposit": true
 				},
 				{
 					"name": "Tropical Breeze",
 					"ingredients": "Maracujasaft, Ananassaft, Orangensaft, Erdbeerpüree",
-					"price": "6,80€"
+					"price": "6,80€",
+					"deposit": true
 				},
 				{
 					"name": "Virgin Colada",
 					"ingredients": "Ananassaft, Kokossirup, Sahne",
-					"price": "7,10€"
+					"price": "7,10€",
+					"deposit": true
 				},
 				{
 					"name": "Ipanema",
 					"ingredients": "Limetten, brauner Rohrzucker, Maracujasaft",
-					"price": "6,90€"
+					"price": "6,90€",
+					"deposit": true
 				}
 			]
 		},
@@ -40,22 +64,26 @@
 				{
 					"name": "Cubra Libre",
 					"ingredients": "5cl Havana Club 3 Jahre, Coca Cola (0.2l), frische Limette",
-					"price": "8,00€"
+					"price": "8,00€",
+					"deposit": true
 				},
 				{
 					"name": "Vodka Bull",
 					"ingredients": "5cl Smirnoff Vodka, Red Bull (0.25l)",
-					"price": "8,70€"
+					"price": "8,70€",
+					"deposit": true
 				},
 				{
 					"name": "Vodka Lemon",
 					"ingredients": "5cl Smirnoff Vodka, Schweppes Bitter Lemon (0.2l), frische Zitrone",
-					"price": "7,80€"
+					"price": "7,80€",
+					"deposit": true
 				},
 				{
 					"name": "Vodka Tonic",
 					"ingredients":"5cl Smirnoff Vodka, Schweppes Tonic Water (0.2l), frische Limette",
-					"price": "7,80€"
+					"price": "7,80€",
+					"deposit": true
 				}
 			]
 		},
@@ -66,17 +94,20 @@
 				{
 					"name": "Caipiriña",
 					"ingredients": "Limetten, brauner Rohrzucker, Sour Mix, Cachaça",
-					"price": "7,40€"
+					"price": "7,40€",
+					"deposit": true
 				},
 				{
 					"name": "Tropical Caipiriña",
 					"ingredients": "Limetten, brauner Rohrzucker, Ananas, Kiwi, Cachaça",
-					"price": "7,80€"
+					"price": "7,80€",
+					"deposit": true
 				},
 				{
 					"name": "Berrys Caipiriña",
 					"ingredients": "Limetten, brauner Rohrzucker, Erdbeerpüree, Himbeeren, Heidelbeeren, Brombeeren, Cachaça",
-					"price": "8,10€"
+					"price": "8,10€",
+					"deposit": true
 				}
 			]
 		},
@@ -87,17 +118,20 @@
 				{
 					"name": "Mojito",
 					"ingredients": "Limetten, Zuckersirup, Pfefferminzblätter, Havana Club 3J, Soda",
-					"price": "7,70€"
+					"price": "7,70€",
+					"deposit": true
 				},
 				{
 					"name": "Himbeeren Mojito",
 					"ingredients": "Limetten, Zuckersirup, Himbeerpüree, Pfefferminzblätter, Havana Club 3J, Soda",
-					"price": "7,80€"
+					"price": "7,80€",
+					"deposit": true
 				},
 				{
 					"name": "Mango Mojito",
 					"ingredients": "Limetten, Zuckersirup, Mangopüree, Pfefferminzblätter, Havana Club 3J, Soda",
-					"price": "7,80€"
+					"price": "7,80€",
+					"deposit": true
 				}
 			]
 		},
@@ -108,37 +142,44 @@
 				{
 					"name": "Bone Crusher",
 					"ingredients": "Beefeater Gin, Havana Rum 3J, Triple Sec, Sour Mix, Cranberrysaft, Prosecco",
-					"price": "8,20€"
+					"price": "8,20€",
+					"deposit": true
 				},
 				{
 					"name": "Lady Killer",
 					"ingredients": "Beefeater Gin, Grand Marnier, Apricot Brandy, Maracujasaft, Ananassaft",
-					"price": "8,20€"
+					"price": "8,20€",
+					"deposit": true
 				},
 				{
 					"name": "Sex in Gerlingen",
 					"ingredients": "Smirnoff Vodka, Midori, Chambord, Orangensaft, Ananassaft",
-					"price": "8,30€"
+					"price": "8,30€",
+					"deposit": true
 				},
 				{
 					"name": "Touch Down",
 					"ingredients": "Smirnoff Vodka, Apricot Brandy, Sour Mix, Lime Juice, Grenadine, Maracujasaft",
-					"price": "8,30€"
+					"price": "8,30€",
+					"deposit": true
 				},
 				{
 					"name": "Pina Colada",
 					"ingredients": "Havana Club 3J, Kokossirup, Sahne, Ananassaft",
-					"price": "8,10€"
+					"price": "8,10€",
+					"deposit": true
 				},
 				{
 					"name": "Mai Tai",
 					"ingredients": "Havana Club 3J, Havana Club Añejo Especial, Triple Sec, Mandelsirup, frisch gepresster Limettensaft, Orangensaft, Ananassaft",
-					"price": "8,30€"
+					"price": "8,30€",
+					"deposit": true
 				},
 				{
 					"name": "Thailand",
 					"ingredients": "Havana Club 3J, Havana Club Añejo Especial, Apricot Brandy, frisch gepresster Limettensaft, Ananassaft, Orangensaft, Grenadine",
-					"price": "8,30€"
+					"price": "8,30€",
+					"deposit": true
 				}
 			]
 		}
