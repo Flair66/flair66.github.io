@@ -18,11 +18,12 @@
 				},
 				{
 					"name": "Oliven",
+					"ingredients": "italienische grüne und schwarze Oliven",
 					"price": "5,90€"
 				},
 				{
 					"name": "Mix Beilage",
-					"ingredients": "eingelegte Paprika, mit Frischkäse gefüllte Champignons, getrocknete Tomaten und Peperoni",
+					"ingredients": "eingelegte Paprika und Champignons mit Frischkäse gefüllt, getrocknete Tomaten und Peperoni",
 					"price": "6,50€"
 				}
 			]
