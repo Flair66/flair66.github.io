@@ -7,14 +7,21 @@
 	},
 	"blocks": [
 		{
-			"id": "valentinstag",
-			"name": "Valentinstag Aktion",
+			"id": "essen",
+			"name": "Essen",
+			"new": true,
 			"entries": [
 				{
 					"name": "Gemischter Aufschnitt-Käseteller",
 					"size": "incl. Brot",
-					"ingredients": "Prosciutto crudo, Soppressa, Spianata, südtiroler Speck, Montasio DOP, Asiago DOP, Grana Padano DOP, Pecorino Romano",
+					"ingredients": "<strong>Vorbestellung nötig!</strong> Prosciutto crudo, Soppressa, Spianata, südtiroler Speck, Montasio DOP, Asiago DOP, Grana Padano DOP, Pecorino Romano",
 					"price": "17,90€"
+				},
+				{
+					"name": "Großer gemischter Aufschnitt-Käseteller",
+					"size": "incl. Brot",
+					"ingredients": "<strong>Vorbestellung nötig!</strong> Prosciutto crudo, Soppressa, Spianata, südtiroler Speck, Montasio DOP, Asiago DOP, Grana Padano DOP, Pecorino Romano",
+					"price": "31,90€"
 				},
 				{
 					"name": "Oliven",
@@ -61,7 +68,6 @@
 		{
 			"id": "bottledlongdrinks",
 			"name": "Bottled Long Drinks",
-			"new": true,
 			"entries": [
 				{
 					"name": "Cubra Libre",
