@@ -40,6 +40,12 @@
 			"name": "Bottled Cocktails (Ohne Alkohol)",
 			"entries": [
 				{
+					"name": "Bitter Orange",
+					"ingredients": "Orangensaft, Sour Mix, Bitter Lemon",
+					"price": "6,50€",
+					"deposit": true
+				},
+				{
 					"name": "Crazy Beach",
 					"ingredients": "Ananassaft, Orangensaft, Kokossirup, Erdbeerpüree",
 					"price": "6,80€",
@@ -147,6 +153,12 @@
 			"id": "bottledcocktails",
 			"name": "Bottled Cocktails",
 			"entries": [
+				{
+					"name": "Lynchburg Lemonade",
+					"ingredients": "Jack Daniel's Whisky, Sour Mix, Triple Sec, Bitter Lemon",
+					"price": "8,30€",
+					"deposit": true
+				},
 				{
 					"name": "Bone Crusher",
 					"ingredients": "Beefeater Gin, Havana Rum 3J, Triple Sec, Sour Mix, Cranberrysaft, Prosecco",
