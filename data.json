@@ -178,6 +178,12 @@
 					"deposit": true
 				},
 				{
+					"name": "Sex on the Beach",
+					"ingredients": "Smirnoff Vodka, Pfirsichlikör, Cranberrysaft, Orangensaft",
+					"price": "8,30€",
+					"deposit": true
+				},
+				{
 					"name": "Touch Down",
 					"ingredients": "Smirnoff Vodka, Apricot Brandy, Sour Mix, Lime Juice, Grenadine, Maracujasaft",
 					"price": "8,30€",
